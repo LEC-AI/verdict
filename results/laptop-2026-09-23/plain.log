@@ -1,0 +1,44 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[transformers] [1mModernBertForSequenceClassification LOAD REPORT[0m from: answerdotai/ModernBERT-base
+Key               | Status     | 
+------------------+------------+-
+decoder.bias      | UNEXPECTED | 
+classifier.weight | MISSING    | 
+classifier.bias   | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+route_topic: acc=0.9305 f1=0.9293 ece=0.0244 (483s)
+[transformers] [1mModernBertForSequenceClassification LOAD REPORT[0m from: answerdotai/ModernBERT-base
+Key               | Status     | 
+------------------+------------+-
+decoder.bias      | UNEXPECTED | 
+classifier.weight | MISSING    | 
+classifier.bias   | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+signal_positive: acc=0.9438 f1=0.9438 ece=0.0348 (216s)
+[transformers] [1mModernBertForSequenceClassification LOAD REPORT[0m from: answerdotai/ModernBERT-base
+Key               | Status     | 
+------------------+------------+-
+decoder.bias      | UNEXPECTED | 
+classifier.weight | MISSING    | 
+classifier.bias   | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+affect: acc=0.9355 f1=0.9155 ece=0.0252 (233s)
+# R1 plain-classifier baseline — answerdotai/ModernBERT-base (per-task seq-classification head)
+
+| task | plain acc | plain macro-F1 | plain ECE | n |
+|---|---|---|---|---|
+| route_topic | 93.0% | 92.9% | 0.024 | 2000 |
+| signal_positive | 94.4% | 94.4% | 0.035 | 872 |
+| affect | 93.5% | 91.6% | 0.025 | 2000 |
+
+**Plain-head overall (n-weighted): 93.5%.** Compare per-task to Verdict (eval_orgbench.py); Verdict earns its keep if it matches/beats this AND is better calibrated with ONE shared model over arbitrary option sets.
+DONE

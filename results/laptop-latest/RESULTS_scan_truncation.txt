@@ -1,0 +1,4 @@
+race         test   n_cases= 1407 n_truncated=   0 worst_margin=615
+boolq        test   n_cases= 2938 n_truncated=   0 worst_margin=955
+multirc      test   n_cases=  344 n_truncated=   0 worst_margin=567
+typed_decisions test   n_cases=  400 n_truncated=   0 worst_margin=1194

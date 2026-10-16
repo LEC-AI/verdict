@@ -1,0 +1,25 @@
+{
+  "ckpt": "out/verdict-single-signal_positive",
+  "batch_size": 32,
+  "limit": 0,
+  "device": "cuda:0",
+  "tasks": {
+    "signal_positive": {
+      "acc": 0.8944954128440367,
+      "macro_f1": 0.8944598804411888,
+      "ece": 0.055792746877451525,
+      "n": 872,
+      "n_classes": 2,
+      "mean_latency_ms": 1.5554443636424242,
+      "p50_latency_ms": 1.5397763436340028
+    }
+  },
+  "overall": {
+    "acc": 0.8944954128440367,
+    "macro_f1": 0.8944598804411888,
+    "ece": 0.055792746877451525,
+    "n": 872,
+    "mean_latency_ms": 1.5554443636424242,
+    "p50_latency_ms": 1.5397763436340028
+  }
+}

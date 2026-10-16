@@ -1,0 +1,25 @@
+{
+  "ckpt": "out/verdict-single-affect",
+  "batch_size": 32,
+  "limit": 0,
+  "device": "cuda:0",
+  "tasks": {
+    "affect": {
+      "acc": 0.9215,
+      "macro_f1": 0.8950625636595347,
+      "ece": 0.032424700155854226,
+      "n": 2000,
+      "n_classes": 6,
+      "mean_latency_ms": 2.096767849965545,
+      "p50_latency_ms": 2.108750468778453
+    }
+  },
+  "overall": {
+    "acc": 0.9215,
+    "macro_f1": 0.8950625636595347,
+    "ece": 0.032424700155854226,
+    "n": 2000,
+    "mean_latency_ms": 2.096767849965545,
+    "p50_latency_ms": 2.108750468778453
+  }
+}

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+data/*
+out/
+logs/
+*.egg-info/
+!data/labels/
+data/jsonl_org/
+data/jsonl_orgcons/
+data/synth/

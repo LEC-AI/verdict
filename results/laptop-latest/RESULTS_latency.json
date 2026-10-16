@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "timestamp": "2026-09-22 18:18 UTC",
+    "ckpt": "out/verdict-base",
+    "endpoint": "http://localhost:11434/v1",
+    "llm_model": "qwen2.5:7b-instruct",
+    "n": 256,
+    "item_source": "cached OrgBench val splits",
+    "batch_sizes": [
+      1,
+      8,
+      32
+    ],
+    "warmup": 3,
+    "repeats": 3,
+    "dtype": "float32",
+    "torch": "2.11.0+cu130",
+    "cpu_threads": 24,
+    "gpu_name": "NVIDIA GeForce RTX 4090 Laptop GPU",
+    "llm_samples": 50,
+    "cost_note": "cloud_llm_usd_per_1k is user-supplied; derive as (input_tokens+output_tokens)/1000 * price_per_1k_tokens * 1000 decisions, or provider's per-request price * 1000."
+  },
+  "verdict": {
+    "cpu": {
+      "device_label": "cpu",
+      "dtype": "float32",
+      "by_batch": {
+        "1": {
+          "batch_size": 1,
+          "n": 256,
+          "ms_per_decision": 34.80395273437864,
+          "decisions_per_sec": 28.73236863731918,
+          "median_elapsed_s": 8.909811900000932,
+          "all_elapsed_s": [
+            8.683967906999897,
+            8.909811900000932,
+            9.215103126000031
+          ]
+        },
+        "8": {
+          "batch_size": 8,
+          "n": 256,
+          "ms_per_decision": 37.90909750780713,
+          "decisions_per_sec": 26.37889229080319,
+          "median_elapsed_s": 9.704728961998626,
+          "all_elapsed_s": [
+            9.591549830998702,
+            9.704728961998626,
+            9.727005922999524
+          ]
+        },
+        "32": {
+          "batch_size": 32,
+          "n": 256,
+          "ms_per_decision": 42.63341982812108,
+          "decisions_per_sec": 23.455777275938775,
+          "median_elapsed_s": 10.914155475998996,
+          "all_elapsed_s": [
+            10.895814503997826,
+            10.914155475998996,
+            10.941213596001035
+          ]
+        }
+      }
+    },
+    "cuda": {
+      "device_label": "cuda:NVIDIA GeForce RTX 4090 Laptop GPU",
+      "dtype": "float32",
+      "by_batch": {
+        "1": {
+          "batch_size": 1,
+          "n": 256,
+          "ms_per_decision": 5.195774863281599,
+          "decisions_per_sec": 192.46407442843088,
+          "median_elapsed_s": 1.3301183650000894,
+          "all_elapsed_s": [
+            1.3190120370018121,
+            1.3301183650000894,
+            1.3450086289994942
+          ]
+        },
+        "8": {
+          "batch_size": 8,
+          "n": 256,
+          "ms_per_decision": 2.3932323789068732,
+          "decisions_per_sec": 417.8449233821404,
+          "median_elapsed_s": 0.6126674890001595,
+          "all_elapsed_s": [
+            0.5981694250003784,
+            0.6126674890001595,
+            0.6131993359995249
+          ]
+        },
+        "32": {
+          "batch_size": 32,
+          "n": 256,
+          "ms_per_decision": 2.3930936601459507,
+          "decisions_per_sec": 417.869144302113,
+          "median_elapsed_s": 0.6126319769973634,
+          "all_elapsed_s": [
+            0.6108454469977005,
+            0.6126319769973634,
+            0.6126345619995845
+          ]
+        }
+      }
+    }
+  },
+  "llm_judge": {
+    "ok": true,
+    "n": 50,
+    "errors": 0,
+    "ms_per_decision_mean": 120.90647524011729,
+    "ms_per_decision_p50": 94.77820200118003,
+    "ms_per_decision_p90": 101.91495500112069,
+    "decisions_per_sec": 8.270855618063669
+  },
+  "cost": {
+    "verdict_usd_per_1k": 0.0,
+    "verdict_assumption": "amortized local compute assumed negligible (owned hardware, no per-call fee)",
+    "verdict_electricity_floor_usd_per_1k": 3.489928254379511e-05,
+    "verdict_electricity_basis": "350 W @ $0.15/kWh at 418 dec/s (cuda)",
+    "cloud_llm_usd_per_1k": 0.5
+  },
+  "headline": {
+    "verdict_batch1_ms": 5.195774863281599,
+    "verdict_batch1_device": "cuda",
+    "verdict_best_dps": 417.869144302113,
+    "verdict_best_device": "cuda",
+    "verdict_best_batch": 32,
+    "llm_ms": 120.90647524011729,
+    "llm_dps": 8.270855618063669,
+    "speedup_latency": 23.27015284949317,
+    "speedup_throughput": 50.523085349172426,
+    "cost_savings_per_1k": 0.5
+  }
+}

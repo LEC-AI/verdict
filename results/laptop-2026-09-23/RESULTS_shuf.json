@@ -1,0 +1,55 @@
+{
+  "ckpt": "out/verdict-base-shuf",
+  "batch_size": 32,
+  "limit": 0,
+  "device": "cuda:0",
+  "tasks": {
+    "route_topic": {
+      "acc": 0.903,
+      "macro_f1": 0.900935947402226,
+      "ece": 0.032871814891695925,
+      "n": 2000,
+      "n_classes": 4,
+      "mean_latency_ms": 3.3084489945103996,
+      "p50_latency_ms": 3.107669468590757,
+      "permute_acc": 0.903,
+      "permute_flip_rate": 0.0245,
+      "prompt_acc": 0.8775,
+      "prompt_flip_rate": 0.0585
+    },
+    "signal_positive": {
+      "acc": 0.7855504587155964,
+      "macro_f1": 0.7817546198332617,
+      "ece": 0.09805590515836661,
+      "n": 872,
+      "n_classes": 2,
+      "mean_latency_ms": 1.7686154311844586,
+      "p50_latency_ms": 1.7430890625291795,
+      "permute_acc": 0.7878440366972477,
+      "permute_flip_rate": 0.013761467889908258,
+      "prompt_acc": 0.7912844036697247,
+      "prompt_flip_rate": 0.0194954128440367
+    },
+    "affect": {
+      "acc": 0.9255,
+      "macro_f1": 0.901731678661711,
+      "ece": 0.012093683272600178,
+      "n": 2000,
+      "n_classes": 6,
+      "mean_latency_ms": 2.3435173595062224,
+      "p50_latency_ms": 2.3275773123714316,
+      "permute_acc": 0.926,
+      "permute_flip_rate": 0.0265,
+      "prompt_acc": 0.9165,
+      "prompt_flip_rate": 0.026
+    }
+  },
+  "overall": {
+    "acc": 0.8912151067323482,
+    "macro_f1": 0.8614740819657328,
+    "ece": 0.033769995200467584,
+    "n": 4872,
+    "mean_latency_ms": 2.636733449102236,
+    "p50_latency_ms": 2.4775879996923322
+  }
+}

@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Verdict: Encode Once, Decide Many"
+type: software
+version: 1.0.0
+date-released: 2026-10-16
+license: Apache-2.0
+repository-code: "https://github.com/LEC-AI/verdict"
+authors:
+  - family-names: Chouhan
+    given-names: Avdhesh Singh
+    affiliation: LEC AI
+  - family-names: Perry
+    given-names: Jack
+    affiliation: LEC AI
+preferred-citation:
+  type: article
+  title: "Verdict: Encode Once, Decide Many"
+  authors:
+    - family-names: Chouhan
+      given-names: Avdhesh Singh
+      affiliation: LEC AI
+    - family-names: Perry
+      given-names: Jack
+      affiliation: LEC AI
+  journal: "arXiv preprint"
+  year: 2026
+  identifiers:
+    - type: doi
+      value: "10.48550/arXiv.2610.20778"
+    - type: other
+      value: "arXiv:2610.20778"
+  url: "https://arxiv.org/abs/2610.20778"

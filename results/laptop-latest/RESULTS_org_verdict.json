@@ -1,0 +1,49 @@
+{
+  "ckpt": "out/verdict-org",
+  "batch_size": 16,
+  "limit": 0,
+  "device": "cuda:0",
+  "tasks": {
+    "email_needs_reply": {
+      "acc": 0.7832817337461301,
+      "macro_f1": 0.7576738403498242,
+      "ece": 0.0388176575902815,
+      "n": 323,
+      "n_classes": 2,
+      "mean_latency_ms": 11.56783360682807,
+      "p50_latency_ms": 11.623885437984427,
+      "permute_acc": 0.7770897832817337,
+      "permute_flip_rate": 0.018575851393188854
+    },
+    "email_escalate": {
+      "acc": 0.9884726224783862,
+      "macro_f1": 0.4971014492753623,
+      "ece": 0.14700861588678718,
+      "n": 347,
+      "n_classes": 2,
+      "mean_latency_ms": 11.635684213201483,
+      "p50_latency_ms": 11.649335499896551,
+      "permute_acc": 0.9884726224783862,
+      "permute_flip_rate": 0.0
+    },
+    "email_priority": {
+      "acc": 0.5526315789473685,
+      "macro_f1": 0.3960360738255033,
+      "ece": 0.13384862662407387,
+      "n": 228,
+      "n_classes": 4,
+      "mean_latency_ms": 11.701286758723558,
+      "p50_latency_ms": 11.685766625305405,
+      "permute_acc": 0.4605263157894737,
+      "permute_flip_rate": 0.19298245614035087
+    }
+  },
+  "overall": {
+    "acc": 0.8040089086859689,
+    "macro_f1": 0.5502704544835633,
+    "ece": 0.09937541654752463,
+    "n": 898,
+    "mean_latency_ms": 11.627935476587252,
+    "p50_latency_ms": 11.658553624329215
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "overall": 0.5855,
+  "ece": 0.06553757825493813,
+  "by_primitive": {
+    "choice": 0.6083333333333333,
+    "noul": 0.6983333333333334,
+    "score": 0.48375
+  },
+  "by_workflow": {
+    "agent_trace_observability": 0.68,
+    "customer_service": 0.478,
+    "invoice_processing": 0.568,
+    "security_incidents": 0.616
+  },
+  "n": 2000,
+  "card": {
+    "n": 2000,
+    "acc": 0.5855,
+    "soft_acc": 0.49948979123486853,
+    "macro_f1": 0.4400480073138473,
+    "kl": 0.2454490600433704,
+    "tv": 0.2553135566560814,
+    "brier": 0.14081815524336028,
+    "ece": 0.06553757825493813,
+    "score_mae": 0.45541051515187353,
+    "within1": 0.875
+  },
+  "permuted_overall": 0.3495
+}

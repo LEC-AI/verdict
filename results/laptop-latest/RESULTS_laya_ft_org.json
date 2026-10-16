@@ -1,0 +1,176 @@
+{
+  "history": [
+    [
+      "0-shot",
+      {
+        "email_needs_reply": {
+          "card": null,
+          "n": 323,
+          "skipped": 0,
+          "acc": 0.5386996904024768,
+          "macro_f1": 0.49400187145816027,
+          "ece_raw": 0.2992871217314304,
+          "ece_raw_oddhalf": 0.2951402834483556,
+          "ece_posthoc_oddhalf": 0.029317479696332995,
+          "T_posthoc": 45.06490707397461
+        },
+        "email_escalate": {
+          "card": null,
+          "n": 347,
+          "skipped": 0,
+          "acc": 0.899135446685879,
+          "macro_f1": 0.5003908017606647,
+          "ece_raw": 0.018701760500927107,
+          "ece_raw_oddhalf": 0.032176242742924334,
+          "ece_posthoc_oddhalf": 0.06524387880556844,
+          "T_posthoc": 1.242632269859314
+        },
+        "email_priority": {
+          "card": null,
+          "n": 228,
+          "skipped": 0,
+          "acc": 0.2631578947368421,
+          "macro_f1": 0.20479319876910237,
+          "ece_raw": 0.2212872543094451,
+          "ece_raw_oddhalf": 0.2415074920445158,
+          "ece_posthoc_oddhalf": 0.004393659401358219,
+          "T_posthoc": 33476.37890625
+        },
+        "overall": {
+          "n": 898,
+          "acc": 0.6080178173719376,
+          "macro_f1": 0.3997286239959758
+        }
+      }
+    ],
+    [
+      "ft-epoch0",
+      {
+        "email_needs_reply": {
+          "card": null,
+          "n": 323,
+          "skipped": 0,
+          "acc": 0.9164086687306502,
+          "macro_f1": 0.9083090639555056,
+          "ece_raw": 0.05721779246079301,
+          "ece_raw_oddhalf": 0.06298056596554592,
+          "ece_posthoc_oddhalf": 0.04619932655962358,
+          "T_posthoc": 1.5273303985595703
+        },
+        "email_escalate": {
+          "card": null,
+          "n": 347,
+          "skipped": 0,
+          "acc": 0.9769452449567724,
+          "macro_f1": 0.6608015640273704,
+          "ece_raw": 0.020924036028749322,
+          "ece_raw_oddhalf": 0.01726541284880885,
+          "ece_posthoc_oddhalf": 0.01161273538721777,
+          "T_posthoc": 0.8968695402145386
+        },
+        "email_priority": {
+          "card": null,
+          "n": 228,
+          "skipped": 0,
+          "acc": 0.7280701754385965,
+          "macro_f1": 0.526168147641832,
+          "ece_raw": 0.1365511800374901,
+          "ece_raw_oddhalf": 0.1261353189485115,
+          "ece_posthoc_oddhalf": 0.08085254618996066,
+          "T_posthoc": 1.5009948015213013
+        },
+        "overall": {
+          "n": 898,
+          "acc": 0.8919821826280624,
+          "macro_f1": 0.6984262585415694
+        }
+      }
+    ],
+    [
+      "ft-epoch1",
+      {
+        "email_needs_reply": {
+          "card": null,
+          "n": 323,
+          "skipped": 0,
+          "acc": 0.9380804953560371,
+          "macro_f1": 0.930122879889235,
+          "ece_raw": 0.05911441428742547,
+          "ece_raw_oddhalf": 0.06474879624680707,
+          "ece_posthoc_oddhalf": 0.04003636141001066,
+          "T_posthoc": 2.1925957202911377
+        },
+        "email_escalate": {
+          "card": null,
+          "n": 347,
+          "skipped": 0,
+          "acc": 0.9855907780979827,
+          "macro_f1": 0.6392181326679144,
+          "ece_raw": 0.012716280108570031,
+          "ece_raw_oddhalf": 0.014633984579516368,
+          "ece_posthoc_oddhalf": 0.010883038443636982,
+          "T_posthoc": 1.2221120595932007
+        },
+        "email_priority": {
+          "card": null,
+          "n": 228,
+          "skipped": 0,
+          "acc": 0.8026315789473685,
+          "macro_f1": 0.7787444482594394,
+          "ece_raw": 0.1518571549340299,
+          "ece_raw_oddhalf": 0.14643373693290512,
+          "ece_posthoc_oddhalf": 0.08941755535309776,
+          "T_posthoc": 2.296562433242798
+        },
+        "overall": {
+          "n": 898,
+          "acc": 0.9220489977728286,
+          "macro_f1": 0.7826951536055295
+        }
+      }
+    ],
+    [
+      "ft-epoch2",
+      {
+        "email_needs_reply": {
+          "card": null,
+          "n": 323,
+          "skipped": 0,
+          "acc": 0.934984520123839,
+          "macro_f1": 0.9268008417417579,
+          "ece_raw": 0.0630685869754283,
+          "ece_raw_oddhalf": 0.07213780154352605,
+          "ece_posthoc_oddhalf": 0.02916905709675382,
+          "T_posthoc": 3.0431156158447266
+        },
+        "email_escalate": {
+          "card": null,
+          "n": 347,
+          "skipped": 0,
+          "acc": 0.9510086455331412,
+          "macro_f1": 0.5826080803792543,
+          "ece_raw": 0.04975374442356115,
+          "ece_raw_oddhalf": 0.04773882014213955,
+          "ece_posthoc_oddhalf": 0.02901462840207052,
+          "T_posthoc": 2.548248291015625
+        },
+        "email_priority": {
+          "card": null,
+          "n": 228,
+          "skipped": 0,
+          "acc": 0.8026315789473685,
+          "macro_f1": 0.5952457695406931,
+          "ece_raw": 0.18120785253612626,
+          "ece_raw_oddhalf": 0.18078919042620742,
+          "ece_posthoc_oddhalf": 0.07259474276450639,
+          "T_posthoc": 2.904829740524292
+        },
+        "overall": {
+          "n": 898,
+          "acc": 0.9075723830734966,
+          "macro_f1": 0.701551563887235
+        }
+      }
+    ]
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "latency_ms_per_case": {
+    "packed@1": 8.518774507820126,
+    "one-question-per-pass@1": 8.480807984369676,
+    "packed@8": 3.2649231561663328,
+    "one-question-per-pass@8": 3.6241960935967654
+  }
+}

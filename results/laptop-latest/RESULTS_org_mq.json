@@ -1,0 +1,20 @@
+{
+  "email_needs_reply@data/jsonl_orgcons": {
+    "n": 323,
+    "acc": 0.9102167182662538,
+    "macro_f1": 0.8989154481195705,
+    "ece": 0.07901374825014047
+  },
+  "email_escalate@data/jsonl_orgcons": {
+    "n": 347,
+    "acc": 0.968299711815562,
+    "macro_f1": 0.6252331860579283,
+    "ece": 0.026719422951898896
+  },
+  "email_priority@data/jsonl_orgcons": {
+    "n": 228,
+    "acc": 0.8070175438596491,
+    "macro_f1": 0.7879337593623307,
+    "ece": 0.1481989292722
+  }
+}

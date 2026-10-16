@@ -1,0 +1,25 @@
+{
+  "ckpt": "out/verdict-single-route_topic",
+  "batch_size": 32,
+  "limit": 0,
+  "device": "cuda:0",
+  "tasks": {
+    "route_topic": {
+      "acc": 0.9085,
+      "macro_f1": 0.9069154385278091,
+      "ece": 0.028343076989054673,
+      "n": 2000,
+      "n_classes": 4,
+      "mean_latency_ms": 3.031740546510264,
+      "p50_latency_ms": 2.899963312302134
+    }
+  },
+  "overall": {
+    "acc": 0.9085,
+    "macro_f1": 0.9069154385278091,
+    "ece": 0.028343076989054673,
+    "n": 2000,
+    "mean_latency_ms": 3.031740546510264,
+    "p50_latency_ms": 2.899963312302134
+  }
+}

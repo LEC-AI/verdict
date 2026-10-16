@@ -1,0 +1,31 @@
+=== RACE ===
+Jev: 4766 items succeeded, full-subset acc 93.3%
+Verdict-MQ s0: n=4934 full acc 77.8% | common subset n=4766 (excluded 168, 3.4%) acc 77.9%
+Verdict-MQ s1: n=4934 full acc 77.1% | common subset n=4766 (excluded 168, 3.4%) acc 77.1%
+Verdict-MQ s2: n=4934 full acc 77.4% | common subset n=4766 (excluded 168, 3.4%) acc 77.5%
+Baseline s0: n=4934 full acc 79.0% | common subset n=4766 (excluded 168, 3.4%) acc 79.1%
+Baseline s1: n=4934 full acc 78.7% | common subset n=4766 (excluded 168, 3.4%) acc 78.8%
+Baseline s2: n=4934 full acc 79.0% | common subset n=4766 (excluded 168, 3.4%) acc 79.1%
+Laya: n=4934 full acc 45.5% | common subset n=4766 (excluded 168, 3.4%) acc 45.6%
+=== BoolQ ===
+Jev: 3200 items succeeded, full-subset acc 91.3%
+Verdict-MQ s0: n=3270 full acc 79.2% | common subset n=3200 (excluded 70, 2.1%) acc 79.1%
+Verdict-MQ s1: n=3270 full acc 72.3% | common subset n=3200 (excluded 70, 2.1%) acc 72.1%
+Verdict-MQ s2: n=3270 full acc 74.1% | common subset n=3200 (excluded 70, 2.1%) acc 74.1%
+Verdict-MQ s3: n=3270 full acc 76.0% | common subset n=3200 (excluded 70, 2.1%) acc 75.9%
+Verdict-MQ s4: n=3270 full acc 79.4% | common subset n=3200 (excluded 70, 2.1%) acc 79.4%
+Baseline s0: n=3270 full acc 81.4% | common subset n=3200 (excluded 70, 2.1%) acc 81.4%
+Baseline s1: n=3270 full acc 82.2% | common subset n=3200 (excluded 70, 2.1%) acc 82.2%
+Baseline s2: n=3270 full acc 80.2% | common subset n=3200 (excluded 70, 2.1%) acc 80.3%
+Baseline s3: n=3270 full acc 81.7% | common subset n=3200 (excluded 70, 2.1%) acc 81.7%
+Baseline s4: n=3270 full acc 80.0% | common subset n=3200 (excluded 70, 2.1%) acc 80.0%
+Laya: n=3270 full acc 76.0% | common subset n=3200 (excluded 70, 2.1%) acc 76.2%
+=== MultiRC ===
+Jev: 4688 items succeeded, full-subset acc 90.0%
+Verdict-MQ s0: n=4847 full acc 80.1% | common subset n=4688 (excluded 159, 3.3%) acc 80.3%
+Verdict-MQ s1: n=4847 full acc 81.1% | common subset n=4688 (excluded 159, 3.3%) acc 81.2%
+Verdict-MQ s2: n=4847 full acc 80.5% | common subset n=4688 (excluded 159, 3.3%) acc 80.8%
+Baseline s0: n=4847 full acc 66.4% | common subset n=4688 (excluded 159, 3.3%) acc 66.4%
+Baseline s1: n=4847 full acc 75.9% | common subset n=4688 (excluded 159, 3.3%) acc 76.0%
+Baseline s2: n=4847 full acc 72.6% | common subset n=4688 (excluded 159, 3.3%) acc 72.7%
+Laya: n=4847 full acc 54.9% | common subset n=4688 (excluded 159, 3.3%) acc 54.9%

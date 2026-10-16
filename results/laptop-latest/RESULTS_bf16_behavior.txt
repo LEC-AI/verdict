@@ -1,0 +1,4 @@
+checkpoint=out/stable-cls-s42 device=cuda n_cases=400 n_decisions=2000 tau=0.5204963088035583
+[fp32 vs bf16, same grouping]      argmax flips: 6/2000 | tau-crossings: 5/2000
+[bf16, option permutation]         argmax flips: 0/400 | tau-crossings: 0/400
+[bf16, alone vs packed]            argmax flips: 0/400 | tau-crossings: 3/400

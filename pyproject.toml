@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "verdict-mq"
+version = "1.0.0"
+description = "Verdict: encode once, decide many. A packed typed-decision encoder (choice/noul/score) with invariance by construction."
+readme = "README.md"
+license = { text = "Apache-2.0" }
+authors = [{ name = "Avdhesh Singh Chouhan", email = "avdhesh.chouhan@lecai.ai" }, { name = "Jack Perry", email = "jack@lecai.ai" }]
+requires-python = ">=3.10"
+# Tested with torch 2.11, transformers 5.17, datasets 4.8 (the versions used for every number in the paper).
+dependencies = ["torch>=2.11", "transformers>=5.17,<6", "datasets>=4.8"]
+
+[project.optional-dependencies]
+baselines = ["laya==0.3.5", "requests"]
+
+[tool.setuptools.packages.find]
+include = ["verdict*"]

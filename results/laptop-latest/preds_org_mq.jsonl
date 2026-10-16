@@ -1,0 +1,898 @@
+{"task": "email_needs_reply", "idx": "8c89852755f50e8d", "gold": 0, "pred": 0, "conf": 0.9996800422668457, "hit": 1, "probs": [0.9996800422668457, 0.0003199982747901231]}
+{"task": "email_needs_reply", "idx": "8a9ded6092a0ef37", "gold": 1, "pred": 1, "conf": 0.9999749660491943, "hit": 1, "probs": [2.5071594791370444e-05, 0.9999749660491943]}
+{"task": "email_needs_reply", "idx": "9e598b291bed0cb2", "gold": 0, "pred": 0, "conf": 0.9986114501953125, "hit": 1, "probs": [0.9986114501953125, 0.0013885233784094453]}
+{"task": "email_needs_reply", "idx": "cba81cee237d786e", "gold": 0, "pred": 0, "conf": 0.9998726844787598, "hit": 1, "probs": [0.9998726844787598, 0.00012731103925034404]}
+{"task": "email_needs_reply", "idx": "3c8e01123f52f449", "gold": 1, "pred": 1, "conf": 0.9945307374000549, "hit": 1, "probs": [0.005469274707138538, 0.9945307374000549]}
+{"task": "email_needs_reply", "idx": "e27f4f31262daccb", "gold": 0, "pred": 0, "conf": 0.9999274015426636, "hit": 1, "probs": [0.9999274015426636, 7.254361844388768e-05]}
+{"task": "email_needs_reply", "idx": "95a0207de4356b59", "gold": 0, "pred": 0, "conf": 0.9996594190597534, "hit": 1, "probs": [0.9996594190597534, 0.0003406293108128011]}
+{"task": "email_needs_reply", "idx": "4723c40049c5aeb7", "gold": 0, "pred": 0, "conf": 0.999555766582489, "hit": 1, "probs": [0.999555766582489, 0.0004442183708306402]}
+{"task": "email_needs_reply", "idx": "ae90ddf9c99ce146", "gold": 0, "pred": 0, "conf": 0.9998511075973511, "hit": 1, "probs": [0.9998511075973511, 0.00014883847325108945]}
+{"task": "email_needs_reply", "idx": "9f7d24fdc58cd388", "gold": 0, "pred": 1, "conf": 0.997992753982544, "hit": 0, "probs": [0.0020072420593351126, 0.997992753982544]}
+{"task": "email_needs_reply", "idx": "fb821d5610b3c583", "gold": 0, "pred": 0, "conf": 0.9997997879981995, "hit": 1, "probs": [0.9997997879981995, 0.00020027378923259676]}
+{"task": "email_needs_reply", "idx": "ddc2575d85f0ba85", "gold": 1, "pred": 1, "conf": 0.9998148083686829, "hit": 1, "probs": [0.00018522574100643396, 0.9998148083686829]}
+{"task": "email_needs_reply", "idx": "bd3579182ab188d7", "gold": 0, "pred": 0, "conf": 0.9975466132164001, "hit": 1, "probs": [0.9975466132164001, 0.002453428227454424]}
+{"task": "email_needs_reply", "idx": "479094769683ecae", "gold": 0, "pred": 0, "conf": 0.9997175335884094, "hit": 1, "probs": [0.9997175335884094, 0.0002824080875143409]}
+{"task": "email_needs_reply", "idx": "16c1117f409deabc", "gold": 0, "pred": 0, "conf": 0.9667888283729553, "hit": 1, "probs": [0.9667888283729553, 0.03321116790175438]}
+{"task": "email_needs_reply", "idx": "d8d6b73a2b075197", "gold": 1, "pred": 1, "conf": 0.9998028874397278, "hit": 1, "probs": [0.00019716942915692925, 0.9998028874397278]}
+{"task": "email_needs_reply", "idx": "1595dc2ea4e67071", "gold": 0, "pred": 0, "conf": 0.9992327690124512, "hit": 1, "probs": [0.9992327690124512, 0.0007672925130464137]}
+{"task": "email_needs_reply", "idx": "413cc955d075a2e0", "gold": 0, "pred": 0, "conf": 0.9998148083686829, "hit": 1, "probs": [0.9998148083686829, 0.00018522574100643396]}
+{"task": "email_needs_reply", "idx": "d17c5d47eb704a77", "gold": 1, "pred": 0, "conf": 0.9982725381851196, "hit": 0, "probs": [0.9982725381851196, 0.0017274586716666818]}
+{"task": "email_needs_reply", "idx": "75e34aed19a3a657", "gold": 1, "pred": 1, "conf": 0.9996079802513123, "hit": 1, "probs": [0.0003920417802873999, 0.9996079802513123]}
+{"task": "email_needs_reply", "idx": "d3b8b5de2ce97869", "gold": 1, "pred": 0, "conf": 0.9956005811691284, "hit": 0, "probs": [0.9956005811691284, 0.004399413242936134]}
+{"task": "email_needs_reply", "idx": "6053e2669f929ac2", "gold": 0, "pred": 1, "conf": 0.5698526501655579, "hit": 0, "probs": [0.43014732003211975, 0.5698526501655579]}
+{"task": "email_needs_reply", "idx": "9299fa1525c7eacc", "gold": 0, "pred": 0, "conf": 0.9985895752906799, "hit": 1, "probs": [0.9985895752906799, 0.0014103584690019488]}
+{"task": "email_needs_reply", "idx": "6e7899d1ae459876", "gold": 0, "pred": 0, "conf": 0.9990600943565369, "hit": 1, "probs": [0.9990600943565369, 0.0009399440023116767]}
+{"task": "email_needs_reply", "idx": "8d6dc6ace0d281d3", "gold": 0, "pred": 1, "conf": 0.9489172697067261, "hit": 0, "probs": [0.05108273774385452, 0.9489172697067261]}
+{"task": "email_needs_reply", "idx": "3f9fbe9bb6222331", "gold": 0, "pred": 0, "conf": 0.9856076240539551, "hit": 1, "probs": [0.9856076240539551, 0.014392335899174213]}
+{"task": "email_needs_reply", "idx": "3f2b59bed793d9e7", "gold": 0, "pred": 0, "conf": 0.9998028874397278, "hit": 1, "probs": [0.9998028874397278, 0.00019716942915692925]}
+{"task": "email_needs_reply", "idx": "ffda428081c6e233", "gold": 0, "pred": 0, "conf": 0.9995272159576416, "hit": 1, "probs": [0.9995272159576416, 0.00047285447362810373]}
+{"task": "email_needs_reply", "idx": "9d9600ab5f2877eb", "gold": 1, "pred": 1, "conf": 0.9996259212493896, "hit": 1, "probs": [0.00037409563083201647, 0.9996259212493896]}
+{"task": "email_needs_reply", "idx": "7b51aca867b52bb4", "gold": 1, "pred": 1, "conf": 0.9999023675918579, "hit": 1, "probs": [9.7615658887662e-05, 0.9999023675918579]}
+{"task": "email_needs_reply", "idx": "8d9ef088e7a031fe", "gold": 1, "pred": 1, "conf": 0.9998706579208374, "hit": 1, "probs": [0.00012931565288454294, 0.9998706579208374]}
+{"task": "email_needs_reply", "idx": "7380a32077ae14da", "gold": 1, "pred": 1, "conf": 0.9999443292617798, "hit": 1, "probs": [5.562206206377596e-05, 0.9999443292617798]}
+{"task": "email_needs_reply", "idx": "85196fa392729695", "gold": 0, "pred": 0, "conf": 0.9998557567596436, "hit": 1, "probs": [0.9998557567596436, 0.0001442598586436361]}
+{"task": "email_needs_reply", "idx": "0429c9262e269b90", "gold": 1, "pred": 1, "conf": 0.9956685304641724, "hit": 1, "probs": [0.004331502132117748, 0.9956685304641724]}
+{"task": "email_needs_reply", "idx": "bdbd629164beb8f1", "gold": 0, "pred": 0, "conf": 0.9995761513710022, "hit": 1, "probs": [0.9995761513710022, 0.00042388474685139954]}
+{"task": "email_needs_reply", "idx": "7177176a4ef0d1a1", "gold": 1, "pred": 1, "conf": 0.9990673661231995, "hit": 1, "probs": [0.00093263597227633, 0.9990673661231995]}
+{"task": "email_needs_reply", "idx": "ef432be9a705f603", "gold": 0, "pred": 0, "conf": 0.99935382604599, "hit": 1, "probs": [0.99935382604599, 0.0006462032906711102]}
+{"task": "email_needs_reply", "idx": "5cd654f6363e4b85", "gold": 0, "pred": 0, "conf": 0.9995761513710022, "hit": 1, "probs": [0.9995761513710022, 0.00042388474685139954]}
+{"task": "email_needs_reply", "idx": "5b5f21c64170f6e8", "gold": 0, "pred": 0, "conf": 0.9997997879981995, "hit": 1, "probs": [0.9997997879981995, 0.00020027378923259676]}
+{"task": "email_needs_reply", "idx": "238eb3a2b6d055f6", "gold": 0, "pred": 0, "conf": 0.999045193195343, "hit": 1, "probs": [0.999045193195343, 0.000954731716774404]}
+{"task": "email_needs_reply", "idx": "2e92183450fd092b", "gold": 1, "pred": 1, "conf": 0.9998028874397278, "hit": 1, "probs": [0.00019716942915692925, 0.9998028874397278]}
+{"task": "email_needs_reply", "idx": "f1758e29f1d45941", "gold": 0, "pred": 0, "conf": 0.9995417594909668, "hit": 1, "probs": [0.9995417594909668, 0.0004583129193633795]}
+{"task": "email_needs_reply", "idx": "51e8272053f36eca", "gold": 0, "pred": 0, "conf": 0.9996485710144043, "hit": 1, "probs": [0.9996485710144043, 0.0003514382697176188]}
+{"task": "email_needs_reply", "idx": "112b775e1819fffa", "gold": 0, "pred": 0, "conf": 0.9995417594909668, "hit": 1, "probs": [0.9995417594909668, 0.0004583129193633795]}
+{"task": "email_needs_reply", "idx": "adc61ae4a15b044e", "gold": 0, "pred": 0, "conf": 0.9923043847084045, "hit": 1, "probs": [0.9923043847084045, 0.007695647422224283]}
+{"task": "email_needs_reply", "idx": "dc1ad0c7a7da6f9b", "gold": 0, "pred": 0, "conf": 0.9948603510856628, "hit": 1, "probs": [0.9948603510856628, 0.005139611195772886]}
+{"task": "email_needs_reply", "idx": "ed67d4a2aad4cac7", "gold": 0, "pred": 0, "conf": 0.9999039173126221, "hit": 1, "probs": [0.9999039173126221, 9.610241977497935e-05]}
+{"task": "email_needs_reply", "idx": "ed67d4a2aad4cac7", "gold": 0, "pred": 0, "conf": 0.9999068975448608, "hit": 1, "probs": [0.9999068975448608, 9.314593626186252e-05]}
+{"task": "email_needs_reply", "idx": "0bdd7b544e3e63a8", "gold": 0, "pred": 0, "conf": 0.999045193195343, "hit": 1, "probs": [0.999045193195343, 0.000954731716774404]}
+{"task": "email_needs_reply", "idx": "2f6466b255d2d7e0", "gold": 0, "pred": 0, "conf": 0.9994966983795166, "hit": 1, "probs": [0.9994966983795166, 0.0005033356137573719]}
+{"task": "email_needs_reply", "idx": "384722a96afd7080", "gold": 1, "pred": 1, "conf": 0.9999151229858398, "hit": 1, "probs": [8.481103577651083e-05, 0.9999151229858398]}
+{"task": "email_needs_reply", "idx": "5aa79677e341044a", "gold": 1, "pred": 1, "conf": 0.999762237071991, "hit": 1, "probs": [0.00023782205244060606, 0.999762237071991]}
+{"task": "email_needs_reply", "idx": "4377cd13682b34ef", "gold": 1, "pred": 1, "conf": 0.9998745918273926, "hit": 1, "probs": [0.00012533750850707293, 0.9998745918273926]}
+{"task": "email_needs_reply", "idx": "ff8d072f4c6550bf", "gold": 0, "pred": 0, "conf": 0.9999068975448608, "hit": 1, "probs": [0.9999068975448608, 9.314593626186252e-05]}
+{"task": "email_needs_reply", "idx": "7a7313d743951317", "gold": 0, "pred": 0, "conf": 0.6876299977302551, "hit": 1, "probs": [0.6876299977302551, 0.3123700022697449]}
+{"task": "email_needs_reply", "idx": "5b841fc680599f1b", "gold": 0, "pred": 0, "conf": 0.9997901320457458, "hit": 1, "probs": [0.9997901320457458, 0.0002098830882459879]}
+{"task": "email_needs_reply", "idx": "67292fa0cebaecba", "gold": 0, "pred": 0, "conf": 0.9991440773010254, "hit": 1, "probs": [0.9991440773010254, 0.0008559006382711232]}
+{"task": "email_needs_reply", "idx": "ef6184d7a872529a", "gold": 0, "pred": 0, "conf": 0.9988574981689453, "hit": 1, "probs": [0.9988574981689453, 0.0011424494441598654]}
+{"task": "email_needs_reply", "idx": "1e64e9cd0d4a4500", "gold": 0, "pred": 0, "conf": 0.9988304972648621, "hit": 1, "probs": [0.9988304972648621, 0.0011695101857185364]}
+{"task": "email_needs_reply", "idx": "8c590d72928e30ff", "gold": 0, "pred": 0, "conf": 0.9997965693473816, "hit": 1, "probs": [0.9997965693473816, 0.00020342697098385543]}
+{"task": "email_needs_reply", "idx": "dbd4fd5367789781", "gold": 1, "pred": 1, "conf": 0.9995417594909668, "hit": 1, "probs": [0.0004583129193633795, 0.9995417594909668]}
+{"task": "email_needs_reply", "idx": "08c35da133211058", "gold": 0, "pred": 0, "conf": 0.9991440773010254, "hit": 1, "probs": [0.9991440773010254, 0.0008559006382711232]}
+{"task": "email_needs_reply", "idx": "cf0a0e9ce3db311a", "gold": 0, "pred": 0, "conf": 0.9967774748802185, "hit": 1, "probs": [0.9967774748802185, 0.0032224839087575674]}
+{"task": "email_needs_reply", "idx": "8b02516c28636af9", "gold": 0, "pred": 0, "conf": 0.9994115829467773, "hit": 1, "probs": [0.9994115829467773, 0.0005884087877348065]}
+{"task": "email_needs_reply", "idx": "c59d15701da82313", "gold": 0, "pred": 0, "conf": 0.9996079802513123, "hit": 1, "probs": [0.9996079802513123, 0.0003920417802873999]}
+{"task": "email_needs_reply", "idx": "3d19cd60cd878010", "gold": 0, "pred": 0, "conf": 0.9992678761482239, "hit": 1, "probs": [0.9992678761482239, 0.0007321813027374446]}
+{"task": "email_needs_reply", "idx": "9120840b7d751c76", "gold": 0, "pred": 0, "conf": 0.9996699094772339, "hit": 1, "probs": [0.9996699094772339, 0.0003301527176517993]}
+{"task": "email_needs_reply", "idx": "4989c966969e1320", "gold": 0, "pred": 0, "conf": 0.9996429681777954, "hit": 1, "probs": [0.9996429681777954, 0.0003569705877453089]}
+{"task": "email_needs_reply", "idx": "1bb0e29ea318fbd4", "gold": 0, "pred": 0, "conf": 0.9992327690124512, "hit": 1, "probs": [0.9992327690124512, 0.0007672925130464137]}
+{"task": "email_needs_reply", "idx": "060ffac0ceca7d85", "gold": 1, "pred": 1, "conf": 0.9994296431541443, "hit": 1, "probs": [0.0005703156930394471, 0.9994296431541443]}
+{"task": "email_needs_reply", "idx": "2a5ed1414d1a7418", "gold": 1, "pred": 1, "conf": 0.999555766582489, "hit": 1, "probs": [0.0004442183708306402, 0.999555766582489]}
+{"task": "email_needs_reply", "idx": "193ae60d928fc327", "gold": 1, "pred": 1, "conf": 0.9997387528419495, "hit": 1, "probs": [0.00026119028916582465, 0.9997387528419495]}
+{"task": "email_needs_reply", "idx": "a481fbd6a4870f2f", "gold": 0, "pred": 0, "conf": 0.9978001713752747, "hit": 1, "probs": [0.9978001713752747, 0.0021997978910803795]}
+{"task": "email_needs_reply", "idx": "71ce121d175784e1", "gold": 1, "pred": 1, "conf": 0.999783456325531, "hit": 1, "probs": [0.00021654403826687485, 0.999783456325531]}
+{"task": "email_needs_reply", "idx": "134f93cf66066095", "gold": 0, "pred": 0, "conf": 0.9997428059577942, "hit": 1, "probs": [0.9997428059577942, 0.00025714197545312345]}
+{"task": "email_needs_reply", "idx": "a2ab6bc18b034c70", "gold": 1, "pred": 1, "conf": 0.9997867941856384, "hit": 1, "probs": [0.0002131875662598759, 0.9997867941856384]}
+{"task": "email_needs_reply", "idx": "1847a8dbe691d48a", "gold": 1, "pred": 1, "conf": 0.9996699094772339, "hit": 1, "probs": [0.0003301527176517993, 0.9996699094772339]}
+{"task": "email_needs_reply", "idx": "b59bd8145d8786c8", "gold": 0, "pred": 1, "conf": 0.9994471669197083, "hit": 0, "probs": [0.000552778597921133, 0.9994471669197083]}
+{"task": "email_needs_reply", "idx": "27f35ffd97789c5c", "gold": 0, "pred": 0, "conf": 0.999783456325531, "hit": 1, "probs": [0.999783456325531, 0.00021654403826687485]}
+{"task": "email_needs_reply", "idx": "27f35ffd97789c5c", "gold": 0, "pred": 0, "conf": 0.9997765421867371, "hit": 1, "probs": [0.9997765421867371, 0.0002234163403045386]}
+{"task": "email_needs_reply", "idx": "4e5c86d41cbda7fa", "gold": 1, "pred": 1, "conf": 0.9997387528419495, "hit": 1, "probs": [0.00026119028916582465, 0.9997387528419495]}
+{"task": "email_needs_reply", "idx": "6a36467881d81e86", "gold": 0, "pred": 0, "conf": 0.999919056892395, "hit": 1, "probs": [0.999919056892395, 8.092757343547419e-05]}
+{"task": "email_needs_reply", "idx": "2f8e60fccf6c6a14", "gold": 0, "pred": 0, "conf": 0.9998977184295654, "hit": 1, "probs": [0.9998977184295654, 0.00010229985491605476]}
+{"task": "email_needs_reply", "idx": "0f2292914cfe1c52", "gold": 0, "pred": 0, "conf": 0.9998028874397278, "hit": 1, "probs": [0.9998028874397278, 0.00019716942915692925]}
+{"task": "email_needs_reply", "idx": "d8b883483e072d88", "gold": 1, "pred": 1, "conf": 0.9985895752906799, "hit": 1, "probs": [0.0014103584690019488, 0.9985895752906799]}
+{"task": "email_needs_reply", "idx": "22e61b335bb79485", "gold": 0, "pred": 0, "conf": 0.9997040629386902, "hit": 1, "probs": [0.9997040629386902, 0.0002959571429528296]}
+{"task": "email_needs_reply", "idx": "322064ee2207a3b5", "gold": 0, "pred": 0, "conf": 0.9991958737373352, "hit": 1, "probs": [0.9991958737373352, 0.0008040859247557819]}
+{"task": "email_needs_reply", "idx": "42214a47c9c4c2cb", "gold": 1, "pred": 1, "conf": 0.9998028874397278, "hit": 1, "probs": [0.00019716942915692925, 0.9998028874397278]}
+{"task": "email_needs_reply", "idx": "a588f3988b8a9f1e", "gold": 0, "pred": 0, "conf": 0.9998028874397278, "hit": 1, "probs": [0.9998028874397278, 0.00019716942915692925]}
+{"task": "email_needs_reply", "idx": "1510842c9347f467", "gold": 1, "pred": 1, "conf": 0.9984632730484009, "hit": 1, "probs": [0.001536727068014443, 0.9984632730484009]}
+{"task": "email_needs_reply", "idx": "80e69bc0f6b4fe74", "gold": 0, "pred": 1, "conf": 0.9998089671134949, "hit": 0, "probs": [0.00019110430730506778, 0.9998089671134949]}
+{"task": "email_needs_reply", "idx": "f88d7633f6691d09", "gold": 1, "pred": 1, "conf": 0.9996079802513123, "hit": 1, "probs": [0.0003920417802873999, 0.9996079802513123]}
+{"task": "email_needs_reply", "idx": "13b33bfccf517c2c", "gold": 0, "pred": 0, "conf": 0.9998859167098999, "hit": 1, "probs": [0.9998859167098999, 0.00011412239837227389]}
+{"task": "email_needs_reply", "idx": "0886cadcd73561ce", "gold": 1, "pred": 1, "conf": 0.9987157583236694, "hit": 1, "probs": [0.0012843082658946514, 0.9987157583236694]}
+{"task": "email_needs_reply", "idx": "d92603771da57dd9", "gold": 0, "pred": 0, "conf": 0.9998601675033569, "hit": 1, "probs": [0.9998601675033569, 0.0001398220774717629]}
+{"task": "email_needs_reply", "idx": "17fd9f13dccd8647", "gold": 0, "pred": 0, "conf": 0.999841570854187, "hit": 1, "probs": [0.999841570854187, 0.00015843621804378927]}
+{"task": "email_needs_reply", "idx": "53c05aa8e2a18168", "gold": 0, "pred": 0, "conf": 0.9976586103439331, "hit": 1, "probs": [0.9976586103439331, 0.0023413405288010836]}
+{"task": "email_needs_reply", "idx": "c78f5855a3f8f89c", "gold": 0, "pred": 0, "conf": 0.9997468590736389, "hit": 1, "probs": [0.9997468590736389, 0.0002531563804950565]}
+{"task": "email_needs_reply", "idx": "ac20f71e3b6eae38", "gold": 0, "pred": 0, "conf": 0.99991774559021, "hit": 1, "probs": [0.99991774559021, 8.220189192797989e-05]}
+{"task": "email_needs_reply", "idx": "7363d08df33e326b", "gold": 0, "pred": 1, "conf": 0.9956600069999695, "hit": 0, "probs": [0.004339932929724455, 0.9956600069999695]}
+{"task": "email_needs_reply", "idx": "3b61067caf528de0", "gold": 0, "pred": 0, "conf": 0.9989350438117981, "hit": 1, "probs": [0.9989350438117981, 0.0010649627074599266]}
+{"task": "email_needs_reply", "idx": "73edf82e54696a94", "gold": 0, "pred": 0, "conf": 0.9995121955871582, "hit": 1, "probs": [0.9995121955871582, 0.00048785717808641493]}
+{"task": "email_needs_reply", "idx": "cfb157e8b410db85", "gold": 0, "pred": 0, "conf": 0.999841570854187, "hit": 1, "probs": [0.999841570854187, 0.00015843621804378927]}
+{"task": "email_needs_reply", "idx": "c185be7afcce5ea8", "gold": 1, "pred": 1, "conf": 0.9994725584983826, "hit": 1, "probs": [0.0005274784634821117, 0.9994725584983826]}
+{"task": "email_needs_reply", "idx": "c211b520ec924682", "gold": 0, "pred": 0, "conf": 0.9996429681777954, "hit": 1, "probs": [0.9996429681777954, 0.0003569705877453089]}
+{"task": "email_needs_reply", "idx": "bf0f20edd3ab4953", "gold": 1, "pred": 1, "conf": 0.9999369382858276, "hit": 1, "probs": [6.302758993115276e-05, 0.9999369382858276]}
+{"task": "email_needs_reply", "idx": "eae427c50c3c6950", "gold": 0, "pred": 0, "conf": 0.9993435740470886, "hit": 1, "probs": [0.9993435740470886, 0.000656372809316963]}
+{"task": "email_needs_reply", "idx": "284939462d8468da", "gold": 1, "pred": 1, "conf": 0.9998644590377808, "hit": 1, "probs": [0.00013552079326473176, 0.9998644590377808]}
+{"task": "email_needs_reply", "idx": "f2961e50520f0229", "gold": 0, "pred": 0, "conf": 0.9405171871185303, "hit": 1, "probs": [0.9405171871185303, 0.05948283150792122]}
+{"task": "email_needs_reply", "idx": "83ede94afb2b2665", "gold": 0, "pred": 0, "conf": 0.9996316432952881, "hit": 1, "probs": [0.9996316432952881, 0.00036829791497439146]}
+{"task": "email_needs_reply", "idx": "8b5d70ec4043fcbe", "gold": 0, "pred": 0, "conf": 0.9998511075973511, "hit": 1, "probs": [0.9998511075973511, 0.00014883847325108945]}
+{"task": "email_needs_reply", "idx": "af303b6550d90a51", "gold": 0, "pred": 1, "conf": 0.5097643733024597, "hit": 0, "probs": [0.4902355968952179, 0.5097643733024597]}
+{"task": "email_needs_reply", "idx": "a7eb5d1f2c5c1247", "gold": 0, "pred": 0, "conf": 0.9998260140419006, "hit": 1, "probs": [0.9998260140419006, 0.00017400544311385602]}
+{"task": "email_needs_reply", "idx": "ba5c5c2cad620b76", "gold": 0, "pred": 1, "conf": 0.9783018827438354, "hit": 0, "probs": [0.02169809862971306, 0.9783018827438354]}
+{"task": "email_needs_reply", "idx": "3c3b47de8e158b56", "gold": 0, "pred": 0, "conf": 0.9976769089698792, "hit": 1, "probs": [0.9976769089698792, 0.0023231625091284513]}
+{"task": "email_needs_reply", "idx": "f2fe05d43962c756", "gold": 0, "pred": 0, "conf": 0.9993013143539429, "hit": 1, "probs": [0.9993013143539429, 0.0006986756925471127]}
+{"task": "email_needs_reply", "idx": "f2fe05d43962c756", "gold": 0, "pred": 0, "conf": 0.999312162399292, "hit": 1, "probs": [0.999312162399292, 0.0006878511630930007]}
+{"task": "email_needs_reply", "idx": "5c26e0dae2f81cc7", "gold": 0, "pred": 0, "conf": 0.9993638396263123, "hit": 1, "probs": [0.9993638396263123, 0.0006361911655403674]}
+{"task": "email_needs_reply", "idx": "87697334d0282682", "gold": 1, "pred": 1, "conf": 0.9998557567596436, "hit": 1, "probs": [0.0001442598586436361, 0.9998557567596436]}
+{"task": "email_needs_reply", "idx": "bdf9c074f1ed38ab", "gold": 1, "pred": 1, "conf": 0.9998557567596436, "hit": 1, "probs": [0.0001442598586436361, 0.9998557567596436]}
+{"task": "email_needs_reply", "idx": "292ea0b85fdc83b7", "gold": 0, "pred": 0, "conf": 0.9959298968315125, "hit": 1, "probs": [0.9959298968315125, 0.004070138093084097]}
+{"task": "email_needs_reply", "idx": "55c4219341e0a8e4", "gold": 0, "pred": 0, "conf": 0.9998365640640259, "hit": 1, "probs": [0.9998365640640259, 0.00016346470511052758]}
+{"task": "email_needs_reply", "idx": "3b47afabfee32118", "gold": 1, "pred": 1, "conf": 0.9988304972648621, "hit": 1, "probs": [0.0011695101857185364, 0.9988304972648621]}
+{"task": "email_needs_reply", "idx": "d962cba43cd4ba57", "gold": 0, "pred": 0, "conf": 0.9999039173126221, "hit": 1, "probs": [0.9999039173126221, 9.610241977497935e-05]}
+{"task": "email_needs_reply", "idx": "11c89ea82c58500f", "gold": 1, "pred": 1, "conf": 0.9999251365661621, "hit": 1, "probs": [7.48462334740907e-05, 0.9999251365661621]}
+{"task": "email_needs_reply", "idx": "9cd12e87018b3f4a", "gold": 0, "pred": 0, "conf": 0.9996429681777954, "hit": 1, "probs": [0.9996429681777954, 0.0003569705877453089]}
+{"task": "email_needs_reply", "idx": "6a1b1c0bb6c7f8fa", "gold": 0, "pred": 0, "conf": 0.9962638020515442, "hit": 1, "probs": [0.9962638020515442, 0.0037362207658588886]}
+{"task": "email_needs_reply", "idx": "53ef7426bd30ab25", "gold": 0, "pred": 0, "conf": 0.9996316432952881, "hit": 1, "probs": [0.9996316432952881, 0.00036829791497439146]}
+{"task": "email_needs_reply", "idx": "3a4ca84bb4d715fe", "gold": 0, "pred": 0, "conf": 0.9998785257339478, "hit": 1, "probs": [0.9998785257339478, 0.00012148175301263109]}
+{"task": "email_needs_reply", "idx": "f8bb8506346a8703", "gold": 0, "pred": 0, "conf": 0.9985895752906799, "hit": 1, "probs": [0.9985895752906799, 0.0014103584690019488]}
+{"task": "email_needs_reply", "idx": "476d010823836bbe", "gold": 0, "pred": 0, "conf": 0.9985449314117432, "hit": 1, "probs": [0.9985449314117432, 0.0014550627674907446]}
+{"task": "email_needs_reply", "idx": "a1781a39855d47b2", "gold": 0, "pred": 1, "conf": 0.9993976354598999, "hit": 0, "probs": [0.0006023541209287941, 0.9993976354598999]}
+{"task": "email_needs_reply", "idx": "d64f8db3ed1a6928", "gold": 0, "pred": 0, "conf": 0.9995487332344055, "hit": 1, "probs": [0.9995487332344055, 0.0004512106243055314]}
+{"task": "email_needs_reply", "idx": "be76f8e536e9adc9", "gold": 1, "pred": 0, "conf": 0.9996079802513123, "hit": 0, "probs": [0.9996079802513123, 0.0003920417802873999]}
+{"task": "email_needs_reply", "idx": "63c89f286487e71d", "gold": 1, "pred": 1, "conf": 0.9998726844787598, "hit": 1, "probs": [0.00012731103925034404, 0.9998726844787598]}
+{"task": "email_needs_reply", "idx": "d556aca4a206292a", "gold": 0, "pred": 0, "conf": 0.9996646642684937, "hit": 1, "probs": [0.9996646642684937, 0.00033535013790242374]}
+{"task": "email_needs_reply", "idx": "814098de5d032d4e", "gold": 0, "pred": 0, "conf": 0.9997901320457458, "hit": 1, "probs": [0.9997901320457458, 0.0002098830882459879]}
+{"task": "email_needs_reply", "idx": "509267bfb818c79b", "gold": 1, "pred": 1, "conf": 0.9999517202377319, "hit": 1, "probs": [4.832564445678145e-05, 0.9999517202377319]}
+{"task": "email_needs_reply", "idx": "4cdbe34118a6ae75", "gold": 0, "pred": 0, "conf": 0.9865716695785522, "hit": 1, "probs": [0.9865716695785522, 0.01342825498431921]}
+{"task": "email_needs_reply", "idx": "efab4944922562fb", "gold": 0, "pred": 0, "conf": 0.9999501705169678, "hit": 1, "probs": [0.9999501705169678, 4.985958366887644e-05]}
+{"task": "email_needs_reply", "idx": "c983c9580f9f387d", "gold": 0, "pred": 1, "conf": 0.9934101700782776, "hit": 0, "probs": [0.006589771248400211, 0.9934101700782776]}
+{"task": "email_needs_reply", "idx": "54067297e8c143a1", "gold": 0, "pred": 1, "conf": 0.9515040516853333, "hit": 0, "probs": [0.048496004194021225, 0.9515040516853333]}
+{"task": "email_needs_reply", "idx": "9d6feeaf23d7c87b", "gold": 0, "pred": 0, "conf": 0.999843955039978, "hit": 1, "probs": [0.999843955039978, 0.00015598026220686734]}
+{"task": "email_needs_reply", "idx": "92d8ff69eeaea4df", "gold": 1, "pred": 1, "conf": 0.9998893737792969, "hit": 1, "probs": [0.00011061159602832049, 0.9998893737792969]}
+{"task": "email_needs_reply", "idx": "3d580ce1834a2e6a", "gold": 0, "pred": 0, "conf": 0.9997965693473816, "hit": 1, "probs": [0.9997965693473816, 0.00020342697098385543]}
+{"task": "email_needs_reply", "idx": "8c7a2a33a4ab187b", "gold": 0, "pred": 0, "conf": 0.9979169964790344, "hit": 1, "probs": [0.9979169964790344, 0.002082970691844821]}
+{"task": "email_needs_reply", "idx": "88b6dd2d2642acd3", "gold": 0, "pred": 0, "conf": 0.9952816367149353, "hit": 1, "probs": [0.9952816367149353, 0.004718369338661432]}
+{"task": "email_needs_reply", "idx": "494d88c155840369", "gold": 1, "pred": 1, "conf": 0.9999068975448608, "hit": 1, "probs": [9.314593626186252e-05, 0.9999068975448608]}
+{"task": "email_needs_reply", "idx": "47c8ff203d521b45", "gold": 0, "pred": 0, "conf": 0.9986749291419983, "hit": 1, "probs": [0.9986749291419983, 0.001325022429227829]}
+{"task": "email_needs_reply", "idx": "454fc5c49813ac3c", "gold": 0, "pred": 0, "conf": 0.9997175335884094, "hit": 1, "probs": [0.9997175335884094, 0.0002824080875143409]}
+{"task": "email_needs_reply", "idx": "35ef641dd2f6ae80", "gold": 0, "pred": 0, "conf": 0.9998766183853149, "hit": 1, "probs": [0.9998766183853149, 0.00012339458044152707]}
+{"task": "email_needs_reply", "idx": "ed58af74f190a65a", "gold": 0, "pred": 0, "conf": 0.9995344877243042, "hit": 1, "probs": [0.9995344877243042, 0.0004655269149225205]}
+{"task": "email_needs_reply", "idx": "edeab2f7ccc36ae4", "gold": 1, "pred": 1, "conf": 0.9996947050094604, "hit": 1, "probs": [0.00030534894904121757, 0.9996947050094604]}
+{"task": "email_needs_reply", "idx": "11587213e7810bbc", "gold": 0, "pred": 0, "conf": 0.9998726844787598, "hit": 1, "probs": [0.9998726844787598, 0.00012731103925034404]}
+{"task": "email_needs_reply", "idx": "cf42469f582098fd", "gold": 0, "pred": 0, "conf": 0.9997965693473816, "hit": 1, "probs": [0.9997965693473816, 0.00020342697098385543]}
+{"task": "email_needs_reply", "idx": "2941d597e5bac246", "gold": 0, "pred": 0, "conf": 0.9999125003814697, "hit": 1, "probs": [0.9999125003814697, 8.750300185056403e-05]}
+{"task": "email_needs_reply", "idx": "82d14c9124822743", "gold": 0, "pred": 0, "conf": 0.9995827078819275, "hit": 1, "probs": [0.9995827078819275, 0.00041731575038284063]}
+{"task": "email_needs_reply", "idx": "e04a333bec74279e", "gold": 0, "pred": 0, "conf": 0.9997085928916931, "hit": 1, "probs": [0.9997085928916931, 0.00029137005913071334]}
+{"task": "email_needs_reply", "idx": "6852786880bccc06", "gold": 0, "pred": 0, "conf": 0.9997468590736389, "hit": 1, "probs": [0.9997468590736389, 0.0002531563804950565]}
+{"task": "email_needs_reply", "idx": "1581825d5af701b4", "gold": 1, "pred": 1, "conf": 0.999322772026062, "hit": 1, "probs": [0.0006771942134946585, 0.999322772026062]}
+{"task": "email_needs_reply", "idx": "2d2a619ccf4ab1dc", "gold": 0, "pred": 0, "conf": 0.999713122844696, "hit": 1, "probs": [0.999713122844696, 0.0002868540759664029]}
+{"task": "email_needs_reply", "idx": "3fc9749ad7c41ec1", "gold": 0, "pred": 0, "conf": 0.9992327690124512, "hit": 1, "probs": [0.9992327690124512, 0.0007672925130464137]}
+{"task": "email_needs_reply", "idx": "1183751e0a4ce27d", "gold": 1, "pred": 0, "conf": 0.9981470108032227, "hit": 0, "probs": [0.9981470108032227, 0.0018530595116317272]}
+{"task": "email_needs_reply", "idx": "5daa9659f8ebf6af", "gold": 0, "pred": 0, "conf": 0.9916841983795166, "hit": 1, "probs": [0.9916841983795166, 0.008315779268741608]}
+{"task": "email_needs_reply", "idx": "972d2c19efa5aeb0", "gold": 0, "pred": 0, "conf": 0.9981613755226135, "hit": 1, "probs": [0.9981613755226135, 0.0018386653391644359]}
+{"task": "email_needs_reply", "idx": "d1ef76f922fcf72a", "gold": 0, "pred": 0, "conf": 0.9998766183853149, "hit": 1, "probs": [0.9998766183853149, 0.00012339458044152707]}
+{"task": "email_needs_reply", "idx": "9237af5418236796", "gold": 0, "pred": 0, "conf": 0.9998028874397278, "hit": 1, "probs": [0.9998028874397278, 0.00019716942915692925]}
+{"task": "email_needs_reply", "idx": "92c0ae28057bda36", "gold": 0, "pred": 0, "conf": 0.9998601675033569, "hit": 1, "probs": [0.9998601675033569, 0.0001398220774717629]}
+{"task": "email_needs_reply", "idx": "d6fa77b69f6fea09", "gold": 1, "pred": 1, "conf": 0.9998726844787598, "hit": 1, "probs": [0.00012731103925034404, 0.9998726844787598]}
+{"task": "email_needs_reply", "idx": "4a3725508956ebd5", "gold": 0, "pred": 1, "conf": 0.9989677667617798, "hit": 0, "probs": [0.0010322310263291001, 0.9989677667617798]}
+{"task": "email_needs_reply", "idx": "a7bdb630b27b554e", "gold": 0, "pred": 0, "conf": 0.999868631362915, "hit": 1, "probs": [0.999868631362915, 0.00013135180051904172]}
+{"task": "email_needs_reply", "idx": "99e2d9671d3166ae", "gold": 0, "pred": 0, "conf": 0.6381590962409973, "hit": 1, "probs": [0.6381590962409973, 0.3618409335613251]}
+{"task": "email_needs_reply", "idx": "0901826801082dff", "gold": 0, "pred": 0, "conf": 0.9991573095321655, "hit": 1, "probs": [0.9991573095321655, 0.0008426422718912363]}
+{"task": "email_needs_reply", "idx": "6009cc95490e3f98", "gold": 0, "pred": 1, "conf": 0.5350984334945679, "hit": 0, "probs": [0.46490156650543213, 0.5350984334945679]}
+{"task": "email_needs_reply", "idx": "f021c79989c85b53", "gold": 0, "pred": 0, "conf": 0.9942697286605835, "hit": 1, "probs": [0.9942697286605835, 0.005730246659368277]}
+{"task": "email_needs_reply", "idx": "096a85aadaf380d8", "gold": 0, "pred": 0, "conf": 0.9983256459236145, "hit": 1, "probs": [0.9983256459236145, 0.0016743994783610106]}
+{"task": "email_needs_reply", "idx": "e59bbd753b926924", "gold": 1, "pred": 1, "conf": 0.9997387528419495, "hit": 1, "probs": [0.00026119028916582465, 0.9997387528419495]}
+{"task": "email_needs_reply", "idx": "8a1e4e1497b921f4", "gold": 0, "pred": 0, "conf": 0.9998313188552856, "hit": 1, "probs": [0.9998313188552856, 0.00016865275392774493]}
+{"task": "email_needs_reply", "idx": "168c1d9cc948a788", "gold": 1, "pred": 1, "conf": 0.9998464584350586, "hit": 1, "probs": [0.00015356240328401327, 0.9998464584350586]}
+{"task": "email_needs_reply", "idx": "3cc1e85829644b96", "gold": 1, "pred": 1, "conf": 0.9999517202377319, "hit": 1, "probs": [4.832564445678145e-05, 0.9999517202377319]}
+{"task": "email_needs_reply", "idx": "056a4196872d744f", "gold": 0, "pred": 0, "conf": 0.99991774559021, "hit": 1, "probs": [0.99991774559021, 8.220189192797989e-05]}
+{"task": "email_needs_reply", "idx": "79fb051b0b0ce525", "gold": 0, "pred": 0, "conf": 0.9989182949066162, "hit": 1, "probs": [0.9989182949066162, 0.0010817153379321098]}
+{"task": "email_needs_reply", "idx": "8b6da78a20983174", "gold": 0, "pred": 0, "conf": 0.9995487332344055, "hit": 1, "probs": [0.9995487332344055, 0.0004512106243055314]}
+{"task": "email_needs_reply", "idx": "eed0bba2e8e62835", "gold": 1, "pred": 1, "conf": 0.9997695088386536, "hit": 1, "probs": [0.00023050671734381467, 0.9997695088386536]}
+{"task": "email_needs_reply", "idx": "a474ee06366ecc6b", "gold": 0, "pred": 0, "conf": 0.999841570854187, "hit": 1, "probs": [0.999841570854187, 0.00015843621804378927]}
+{"task": "email_needs_reply", "idx": "24c3a65417abfce8", "gold": 1, "pred": 1, "conf": 0.9993638396263123, "hit": 1, "probs": [0.0006361911655403674, 0.9993638396263123]}
+{"task": "email_needs_reply", "idx": "b1420b8ff3b6c5cc", "gold": 0, "pred": 0, "conf": 0.9998089671134949, "hit": 1, "probs": [0.9998089671134949, 0.00019110430730506778]}
+{"task": "email_needs_reply", "idx": "102a8345767a10b4", "gold": 0, "pred": 0, "conf": 0.999779999256134, "hit": 1, "probs": [0.999779999256134, 0.000219953348278068]}
+{"task": "email_needs_reply", "idx": "d700d8becaa0665c", "gold": 1, "pred": 1, "conf": 0.9986329674720764, "hit": 1, "probs": [0.001367025775834918, 0.9986329674720764]}
+{"task": "email_needs_reply", "idx": "47dc86b92f0b0f62", "gold": 0, "pred": 0, "conf": 0.9997468590736389, "hit": 1, "probs": [0.9997468590736389, 0.0002531563804950565]}
+{"task": "email_needs_reply", "idx": "c7528149b8e1eeb1", "gold": 0, "pred": 0, "conf": 0.999841570854187, "hit": 1, "probs": [0.999841570854187, 0.00015843621804378927]}
+{"task": "email_needs_reply", "idx": "2d0b5ae0c756a8d1", "gold": 0, "pred": 0, "conf": 0.9995487332344055, "hit": 1, "probs": [0.9995487332344055, 0.0004512106243055314]}
+{"task": "email_needs_reply", "idx": "0c465d0f3c1f3950", "gold": 0, "pred": 0, "conf": 0.999562680721283, "hit": 1, "probs": [0.999562680721283, 0.0004373344127088785]}
+{"task": "email_needs_reply", "idx": "87b4eb52bd5ed008", "gold": 1, "pred": 1, "conf": 0.9996199607849121, "hit": 1, "probs": [0.0003799845289904624, 0.9996199607849121]}
+{"task": "email_needs_reply", "idx": "91721c8a82d129f5", "gold": 1, "pred": 1, "conf": 0.9999635219573975, "hit": 1, "probs": [3.647853736765683e-05, 0.9999635219573975]}
+{"task": "email_needs_reply", "idx": "836c7d0711086f1d", "gold": 0, "pred": 0, "conf": 0.998793363571167, "hit": 1, "probs": [0.998793363571167, 0.0012065897462889552]}
+{"task": "email_needs_reply", "idx": "d2860132940df5b1", "gold": 0, "pred": 0, "conf": 0.9995197057723999, "hit": 1, "probs": [0.9995197057723999, 0.00048029725439846516]}
+{"task": "email_needs_reply", "idx": "0812e420c7ba2df8", "gold": 0, "pred": 1, "conf": 0.961243748664856, "hit": 0, "probs": [0.03875619173049927, 0.961243748664856]}
+{"task": "email_needs_reply", "idx": "255256e5a385b837", "gold": 1, "pred": 0, "conf": 0.9996947050094604, "hit": 0, "probs": [0.9996947050094604, 0.00030534894904121757]}
+{"task": "email_needs_reply", "idx": "83f9e7e7ae31f7c9", "gold": 0, "pred": 0, "conf": 0.9992445707321167, "hit": 1, "probs": [0.9992445707321167, 0.000755405577365309]}
+{"task": "email_needs_reply", "idx": "12571f9528f89297", "gold": 0, "pred": 0, "conf": 0.9997085928916931, "hit": 1, "probs": [0.9997085928916931, 0.00029137005913071334]}
+{"task": "email_needs_reply", "idx": "a6096c2c0fe45203", "gold": 0, "pred": 1, "conf": 0.6619228720664978, "hit": 0, "probs": [0.3380771279335022, 0.6619228720664978]}
+{"task": "email_needs_reply", "idx": "cccd724ff2356077", "gold": 0, "pred": 0, "conf": 0.9999274015426636, "hit": 1, "probs": [0.9999274015426636, 7.254361844388768e-05]}
+{"task": "email_needs_reply", "idx": "d2f252462e46bd3f", "gold": 0, "pred": 0, "conf": 0.8774768114089966, "hit": 1, "probs": [0.8774768114089966, 0.12252321094274521]}
+{"task": "email_needs_reply", "idx": "6b5fd65d597c8e2a", "gold": 0, "pred": 0, "conf": 0.9998910427093506, "hit": 1, "probs": [0.9998910427093506, 0.00010889690747717395]}
+{"task": "email_needs_reply", "idx": "b3a103f4c5cc1d95", "gold": 1, "pred": 1, "conf": 0.7981867790222168, "hit": 1, "probs": [0.2018132209777832, 0.7981867790222168]}
+{"task": "email_needs_reply", "idx": "62790c0907909873", "gold": 0, "pred": 0, "conf": 0.9742394685745239, "hit": 1, "probs": [0.9742394685745239, 0.025760561227798462]}
+{"task": "email_needs_reply", "idx": "08aa90dc74b96a29", "gold": 1, "pred": 1, "conf": 0.9998365640640259, "hit": 1, "probs": [0.00016346470511052758, 0.9998365640640259]}
+{"task": "email_needs_reply", "idx": "72cba337c5017005", "gold": 0, "pred": 0, "conf": 0.9989182949066162, "hit": 1, "probs": [0.9989182949066162, 0.0010817153379321098]}
+{"task": "email_needs_reply", "idx": "fa2ccb0c7e0f8db9", "gold": 0, "pred": 0, "conf": 0.9948902130126953, "hit": 1, "probs": [0.9948902130126953, 0.005109737627208233]}
+{"task": "email_needs_reply", "idx": "cff4d39aa9ce5de3", "gold": 0, "pred": 0, "conf": 0.9998745918273926, "hit": 1, "probs": [0.9998745918273926, 0.00012533750850707293]}
+{"task": "email_needs_reply", "idx": "5994fcb9b8a4cb71", "gold": 0, "pred": 0, "conf": 0.9998089671134949, "hit": 1, "probs": [0.9998089671134949, 0.00019110430730506778]}
+{"task": "email_needs_reply", "idx": "fff66cf73519f64d", "gold": 1, "pred": 1, "conf": 0.97334223985672, "hit": 1, "probs": [0.026657739654183388, 0.97334223985672]}
+{"task": "email_needs_reply", "idx": "264745de3d653ade", "gold": 0, "pred": 0, "conf": 0.9982725381851196, "hit": 1, "probs": [0.9982725381851196, 0.0017274586716666818]}
+{"task": "email_needs_reply", "idx": "cdfcf0070acbf2df", "gold": 0, "pred": 0, "conf": 0.9995044469833374, "hit": 1, "probs": [0.9995044469833374, 0.0004955359036102891]}
+{"task": "email_needs_reply", "idx": "2ce36f65ef4b74ae", "gold": 0, "pred": 0, "conf": 0.9989515542984009, "hit": 1, "probs": [0.9989515542984009, 0.001048469333909452]}
+{"task": "email_needs_reply", "idx": "7a49fe9cd0d0b620", "gold": 0, "pred": 0, "conf": 0.9998601675033569, "hit": 1, "probs": [0.9998601675033569, 0.0001398220774717629]}
+{"task": "email_needs_reply", "idx": "5f746e9e09a4fd58", "gold": 1, "pred": 1, "conf": 0.942081868648529, "hit": 1, "probs": [0.057918086647987366, 0.942081868648529]}
+{"task": "email_needs_reply", "idx": "240b40ec4cea678e", "gold": 0, "pred": 0, "conf": 0.9979810118675232, "hit": 1, "probs": [0.9979810118675232, 0.0020190137438476086]}
+{"task": "email_needs_reply", "idx": "022caa4e20e0a296", "gold": 0, "pred": 0, "conf": 0.9993333220481873, "hit": 1, "probs": [0.9993333220481873, 0.0006667023408226669]}
+{"task": "email_needs_reply", "idx": "a885345d27f85f27", "gold": 1, "pred": 1, "conf": 0.9824230670928955, "hit": 1, "probs": [0.017576882615685463, 0.9824230670928955]}
+{"task": "email_needs_reply", "idx": "d8013524a5fdd4fa", "gold": 0, "pred": 1, "conf": 0.9995487332344055, "hit": 0, "probs": [0.0004512106243055314, 0.9995487332344055]}
+{"task": "email_needs_reply", "idx": "b406256a888dc8d9", "gold": 0, "pred": 0, "conf": 0.9965165853500366, "hit": 1, "probs": [0.9965165853500366, 0.0034834244288504124]}
+{"task": "email_needs_reply", "idx": "5a09fd4d286751ce", "gold": 1, "pred": 1, "conf": 0.9873613119125366, "hit": 1, "probs": [0.012638651765882969, 0.9873613119125366]}
+{"task": "email_needs_reply", "idx": "77611af6100741b3", "gold": 0, "pred": 0, "conf": 0.999322772026062, "hit": 1, "probs": [0.999322772026062, 0.0006771942134946585]}
+{"task": "email_needs_reply", "idx": "3fca62b0ce7d649c", "gold": 0, "pred": 1, "conf": 0.9549844264984131, "hit": 0, "probs": [0.04501553252339363, 0.9549844264984131]}
+{"task": "email_needs_reply", "idx": "6fc832e5ff6063d5", "gold": 0, "pred": 0, "conf": 0.999322772026062, "hit": 1, "probs": [0.999322772026062, 0.0006771942134946585]}
+{"task": "email_needs_reply", "idx": "c4dfeb3016cdd8b5", "gold": 0, "pred": 0, "conf": 0.9996646642684937, "hit": 1, "probs": [0.9996646642684937, 0.00033535013790242374]}
+{"task": "email_needs_reply", "idx": "b10f9a947f836dd7", "gold": 1, "pred": 1, "conf": 0.9219217896461487, "hit": 1, "probs": [0.07807815819978714, 0.9219217896461487]}
+{"task": "email_needs_reply", "idx": "7551f89eafa06a06", "gold": 0, "pred": 0, "conf": 0.999438464641571, "hit": 1, "probs": [0.999438464641571, 0.0005614787223748863]}
+{"task": "email_needs_reply", "idx": "a3f4ec97f2a2913d", "gold": 0, "pred": 0, "conf": 0.9998666048049927, "hit": 1, "probs": [0.9998666048049927, 0.0001334200205747038]}
+{"task": "email_needs_reply", "idx": "2ca6860e009bcd40", "gold": 1, "pred": 1, "conf": 0.9999772310256958, "hit": 1, "probs": [2.2827998691354878e-05, 0.9999772310256958]}
+{"task": "email_needs_reply", "idx": "e3e1ecb2bc3887f4", "gold": 0, "pred": 0, "conf": 0.9999068975448608, "hit": 1, "probs": [0.9999068975448608, 9.314593626186252e-05]}
+{"task": "email_needs_reply", "idx": "fd05e547c285bb25", "gold": 1, "pred": 1, "conf": 0.999373733997345, "hit": 1, "probs": [0.000626334163825959, 0.999373733997345]}
+{"task": "email_needs_reply", "idx": "6585d104b53e194f", "gold": 0, "pred": 0, "conf": 0.9941574335098267, "hit": 1, "probs": [0.9941574335098267, 0.005842605605721474]}
+{"task": "email_needs_reply", "idx": "ba050aa390f031d7", "gold": 0, "pred": 0, "conf": 0.9998089671134949, "hit": 1, "probs": [0.9998089671134949, 0.00019110430730506778]}
+{"task": "email_needs_reply", "idx": "e23e0375241c2123", "gold": 1, "pred": 1, "conf": 0.9999517202377319, "hit": 1, "probs": [4.832564445678145e-05, 0.9999517202377319]}
+{"task": "email_needs_reply", "idx": "f924c9870a674f48", "gold": 1, "pred": 1, "conf": 0.9999645948410034, "hit": 1, "probs": [3.535625000949949e-05, 0.9999645948410034]}
+{"task": "email_needs_reply", "idx": "d16afa5e5cde88a9", "gold": 0, "pred": 0, "conf": 0.9996140599250793, "hit": 1, "probs": [0.9996140599250793, 0.0003859660937450826]}
+{"task": "email_needs_reply", "idx": "a88abb0dd321b71f", "gold": 0, "pred": 0, "conf": 0.9998058676719666, "hit": 1, "probs": [0.9998058676719666, 0.00019411317771300673]}
+{"task": "email_needs_reply", "idx": "f463fd356bb6bf62", "gold": 0, "pred": 1, "conf": 0.9515040516853333, "hit": 0, "probs": [0.048496004194021225, 0.9515040516853333]}
+{"task": "email_needs_reply", "idx": "7020c8d57164199a", "gold": 0, "pred": 0, "conf": 0.9989182949066162, "hit": 1, "probs": [0.9989182949066162, 0.0010817153379321098]}
+{"task": "email_needs_reply", "idx": "5b67153c0edc28a9", "gold": 0, "pred": 0, "conf": 0.9998840093612671, "hit": 1, "probs": [0.9998840093612671, 0.00011591934162424877]}
+{"task": "email_needs_reply", "idx": "d951c851bca8aafc", "gold": 0, "pred": 1, "conf": 0.9964359998703003, "hit": 0, "probs": [0.0035640022251755, 0.9964359998703003]}
+{"task": "email_needs_reply", "idx": "0e147d149c70f5a9", "gold": 1, "pred": 1, "conf": 0.9997546076774597, "hit": 1, "probs": [0.0002453695051372051, 0.9997546076774597]}
+{"task": "email_needs_reply", "idx": "d6eaafc97798b783", "gold": 0, "pred": 0, "conf": 0.9976032376289368, "hit": 1, "probs": [0.9976032376289368, 0.0023967307060956955]}
+{"task": "email_needs_reply", "idx": "909659d09fd94c52", "gold": 1, "pred": 1, "conf": 0.9998205304145813, "hit": 1, "probs": [0.00017952796770259738, 0.9998205304145813]}
+{"task": "email_needs_reply", "idx": "56b22557268257ba", "gold": 0, "pred": 0, "conf": 0.9989677667617798, "hit": 1, "probs": [0.9989677667617798, 0.0010322310263291001]}
+{"task": "email_needs_reply", "idx": "961d4f8135b60c73", "gold": 0, "pred": 0, "conf": 0.9998148083686829, "hit": 1, "probs": [0.9998148083686829, 0.00018522574100643396]}
+{"task": "email_needs_reply", "idx": "6109c06a7928e749", "gold": 1, "pred": 1, "conf": 0.9999531507492065, "hit": 1, "probs": [4.683888619183563e-05, 0.9999531507492065]}
+{"task": "email_needs_reply", "idx": "6109c06a7928e749", "gold": 1, "pred": 1, "conf": 0.9999531507492065, "hit": 1, "probs": [4.683888619183563e-05, 0.9999531507492065]}
+{"task": "email_needs_reply", "idx": "45fcaa468426f743", "gold": 1, "pred": 1, "conf": 0.9966691136360168, "hit": 1, "probs": [0.0033309145364910364, 0.9966691136360168]}
+{"task": "email_needs_reply", "idx": "fa0594d06dcb44b3", "gold": 0, "pred": 0, "conf": 0.9996800422668457, "hit": 1, "probs": [0.9996800422668457, 0.0003199982747901231]}
+{"task": "email_needs_reply", "idx": "6425c1ee508586e4", "gold": 0, "pred": 0, "conf": 0.9997765421867371, "hit": 1, "probs": [0.9997765421867371, 0.0002234163403045386]}
+{"task": "email_needs_reply", "idx": "c528bc2ca303756d", "gold": 0, "pred": 0, "conf": 0.9964063763618469, "hit": 1, "probs": [0.9964063763618469, 0.0035936026833951473]}
+{"task": "email_needs_reply", "idx": "80c30056ccf5168d", "gold": 1, "pred": 1, "conf": 0.9998089671134949, "hit": 1, "probs": [0.00019110430730506778, 0.9998089671134949]}
+{"task": "email_needs_reply", "idx": "1b1d4ded94d0e981", "gold": 1, "pred": 1, "conf": 0.9999434947967529, "hit": 1, "probs": [5.6497930927434936e-05, 0.9999434947967529]}
+{"task": "email_needs_reply", "idx": "4c8a707a61e336a9", "gold": 0, "pred": 0, "conf": 0.9992563128471375, "hit": 1, "probs": [0.9992563128471375, 0.0007437029271386564]}
+{"task": "email_needs_reply", "idx": "0ff4077bccde61f7", "gold": 1, "pred": 1, "conf": 0.9990527033805847, "hit": 1, "probs": [0.0009473090176470578, 0.9990527033805847]}
+{"task": "email_needs_reply", "idx": "cd04eb656887fa85", "gold": 0, "pred": 0, "conf": 0.999868631362915, "hit": 1, "probs": [0.999868631362915, 0.00013135180051904172]}
+{"task": "email_needs_reply", "idx": "6107e3b1da7f4cd1", "gold": 0, "pred": 0, "conf": 0.9997219443321228, "hit": 1, "probs": [0.9997219443321228, 0.0002780309587251395]}
+{"task": "email_needs_reply", "idx": "062c019cfe441187", "gold": 0, "pred": 0, "conf": 0.9999151229858398, "hit": 1, "probs": [0.9999151229858398, 8.481103577651083e-05]}
+{"task": "email_needs_reply", "idx": "44a90b39d5177d6a", "gold": 0, "pred": 0, "conf": 0.9997387528419495, "hit": 1, "probs": [0.9997387528419495, 0.00026119028916582465]}
+{"task": "email_needs_reply", "idx": "4cd3cdfa11c2fc2b", "gold": 1, "pred": 1, "conf": 0.9998977184295654, "hit": 1, "probs": [0.00010229985491605476, 0.9998977184295654]}
+{"task": "email_needs_reply", "idx": "806d0f9a67ecf1f7", "gold": 1, "pred": 0, "conf": 0.9938070178031921, "hit": 0, "probs": [0.9938070178031921, 0.006192990578711033]}
+{"task": "email_needs_reply", "idx": "2cafad6f5583972c", "gold": 1, "pred": 1, "conf": 0.9994725584983826, "hit": 1, "probs": [0.0005274784634821117, 0.9994725584983826]}
+{"task": "email_needs_reply", "idx": "02d9675a61c84cc1", "gold": 0, "pred": 0, "conf": 0.9994022846221924, "hit": 1, "probs": [0.9994022846221924, 0.0005976693355478346]}
+{"task": "email_needs_reply", "idx": "c2bec0f72160c1ff", "gold": 1, "pred": 1, "conf": 0.9993588328361511, "hit": 1, "probs": [0.0006411777576431632, 0.9993588328361511]}
+{"task": "email_needs_reply", "idx": "50e927e47c2a8518", "gold": 0, "pred": 0, "conf": 0.9995891451835632, "hit": 1, "probs": [0.9995891451835632, 0.0004108485300093889]}
+{"task": "email_needs_reply", "idx": "62c9e17ebb1792fe", "gold": 1, "pred": 1, "conf": 0.9997428059577942, "hit": 1, "probs": [0.00025714197545312345, 0.9997428059577942]}
+{"task": "email_needs_reply", "idx": "36f158a3827c439a", "gold": 0, "pred": 0, "conf": 0.9998579025268555, "hit": 1, "probs": [0.9998579025268555, 0.0001420236221747473]}
+{"task": "email_needs_reply", "idx": "029dd1b495f99ef3", "gold": 0, "pred": 0, "conf": 0.9998511075973511, "hit": 1, "probs": [0.9998511075973511, 0.00014883847325108945]}
+{"task": "email_needs_reply", "idx": "b6b504213782e39c", "gold": 0, "pred": 0, "conf": 0.9994296431541443, "hit": 1, "probs": [0.9994296431541443, 0.0005703156930394471]}
+{"task": "email_needs_reply", "idx": "4e3f4b76afa7780f", "gold": 0, "pred": 0, "conf": 0.9994022846221924, "hit": 1, "probs": [0.9994022846221924, 0.0005976693355478346]}
+{"task": "email_needs_reply", "idx": "be79e539c639e844", "gold": 0, "pred": 1, "conf": 0.9998928308486938, "hit": 0, "probs": [0.00010720881255110726, 0.9998928308486938]}
+{"task": "email_needs_reply", "idx": "5c02343713ab583f", "gold": 0, "pred": 0, "conf": 0.9998666048049927, "hit": 1, "probs": [0.9998666048049927, 0.0001334200205747038]}
+{"task": "email_needs_reply", "idx": "cef625c6c17c8365", "gold": 0, "pred": 0, "conf": 0.9999203681945801, "hit": 1, "probs": [0.9999203681945801, 7.9673009167891e-05]}
+{"task": "email_needs_reply", "idx": "80f830ffc9003338", "gold": 0, "pred": 0, "conf": 0.9991958737373352, "hit": 1, "probs": [0.9991958737373352, 0.0008040859247557819]}
+{"task": "email_needs_reply", "idx": "dd7cbbe92e7a6b2c", "gold": 1, "pred": 1, "conf": 0.9869794845581055, "hit": 1, "probs": [0.013020489364862442, 0.9869794845581055]}
+{"task": "email_needs_reply", "idx": "21ae7c0560761ab7", "gold": 0, "pred": 0, "conf": 0.9997387528419495, "hit": 1, "probs": [0.9997387528419495, 0.00026119028916582465]}
+{"task": "email_needs_reply", "idx": "0583a2c148125555", "gold": 0, "pred": 0, "conf": 0.9997305274009705, "hit": 1, "probs": [0.9997305274009705, 0.0002694791473913938]}
+{"task": "email_needs_reply", "idx": "329a2ac1b906764e", "gold": 0, "pred": 0, "conf": 0.9986749291419983, "hit": 1, "probs": [0.9986749291419983, 0.001325022429227829]}
+{"task": "email_needs_reply", "idx": "326f3f075ea5ea44", "gold": 1, "pred": 1, "conf": 0.9664104580879211, "hit": 1, "probs": [0.03358950465917587, 0.9664104580879211]}
+{"task": "email_needs_reply", "idx": "182433417afb9d87", "gold": 0, "pred": 0, "conf": 0.9998313188552856, "hit": 1, "probs": [0.9998313188552856, 0.00016865275392774493]}
+{"task": "email_needs_reply", "idx": "1dbc3c38ced73081", "gold": 1, "pred": 1, "conf": 0.9849274158477783, "hit": 1, "probs": [0.015072628855705261, 0.9849274158477783]}
+{"task": "email_needs_reply", "idx": "22d806412c37b091", "gold": 1, "pred": 1, "conf": 0.9990302324295044, "hit": 1, "probs": [0.0009697519126348197, 0.9990302324295044]}
+{"task": "email_needs_reply", "idx": "169067dcfcd6da0a", "gold": 1, "pred": 1, "conf": 0.9998557567596436, "hit": 1, "probs": [0.0001442598586436361, 0.9998557567596436]}
+{"task": "email_needs_reply", "idx": "ad38c637983fe498", "gold": 1, "pred": 1, "conf": 0.9997507929801941, "hit": 1, "probs": [0.00024923254386521876, 0.9997507929801941]}
+{"task": "email_needs_reply", "idx": "fbc30b8f83f702e9", "gold": 1, "pred": 1, "conf": 0.9992903470993042, "hit": 1, "probs": [0.0007096704212017357, 0.9992903470993042]}
+{"task": "email_needs_reply", "idx": "733792055f96b91c", "gold": 1, "pred": 0, "conf": 0.9531006813049316, "hit": 0, "probs": [0.9531006813049316, 0.046899259090423584]}
+{"task": "email_needs_reply", "idx": "1c2e9cab518c23e0", "gold": 0, "pred": 0, "conf": 0.9994966983795166, "hit": 1, "probs": [0.9994966983795166, 0.0005033356137573719]}
+{"task": "email_needs_reply", "idx": "bdd8878d573be3b3", "gold": 1, "pred": 1, "conf": 0.9998766183853149, "hit": 1, "probs": [0.00012339458044152707, 0.9998766183853149]}
+{"task": "email_needs_reply", "idx": "dfbb69ebd6f012e7", "gold": 0, "pred": 0, "conf": 0.9997730851173401, "hit": 1, "probs": [0.9997730851173401, 0.00022693384380545467]}
+{"task": "email_needs_reply", "idx": "0e00120e4cfedbd2", "gold": 0, "pred": 0, "conf": 0.9996199607849121, "hit": 1, "probs": [0.9996199607849121, 0.0003799845289904624]}
+{"task": "email_needs_reply", "idx": "0b5ea7a8d51758e3", "gold": 0, "pred": 0, "conf": 0.954647421836853, "hit": 1, "probs": [0.954647421836853, 0.04535257816314697]}
+{"task": "email_needs_reply", "idx": "791331ac4babb64e", "gold": 0, "pred": 0, "conf": 0.9994887113571167, "hit": 1, "probs": [0.9994887113571167, 0.0005112579092383385]}
+{"task": "email_needs_reply", "idx": "f96ea543990e1704", "gold": 0, "pred": 1, "conf": 0.9700985550880432, "hit": 0, "probs": [0.029901403933763504, 0.9700985550880432]}
+{"task": "email_needs_reply", "idx": "538db879e0541d20", "gold": 1, "pred": 1, "conf": 0.9966625571250916, "hit": 1, "probs": [0.003337404690682888, 0.9966625571250916]}
+{"task": "email_needs_reply", "idx": "64a1af825bdc7171", "gold": 0, "pred": 0, "conf": 0.9900636076927185, "hit": 1, "probs": [0.9900636076927185, 0.009936418384313583]}
+{"task": "email_needs_reply", "idx": "101a9125cc2c0c41", "gold": 0, "pred": 0, "conf": 0.999841570854187, "hit": 1, "probs": [0.999841570854187, 0.00015843621804378927]}
+{"task": "email_needs_reply", "idx": "4071eaa34a96df70", "gold": 0, "pred": 0, "conf": 0.9998260140419006, "hit": 1, "probs": [0.9998260140419006, 0.00017400544311385602]}
+{"task": "email_needs_reply", "idx": "9508b826aaa044c3", "gold": 1, "pred": 1, "conf": 0.9997219443321228, "hit": 1, "probs": [0.0002780309587251395, 0.9997219443321228]}
+{"task": "email_needs_reply", "idx": "a982397cea1462b6", "gold": 1, "pred": 1, "conf": 0.9999469518661499, "hit": 1, "probs": [5.3075080359121785e-05, 0.9999469518661499]}
+{"task": "email_needs_reply", "idx": "84d341027243f942", "gold": 1, "pred": 0, "conf": 0.5898345112800598, "hit": 0, "probs": [0.5898345112800598, 0.4101654887199402]}
+{"task": "email_needs_reply", "idx": "06bd88a2b0804f1b", "gold": 0, "pred": 0, "conf": 0.9994296431541443, "hit": 1, "probs": [0.9994296431541443, 0.0005703156930394471]}
+{"task": "email_needs_reply", "idx": "e3d8f1d2428ed302", "gold": 1, "pred": 1, "conf": 0.9997965693473816, "hit": 1, "probs": [0.00020342697098385543, 0.9997965693473816]}
+{"task": "email_needs_reply", "idx": "8de9a680772e911c", "gold": 0, "pred": 0, "conf": 0.9998875856399536, "hit": 1, "probs": [0.9998875856399536, 0.00011235327838221565]}
+{"task": "email_needs_reply", "idx": "cbce728dab2dba60", "gold": 0, "pred": 0, "conf": 0.9993638396263123, "hit": 1, "probs": [0.9993638396263123, 0.0006361911655403674]}
+{"task": "email_needs_reply", "idx": "4cabfe971def2254", "gold": 1, "pred": 1, "conf": 0.9998176693916321, "hit": 1, "probs": [0.00018235458992421627, 0.9998176693916321]}
+{"task": "email_needs_reply", "idx": "c888f846c0842df3", "gold": 1, "pred": 1, "conf": 0.9999611377716064, "hit": 1, "probs": [3.8831109122838825e-05, 0.9999611377716064]}
+{"task": "email_needs_reply", "idx": "c3a14d0586d69d0b", "gold": 1, "pred": 1, "conf": 0.9998893737792969, "hit": 1, "probs": [0.00011061159602832049, 0.9998893737792969]}
+{"task": "email_needs_reply", "idx": "b21330f3f1713f38", "gold": 1, "pred": 1, "conf": 0.997271716594696, "hit": 1, "probs": [0.00272823846898973, 0.997271716594696]}
+{"task": "email_needs_reply", "idx": "e35ca30966f803dd", "gold": 1, "pred": 1, "conf": 0.9995891451835632, "hit": 1, "probs": [0.0004108485300093889, 0.9995891451835632]}
+{"task": "email_needs_reply", "idx": "5bc2fa4893dabe8c", "gold": 0, "pred": 0, "conf": 0.999555766582489, "hit": 1, "probs": [0.999555766582489, 0.0004442183708306402]}
+{"task": "email_needs_reply", "idx": "6d127a9030c88369", "gold": 1, "pred": 1, "conf": 0.9999531507492065, "hit": 1, "probs": [4.683888619183563e-05, 0.9999531507492065]}
+{"task": "email_needs_reply", "idx": "b35be1ff5f772192", "gold": 1, "pred": 1, "conf": 0.9998804330825806, "hit": 1, "probs": [0.00011959858238697052, 0.9998804330825806]}
+{"task": "email_needs_reply", "idx": "f3064ab7a3b11abe", "gold": 1, "pred": 1, "conf": 0.9999138116836548, "hit": 1, "probs": [8.614650869276375e-05, 0.9999138116836548]}
+{"task": "email_needs_reply", "idx": "73fa434473903862", "gold": 0, "pred": 0, "conf": 0.9984752535820007, "hit": 1, "probs": [0.9984752535820007, 0.001524786464869976]}
+{"task": "email_needs_reply", "idx": "295ae09c620793a8", "gold": 0, "pred": 0, "conf": 0.998848557472229, "hit": 1, "probs": [0.998848557472229, 0.001151399570517242]}
+{"task": "email_needs_reply", "idx": "164fb9f455b174fe", "gold": 0, "pred": 0, "conf": 0.999779999256134, "hit": 1, "probs": [0.999779999256134, 0.000219953348278068]}
+{"task": "email_needs_reply", "idx": "4f739fb0865572ab", "gold": 0, "pred": 0, "conf": 0.9989995360374451, "hit": 1, "probs": [0.9989995360374451, 0.0010005044750869274]}
+{"task": "email_needs_reply", "idx": "9e61d4c63963e7e6", "gold": 0, "pred": 0, "conf": 0.9997933506965637, "hit": 1, "probs": [0.9997933506965637, 0.00020662981842178851]}
+{"task": "email_needs_reply", "idx": "087ff2771231b41c", "gold": 0, "pred": 0, "conf": 0.9993435740470886, "hit": 1, "probs": [0.9993435740470886, 0.000656372809316963]}
+{"task": "email_escalate", "idx": "ba498603467d851d", "gold": 0, "pred": 0, "conf": 0.9993333220481873, "hit": 1, "probs": [0.9993333220481873, 0.0006667023408226669]}
+{"task": "email_escalate", "idx": "3880a64129b4c19b", "gold": 0, "pred": 0, "conf": 0.9996849298477173, "hit": 1, "probs": [0.9996849298477173, 0.0003150386910419911]}
+{"task": "email_escalate", "idx": "ed5edad6f77467e6", "gold": 0, "pred": 0, "conf": 0.9998148083686829, "hit": 1, "probs": [0.9998148083686829, 0.00018522574100643396]}
+{"task": "email_escalate", "idx": "d05a2967155ba4b2", "gold": 0, "pred": 0, "conf": 0.9997730851173401, "hit": 1, "probs": [0.9997730851173401, 0.00022693384380545467]}
+{"task": "email_escalate", "idx": "4d7efb713bd2de25", "gold": 0, "pred": 0, "conf": 0.9998176693916321, "hit": 1, "probs": [0.9998176693916321, 0.00018235458992421627]}
+{"task": "email_escalate", "idx": "db937a0c71fc19d0", "gold": 0, "pred": 0, "conf": 0.9993928670883179, "hit": 1, "probs": [0.9993928670883179, 0.0006070755189284682]}
+{"task": "email_escalate", "idx": "a55eaa76ad45a96e", "gold": 0, "pred": 0, "conf": 0.9999151229858398, "hit": 1, "probs": [0.9999151229858398, 8.481103577651083e-05]}
+{"task": "email_escalate", "idx": "490d4da92c0170a7", "gold": 0, "pred": 0, "conf": 0.9995891451835632, "hit": 1, "probs": [0.9995891451835632, 0.0004108485300093889]}
+{"task": "email_escalate", "idx": "a711e8c0f4824dae", "gold": 0, "pred": 0, "conf": 0.9968273043632507, "hit": 1, "probs": [0.9968273043632507, 0.0031726830638945103]}
+{"task": "email_escalate", "idx": "8e25033f5375c5bb", "gold": 0, "pred": 0, "conf": 0.996570348739624, "hit": 1, "probs": [0.996570348739624, 0.0034296035300940275]}
+{"task": "email_escalate", "idx": "8da40ee9998392cb", "gold": 0, "pred": 0, "conf": 0.9989182949066162, "hit": 1, "probs": [0.9989182949066162, 0.0010817153379321098]}
+{"task": "email_escalate", "idx": "0d07b723aefc758b", "gold": 0, "pred": 0, "conf": 0.9997387528419495, "hit": 1, "probs": [0.9997387528419495, 0.00026119028916582465]}
+{"task": "email_escalate", "idx": "90231f8de0cbdcde", "gold": 0, "pred": 0, "conf": 0.9992445707321167, "hit": 1, "probs": [0.9992445707321167, 0.000755405577365309]}
+{"task": "email_escalate", "idx": "596538b586badec6", "gold": 0, "pred": 0, "conf": 0.9998313188552856, "hit": 1, "probs": [0.9998313188552856, 0.00016865275392774493]}
+{"task": "email_escalate", "idx": "d87253fed66d27a0", "gold": 0, "pred": 0, "conf": 0.9885804057121277, "hit": 1, "probs": [0.9885804057121277, 0.01141961570829153]}
+{"task": "email_escalate", "idx": "73da682d6bb38b53", "gold": 0, "pred": 0, "conf": 0.9997468590736389, "hit": 1, "probs": [0.9997468590736389, 0.0002531563804950565]}
+{"task": "email_escalate", "idx": "b4f1cc9a956b7319", "gold": 0, "pred": 0, "conf": 0.9998977184295654, "hit": 1, "probs": [0.9998977184295654, 0.00010229985491605476]}
+{"task": "email_escalate", "idx": "33234b51619ad3ac", "gold": 0, "pred": 0, "conf": 0.9992445707321167, "hit": 1, "probs": [0.9992445707321167, 0.000755405577365309]}
+{"task": "email_escalate", "idx": "8a675f3e3c3a72ea", "gold": 0, "pred": 0, "conf": 0.9998148083686829, "hit": 1, "probs": [0.9998148083686829, 0.00018522574100643396]}
+{"task": "email_escalate", "idx": "d18095e44abeeb01", "gold": 0, "pred": 0, "conf": 0.9594592452049255, "hit": 1, "probs": [0.9594592452049255, 0.04054073989391327]}
+{"task": "email_escalate", "idx": "75be6197e5b78567", "gold": 0, "pred": 0, "conf": 0.9932025074958801, "hit": 1, "probs": [0.9932025074958801, 0.006797531619668007]}
+{"task": "email_escalate", "idx": "0a3864acd2fab4cc", "gold": 0, "pred": 0, "conf": 0.9953181147575378, "hit": 1, "probs": [0.9953181147575378, 0.004681822843849659]}
+{"task": "email_escalate", "idx": "5a04497afab5036c", "gold": 0, "pred": 0, "conf": 0.9995891451835632, "hit": 1, "probs": [0.9995891451835632, 0.0004108485300093889]}
+{"task": "email_escalate", "idx": "41038c1eab9f7897", "gold": 0, "pred": 0, "conf": 0.9942697286605835, "hit": 1, "probs": [0.9942697286605835, 0.005730246659368277]}
+{"task": "email_escalate", "idx": "e1d4f8b8281fd9b2", "gold": 0, "pred": 0, "conf": 0.9724147915840149, "hit": 1, "probs": [0.9724147915840149, 0.027585284784436226]}
+{"task": "email_escalate", "idx": "6683632fe3eedc9e", "gold": 0, "pred": 0, "conf": 0.9920002222061157, "hit": 1, "probs": [0.9920002222061157, 0.007999754510819912]}
+{"task": "email_escalate", "idx": "4827b066d88b18af", "gold": 0, "pred": 0, "conf": 0.9942697286605835, "hit": 1, "probs": [0.9942697286605835, 0.005730246659368277]}
+{"task": "email_escalate", "idx": "521789674606cb1e", "gold": 0, "pred": 0, "conf": 0.9992563128471375, "hit": 1, "probs": [0.9992563128471375, 0.0007437029271386564]}
+{"task": "email_escalate", "idx": "6e57ca38fa999ccf", "gold": 0, "pred": 0, "conf": 0.999823272228241, "hit": 1, "probs": [0.999823272228241, 0.00017674513219390064]}
+{"task": "email_escalate", "idx": "c1b8ef08962fb493", "gold": 0, "pred": 0, "conf": 0.999464213848114, "hit": 1, "probs": [0.999464213848114, 0.0005357805639505386]}
+{"task": "email_escalate", "idx": "bc873d35e2d8ea98", "gold": 0, "pred": 0, "conf": 0.9997219443321228, "hit": 1, "probs": [0.9997219443321228, 0.0002780309587251395]}
+{"task": "email_escalate", "idx": "906de11d870a5536", "gold": 0, "pred": 0, "conf": 0.9993928670883179, "hit": 1, "probs": [0.9993928670883179, 0.0006070755189284682]}
+{"task": "email_escalate", "idx": "4d416a2f6d45ea88", "gold": 0, "pred": 0, "conf": 0.9996429681777954, "hit": 1, "probs": [0.9996429681777954, 0.0003569705877453089]}
+{"task": "email_escalate", "idx": "e35d9d9253f3bbb9", "gold": 0, "pred": 0, "conf": 0.9988304972648621, "hit": 1, "probs": [0.9988304972648621, 0.0011695101857185364]}
+{"task": "email_escalate", "idx": "703fe7f084153cbe", "gold": 0, "pred": 0, "conf": 0.997065007686615, "hit": 1, "probs": [0.997065007686615, 0.0029349515680223703]}
+{"task": "email_escalate", "idx": "c2743cde2d9ae4dd", "gold": 0, "pred": 0, "conf": 0.9998766183853149, "hit": 1, "probs": [0.9998766183853149, 0.00012339458044152707]}
+{"task": "email_escalate", "idx": "b33f9b95662cb5ba", "gold": 0, "pred": 0, "conf": 0.9998365640640259, "hit": 1, "probs": [0.9998365640640259, 0.00016346470511052758]}
+{"task": "email_escalate", "idx": "e4b485bf2734f116", "gold": 0, "pred": 0, "conf": 0.9995891451835632, "hit": 1, "probs": [0.9995891451835632, 0.0004108485300093889]}
+{"task": "email_escalate", "idx": "46d5681472052c72", "gold": 0, "pred": 0, "conf": 0.9995272159576416, "hit": 1, "probs": [0.9995272159576416, 0.00047285447362810373]}
+{"task": "email_escalate", "idx": "9ed57fc916f9269c", "gold": 0, "pred": 0, "conf": 0.9996429681777954, "hit": 1, "probs": [0.9996429681777954, 0.0003569705877453089]}
+{"task": "email_escalate", "idx": "4cb7393328248e76", "gold": 0, "pred": 0, "conf": 0.9996800422668457, "hit": 1, "probs": [0.9996800422668457, 0.0003199982747901231]}
+{"task": "email_escalate", "idx": "b2d768aa85bfe2c1", "gold": 0, "pred": 0, "conf": 0.9997507929801941, "hit": 1, "probs": [0.9997507929801941, 0.00024923254386521876]}
+{"task": "email_escalate", "idx": "64fba75f60fb6063", "gold": 0, "pred": 0, "conf": 0.999823272228241, "hit": 1, "probs": [0.999823272228241, 0.00017674513219390064]}
+{"task": "email_escalate", "idx": "8700075aeeea5ed7", "gold": 0, "pred": 0, "conf": 0.9996750354766846, "hit": 1, "probs": [0.9996750354766846, 0.00032503585680387914]}
+{"task": "email_escalate", "idx": "67bae18edb9adf87", "gold": 0, "pred": 0, "conf": 0.9996429681777954, "hit": 1, "probs": [0.9996429681777954, 0.0003569705877453089]}
+{"task": "email_escalate", "idx": "8ecbc3be258f0b2f", "gold": 0, "pred": 0, "conf": 0.9987356066703796, "hit": 1, "probs": [0.9987356066703796, 0.0012644219677895308]}
+{"task": "email_escalate", "idx": "2fd52cb80f4864a4", "gold": 0, "pred": 0, "conf": 0.9998260140419006, "hit": 1, "probs": [0.9998260140419006, 0.00017400544311385602]}
+{"task": "email_escalate", "idx": "ed4f2021b40be762", "gold": 0, "pred": 0, "conf": 0.9995827078819275, "hit": 1, "probs": [0.9995827078819275, 0.00041731575038284063]}
+{"task": "email_escalate", "idx": "23da1e84baa34a0e", "gold": 0, "pred": 0, "conf": 0.9984269142150879, "hit": 1, "probs": [0.9984269142150879, 0.0015731120947748423]}
+{"task": "email_escalate", "idx": "368f3c5d486e880f", "gold": 0, "pred": 0, "conf": 0.9994966983795166, "hit": 1, "probs": [0.9994966983795166, 0.0005033356137573719]}
+{"task": "email_escalate", "idx": "6fe43eedb190aba4", "gold": 0, "pred": 0, "conf": 0.9997933506965637, "hit": 1, "probs": [0.9997933506965637, 0.00020662981842178851]}
+{"task": "email_escalate", "idx": "2f72338f95e8f3af", "gold": 0, "pred": 0, "conf": 0.9995487332344055, "hit": 1, "probs": [0.9995487332344055, 0.0004512106243055314]}
+{"task": "email_escalate", "idx": "bd4f9e3744db9520", "gold": 0, "pred": 0, "conf": 0.9997933506965637, "hit": 1, "probs": [0.9997933506965637, 0.00020662981842178851]}
+{"task": "email_escalate", "idx": "bd4f9e3744db9520", "gold": 0, "pred": 0, "conf": 0.9997933506965637, "hit": 1, "probs": [0.9997933506965637, 0.00020662981842178851]}
+{"task": "email_escalate", "idx": "07872b90ad93e575", "gold": 0, "pred": 0, "conf": 0.9996079802513123, "hit": 1, "probs": [0.9996079802513123, 0.0003920417802873999]}
+{"task": "email_escalate", "idx": "38cef51a8d087fc6", "gold": 0, "pred": 0, "conf": 0.9997262358665466, "hit": 1, "probs": [0.9997262358665466, 0.00027372167096473277]}
+{"task": "email_escalate", "idx": "42d41fc8c997fd23", "gold": 0, "pred": 0, "conf": 0.9988120794296265, "hit": 1, "probs": [0.9988120794296265, 0.0011879054363816977]}
+{"task": "email_escalate", "idx": "6881e2bf9785db67", "gold": 0, "pred": 1, "conf": 0.8509646654129028, "hit": 0, "probs": [0.1490352898836136, 0.8509646654129028]}
+{"task": "email_escalate", "idx": "1ebf9f115dd5936e", "gold": 0, "pred": 0, "conf": 0.9988840222358704, "hit": 1, "probs": [0.9988840222358704, 0.0011160143185406923]}
+{"task": "email_escalate", "idx": "81ba5b6c8b6128c9", "gold": 0, "pred": 0, "conf": 0.998793363571167, "hit": 1, "probs": [0.998793363571167, 0.0012065897462889552]}
+{"task": "email_escalate", "idx": "70068c2b48c057c4", "gold": 0, "pred": 0, "conf": 0.9997695088386536, "hit": 1, "probs": [0.9997695088386536, 0.00023050671734381467]}
+{"task": "email_escalate", "idx": "2cc12bc29f5fb67e", "gold": 0, "pred": 0, "conf": 0.9992678761482239, "hit": 1, "probs": [0.9992678761482239, 0.0007321813027374446]}
+{"task": "email_escalate", "idx": "a4f666d340d0f5ee", "gold": 0, "pred": 0, "conf": 0.9890975952148438, "hit": 1, "probs": [0.9890975952148438, 0.010902373120188713]}
+{"task": "email_escalate", "idx": "7cabd21ede8dc03d", "gold": 0, "pred": 0, "conf": 0.9997658133506775, "hit": 1, "probs": [0.9997658133506775, 0.00023413580493070185]}
+{"task": "email_escalate", "idx": "d6c143f0b1ce2234", "gold": 0, "pred": 0, "conf": 0.9997428059577942, "hit": 1, "probs": [0.9997428059577942, 0.00025714197545312345]}
+{"task": "email_escalate", "idx": "a470475e934f4f1b", "gold": 0, "pred": 0, "conf": 0.9996849298477173, "hit": 1, "probs": [0.9996849298477173, 0.0003150386910419911]}
+{"task": "email_escalate", "idx": "3e457a8c1f4d589e", "gold": 0, "pred": 0, "conf": 0.9995761513710022, "hit": 1, "probs": [0.9995761513710022, 0.00042388474685139954]}
+{"task": "email_escalate", "idx": "55fb884e94b9376d", "gold": 0, "pred": 0, "conf": 0.9996947050094604, "hit": 1, "probs": [0.9996947050094604, 0.00030534894904121757]}
+{"task": "email_escalate", "idx": "fd09308cd29a8d25", "gold": 0, "pred": 0, "conf": 0.9998944997787476, "hit": 1, "probs": [0.9998944997787476, 0.00010554686741670594]}
+{"task": "email_escalate", "idx": "0934619cb59f2671", "gold": 0, "pred": 0, "conf": 0.9994725584983826, "hit": 1, "probs": [0.9994725584983826, 0.0005274784634821117]}
+{"task": "email_escalate", "idx": "43c5a3a23fceb68b", "gold": 0, "pred": 0, "conf": 0.9984512329101562, "hit": 1, "probs": [0.9984512329101562, 0.0015487611526623368]}
+{"task": "email_escalate", "idx": "33db336ba35ae440", "gold": 0, "pred": 0, "conf": 0.9968273043632507, "hit": 1, "probs": [0.9968273043632507, 0.0031726830638945103]}
+{"task": "email_escalate", "idx": "2745de3bab794cf8", "gold": 0, "pred": 0, "conf": 0.7318258285522461, "hit": 1, "probs": [0.7318258285522461, 0.26817411184310913]}
+{"task": "email_escalate", "idx": "49c8e400948cd4b3", "gold": 0, "pred": 0, "conf": 0.977022647857666, "hit": 1, "probs": [0.977022647857666, 0.022977370768785477]}
+{"task": "email_escalate", "idx": "ead75b9007292ac3", "gold": 0, "pred": 0, "conf": 0.9994725584983826, "hit": 1, "probs": [0.9994725584983826, 0.0005274784634821117]}
+{"task": "email_escalate", "idx": "ab13a26d0edfe28f", "gold": 0, "pred": 0, "conf": 0.9997507929801941, "hit": 1, "probs": [0.9997507929801941, 0.00024923254386521876]}
+{"task": "email_escalate", "idx": "b6694cdf31e92662", "gold": 0, "pred": 0, "conf": 0.9998205304145813, "hit": 1, "probs": [0.9998205304145813, 0.00017952796770259738]}
+{"task": "email_escalate", "idx": "4978dc0e9b5777e7", "gold": 0, "pred": 0, "conf": 0.995866060256958, "hit": 1, "probs": [0.995866060256958, 0.004133968148380518]}
+{"task": "email_escalate", "idx": "95940082d8e01da1", "gold": 0, "pred": 0, "conf": 0.9992792010307312, "hit": 1, "probs": [0.9992792010307312, 0.0007208380266092718]}
+{"task": "email_escalate", "idx": "b1602365775f5448", "gold": 0, "pred": 0, "conf": 0.9991832375526428, "hit": 1, "probs": [0.9991832375526428, 0.000816738058347255]}
+{"task": "email_escalate", "idx": "a90063fd86c080d9", "gold": 0, "pred": 0, "conf": 0.9996079802513123, "hit": 1, "probs": [0.9996079802513123, 0.0003920417802873999]}
+{"task": "email_escalate", "idx": "62c67cf090a33eac", "gold": 0, "pred": 0, "conf": 0.9998260140419006, "hit": 1, "probs": [0.9998260140419006, 0.00017400544311385602]}
+{"task": "email_escalate", "idx": "62c67cf090a33eac", "gold": 0, "pred": 0, "conf": 0.9998205304145813, "hit": 1, "probs": [0.9998205304145813, 0.00017952796770259738]}
+{"task": "email_escalate", "idx": "53277ee28a47bc0d", "gold": 0, "pred": 0, "conf": 0.9995197057723999, "hit": 1, "probs": [0.9995197057723999, 0.00048029725439846516]}
+{"task": "email_escalate", "idx": "9c5f9edddf398a8f", "gold": 0, "pred": 0, "conf": 0.9989182949066162, "hit": 1, "probs": [0.9989182949066162, 0.0010817153379321098]}
+{"task": "email_escalate", "idx": "3e410070e1554e67", "gold": 0, "pred": 0, "conf": 0.9998339414596558, "hit": 1, "probs": [0.9998339414596558, 0.00016603847325313836]}
+{"task": "email_escalate", "idx": "aab92f91a0364297", "gold": 0, "pred": 0, "conf": 0.9998745918273926, "hit": 1, "probs": [0.9998745918273926, 0.00012533750850707293]}
+{"task": "email_escalate", "idx": "57967fef9c11593b", "gold": 0, "pred": 0, "conf": 0.9997658133506775, "hit": 1, "probs": [0.9997658133506775, 0.00023413580493070185]}
+{"task": "email_escalate", "idx": "ae37c72c08109abb", "gold": 0, "pred": 0, "conf": 0.999464213848114, "hit": 1, "probs": [0.999464213848114, 0.0005357805639505386]}
+{"task": "email_escalate", "idx": "63fdaa63e5211a8b", "gold": 0, "pred": 0, "conf": 0.999464213848114, "hit": 1, "probs": [0.999464213848114, 0.0005357805639505386]}
+{"task": "email_escalate", "idx": "a535c77805843262", "gold": 0, "pred": 0, "conf": 0.999322772026062, "hit": 1, "probs": [0.999322772026062, 0.0006771942134946585]}
+{"task": "email_escalate", "idx": "bbba52bd75b01c8f", "gold": 0, "pred": 0, "conf": 0.9997085928916931, "hit": 1, "probs": [0.9997085928916931, 0.00029137005913071334]}
+{"task": "email_escalate", "idx": "d98c41ab6204283e", "gold": 0, "pred": 0, "conf": 0.999312162399292, "hit": 1, "probs": [0.999312162399292, 0.0006878511630930007]}
+{"task": "email_escalate", "idx": "d18d2ccc722372f8", "gold": 0, "pred": 0, "conf": 0.9995761513710022, "hit": 1, "probs": [0.9995761513710022, 0.00042388474685139954]}
+{"task": "email_escalate", "idx": "ea2ecdd1ba04c5fa", "gold": 0, "pred": 0, "conf": 0.9998944997787476, "hit": 1, "probs": [0.9998944997787476, 0.00010554686741670594]}
+{"task": "email_escalate", "idx": "f63e04f135ff3d38", "gold": 0, "pred": 0, "conf": 0.9998840093612671, "hit": 1, "probs": [0.9998840093612671, 0.00011591934162424877]}
+{"task": "email_escalate", "idx": "5780426d69491593", "gold": 0, "pred": 0, "conf": 0.9998464584350586, "hit": 1, "probs": [0.9998464584350586, 0.00015356240328401327]}
+{"task": "email_escalate", "idx": "0f78e19d41ba56f7", "gold": 0, "pred": 0, "conf": 0.9998390674591064, "hit": 1, "probs": [0.9998390674591064, 0.00016093082376755774]}
+{"task": "email_escalate", "idx": "436db7e4fa9aa334", "gold": 0, "pred": 0, "conf": 0.9990745782852173, "hit": 1, "probs": [0.9990745782852173, 0.0009253848693333566]}
+{"task": "email_escalate", "idx": "2a3a49c140f291cd", "gold": 0, "pred": 0, "conf": 0.9169314503669739, "hit": 1, "probs": [0.9169314503669739, 0.08306849747896194]}
+{"task": "email_escalate", "idx": "31a5c7851c2be870", "gold": 0, "pred": 0, "conf": 0.9987744688987732, "hit": 1, "probs": [0.9987744688987732, 0.0012255674228072166]}
+{"task": "email_escalate", "idx": "c43d8850f2663f11", "gold": 0, "pred": 0, "conf": 0.9997085928916931, "hit": 1, "probs": [0.9997085928916931, 0.00029137005913071334]}
+{"task": "email_escalate", "idx": "f04a879dcccf2a5a", "gold": 0, "pred": 0, "conf": 0.9997901320457458, "hit": 1, "probs": [0.9997901320457458, 0.0002098830882459879]}
+{"task": "email_escalate", "idx": "8219e972d778671d", "gold": 0, "pred": 0, "conf": 0.9992678761482239, "hit": 1, "probs": [0.9992678761482239, 0.0007321813027374446]}
+{"task": "email_escalate", "idx": "b0985a8661341b56", "gold": 0, "pred": 0, "conf": 0.9997507929801941, "hit": 1, "probs": [0.9997507929801941, 0.00024923254386521876]}
+{"task": "email_escalate", "idx": "ee700d8824fe6133", "gold": 0, "pred": 0, "conf": 0.9997428059577942, "hit": 1, "probs": [0.9997428059577942, 0.00025714197545312345]}
+{"task": "email_escalate", "idx": "c846522bac36e670", "gold": 0, "pred": 0, "conf": 0.9989182949066162, "hit": 1, "probs": [0.9989182949066162, 0.0010817153379321098]}
+{"task": "email_escalate", "idx": "389818b0a86306f4", "gold": 0, "pred": 0, "conf": 0.9991306662559509, "hit": 1, "probs": [0.9991306662559509, 0.0008693673880770802]}
+{"task": "email_escalate", "idx": "7cb45b984ec8d7fb", "gold": 0, "pred": 0, "conf": 0.9996316432952881, "hit": 1, "probs": [0.9996316432952881, 0.00036829791497439146]}
+{"task": "email_escalate", "idx": "ae73bc1c27578f4d", "gold": 0, "pred": 0, "conf": 0.9999274015426636, "hit": 1, "probs": [0.9999274015426636, 7.254361844388768e-05]}
+{"task": "email_escalate", "idx": "8106b01cf3fd2206", "gold": 0, "pred": 0, "conf": 0.9991030693054199, "hit": 1, "probs": [0.9991030693054199, 0.0008969393093138933]}
+{"task": "email_escalate", "idx": "0492815b69950ac4", "gold": 0, "pred": 0, "conf": 0.9990302324295044, "hit": 1, "probs": [0.9990302324295044, 0.0009697519126348197]}
+{"task": "email_escalate", "idx": "b281857975a5ce29", "gold": 0, "pred": 0, "conf": 0.99935382604599, "hit": 1, "probs": [0.99935382604599, 0.0006462032906711102]}
+{"task": "email_escalate", "idx": "31024606687f56b3", "gold": 0, "pred": 0, "conf": 0.9996800422668457, "hit": 1, "probs": [0.9996800422668457, 0.0003199982747901231]}
+{"task": "email_escalate", "idx": "21cdd4577f3145fc", "gold": 0, "pred": 0, "conf": 0.9576556086540222, "hit": 1, "probs": [0.9576556086540222, 0.042344383895397186]}
+{"task": "email_escalate", "idx": "c8936626151c0a6a", "gold": 0, "pred": 0, "conf": 0.9996373653411865, "hit": 1, "probs": [0.9996373653411865, 0.00036259007174521685]}
+{"task": "email_escalate", "idx": "4ac51af304afa6b3", "gold": 0, "pred": 0, "conf": 0.9991440773010254, "hit": 1, "probs": [0.9991440773010254, 0.0008559006382711232]}
+{"task": "email_escalate", "idx": "9a0f6e2b27636bfb", "gold": 0, "pred": 0, "conf": 0.9993833303451538, "hit": 1, "probs": [0.9993833303451538, 0.0006166296661831439]}
+{"task": "email_escalate", "idx": "369cf111b8c42d77", "gold": 0, "pred": 0, "conf": 0.9986114501953125, "hit": 1, "probs": [0.9986114501953125, 0.0013885233784094453]}
+{"task": "email_escalate", "idx": "90482a332f6edf24", "gold": 0, "pred": 0, "conf": 0.9998579025268555, "hit": 1, "probs": [0.9998579025268555, 0.0001420236221747473]}
+{"task": "email_escalate", "idx": "5f501efcbdf1d446", "gold": 0, "pred": 0, "conf": 0.9993638396263123, "hit": 1, "probs": [0.9993638396263123, 0.0006361911655403674]}
+{"task": "email_escalate", "idx": "2e2473d617c53757", "gold": 0, "pred": 1, "conf": 0.9425067901611328, "hit": 0, "probs": [0.05749327689409256, 0.9425067901611328]}
+{"task": "email_escalate", "idx": "3b09044641208f67", "gold": 0, "pred": 0, "conf": 0.9990302324295044, "hit": 1, "probs": [0.9990302324295044, 0.0009697519126348197]}
+{"task": "email_escalate", "idx": "bdc4add0580f3d97", "gold": 0, "pred": 0, "conf": 0.9927672147750854, "hit": 1, "probs": [0.9927672147750854, 0.007232763338834047]}
+{"task": "email_escalate", "idx": "bdc4add0580f3d97", "gold": 0, "pred": 0, "conf": 0.9926542043685913, "hit": 1, "probs": [0.9926542043685913, 0.007345826365053654]}
+{"task": "email_escalate", "idx": "fe3f97bd36c47015", "gold": 1, "pred": 1, "conf": 0.5640984773635864, "hit": 1, "probs": [0.4359015226364136, 0.5640984773635864]}
+{"task": "email_escalate", "idx": "fade5379eae6ec51", "gold": 0, "pred": 0, "conf": 0.9991573095321655, "hit": 1, "probs": [0.9991573095321655, 0.0008426422718912363]}
+{"task": "email_escalate", "idx": "f2c3d195d976ce71", "gold": 0, "pred": 0, "conf": 0.9992563128471375, "hit": 1, "probs": [0.9992563128471375, 0.0007437029271386564]}
+{"task": "email_escalate", "idx": "45e00dc4dde764e9", "gold": 0, "pred": 0, "conf": 0.9984752535820007, "hit": 1, "probs": [0.9984752535820007, 0.001524786464869976]}
+{"task": "email_escalate", "idx": "fafaedccf4003c58", "gold": 0, "pred": 0, "conf": 0.9995487332344055, "hit": 1, "probs": [0.9995487332344055, 0.0004512106243055314]}
+{"task": "email_escalate", "idx": "72dc9029bb166b00", "gold": 0, "pred": 0, "conf": 0.9998260140419006, "hit": 1, "probs": [0.9998260140419006, 0.00017400544311385602]}
+{"task": "email_escalate", "idx": "95d498689d2083ca", "gold": 0, "pred": 0, "conf": 0.999312162399292, "hit": 1, "probs": [0.999312162399292, 0.0006878511630930007]}
+{"task": "email_escalate", "idx": "183f3feaf7a2d236", "gold": 0, "pred": 0, "conf": 0.999208390712738, "hit": 1, "probs": [0.999208390712738, 0.0007916296017356217]}
+{"task": "email_escalate", "idx": "c829d2421adc1df1", "gold": 0, "pred": 0, "conf": 0.9984021782875061, "hit": 1, "probs": [0.9984021782875061, 0.001597845577634871]}
+{"task": "email_escalate", "idx": "35ffc440c66ba50e", "gold": 0, "pred": 0, "conf": 0.9977830052375793, "hit": 1, "probs": [0.9977830052375793, 0.002217013156041503]}
+{"task": "email_escalate", "idx": "c465864d859515c6", "gold": 0, "pred": 0, "conf": 0.9968273043632507, "hit": 1, "probs": [0.9968273043632507, 0.0031726830638945103]}
+{"task": "email_escalate", "idx": "1e9473409774f065", "gold": 0, "pred": 0, "conf": 0.9997175335884094, "hit": 1, "probs": [0.9997175335884094, 0.0002824080875143409]}
+{"task": "email_escalate", "idx": "3d3a785d2ce87c22", "gold": 0, "pred": 1, "conf": 0.8244618773460388, "hit": 0, "probs": [0.1755380630493164, 0.8244618773460388]}
+{"task": "email_escalate", "idx": "6048d21e28f86cd0", "gold": 0, "pred": 0, "conf": 0.9991440773010254, "hit": 1, "probs": [0.9991440773010254, 0.0008559006382711232]}
+{"task": "email_escalate", "idx": "04f268490cd2f8b3", "gold": 0, "pred": 0, "conf": 0.9997901320457458, "hit": 1, "probs": [0.9997901320457458, 0.0002098830882459879]}
+{"task": "email_escalate", "idx": "4f5160f2e0fb5780", "gold": 0, "pred": 0, "conf": 0.9969245791435242, "hit": 1, "probs": [0.9969245791435242, 0.00307536986656487]}
+{"task": "email_escalate", "idx": "f3b6521e54717eb5", "gold": 0, "pred": 0, "conf": 0.9994296431541443, "hit": 1, "probs": [0.9994296431541443, 0.0005703156930394471]}
+{"task": "email_escalate", "idx": "434d3055ea93cbcd", "gold": 0, "pred": 0, "conf": 0.9921841025352478, "hit": 1, "probs": [0.9921841025352478, 0.007815889082849026]}
+{"task": "email_escalate", "idx": "88f0aca6245e9b45", "gold": 0, "pred": 0, "conf": 0.9938070178031921, "hit": 1, "probs": [0.9938070178031921, 0.006192990578711033]}
+{"task": "email_escalate", "idx": "fabc4ee1de6c30f8", "gold": 0, "pred": 0, "conf": 0.9471859931945801, "hit": 1, "probs": [0.9471859931945801, 0.052814025431871414]}
+{"task": "email_escalate", "idx": "6f2c20deba5f7e28", "gold": 0, "pred": 0, "conf": 0.9998205304145813, "hit": 1, "probs": [0.9998205304145813, 0.00017952796770259738]}
+{"task": "email_escalate", "idx": "e9518a86ac26879c", "gold": 0, "pred": 0, "conf": 0.9998977184295654, "hit": 1, "probs": [0.9998977184295654, 0.00010229985491605476]}
+{"task": "email_escalate", "idx": "f868e2baac5a7154", "gold": 0, "pred": 0, "conf": 0.9994471669197083, "hit": 1, "probs": [0.9994471669197083, 0.000552778597921133]}
+{"task": "email_escalate", "idx": "1aff0699bca250c1", "gold": 0, "pred": 0, "conf": 0.9997765421867371, "hit": 1, "probs": [0.9997765421867371, 0.0002234163403045386]}
+{"task": "email_escalate", "idx": "754eb59d1f9d2d46", "gold": 0, "pred": 0, "conf": 0.9989012479782104, "hit": 1, "probs": [0.9989012479782104, 0.001098731067031622]}
+{"task": "email_escalate", "idx": "990bdb83246c1f37", "gold": 0, "pred": 0, "conf": 0.9999203681945801, "hit": 1, "probs": [0.9999203681945801, 7.9673009167891e-05]}
+{"task": "email_escalate", "idx": "a99d5fd1f3a2c422", "gold": 0, "pred": 0, "conf": 0.9780517220497131, "hit": 1, "probs": [0.9780517220497131, 0.021948255598545074]}
+{"task": "email_escalate", "idx": "8897ef415914aefc", "gold": 0, "pred": 0, "conf": 0.9996898174285889, "hit": 1, "probs": [0.9996898174285889, 0.00031015597051009536]}
+{"task": "email_escalate", "idx": "972954296b764b25", "gold": 0, "pred": 0, "conf": 0.9671630263328552, "hit": 1, "probs": [0.9671630263328552, 0.03283695504069328]}
+{"task": "email_escalate", "idx": "84ea3509f9ab1911", "gold": 0, "pred": 0, "conf": 0.9996993541717529, "hit": 1, "probs": [0.9996993541717529, 0.0003006163169629872]}
+{"task": "email_escalate", "idx": "e0d1e8f4c1f9be8d", "gold": 0, "pred": 0, "conf": 0.9996849298477173, "hit": 1, "probs": [0.9996849298477173, 0.0003150386910419911]}
+{"task": "email_escalate", "idx": "52c692490b13f09d", "gold": 1, "pred": 0, "conf": 0.9044819474220276, "hit": 0, "probs": [0.9044819474220276, 0.0955180823802948]}
+{"task": "email_escalate", "idx": "9b1a8a26498ed37b", "gold": 0, "pred": 0, "conf": 0.9994296431541443, "hit": 1, "probs": [0.9994296431541443, 0.0005703156930394471]}
+{"task": "email_escalate", "idx": "113f496f253907d0", "gold": 0, "pred": 0, "conf": 0.9994725584983826, "hit": 1, "probs": [0.9994725584983826, 0.0005274784634821117]}
+{"task": "email_escalate", "idx": "0b763d5bf57683c6", "gold": 0, "pred": 0, "conf": 0.9995344877243042, "hit": 1, "probs": [0.9995344877243042, 0.0004655269149225205]}
+{"task": "email_escalate", "idx": "d46096c271899bc0", "gold": 0, "pred": 0, "conf": 0.9997730851173401, "hit": 1, "probs": [0.9997730851173401, 0.00022693384380545467]}
+{"task": "email_escalate", "idx": "2fad630798e6907a", "gold": 0, "pred": 0, "conf": 0.9998118281364441, "hit": 1, "probs": [0.9998118281364441, 0.0001881420612335205]}
+{"task": "email_escalate", "idx": "f20e9ae055db3502", "gold": 0, "pred": 0, "conf": 0.9996429681777954, "hit": 1, "probs": [0.9996429681777954, 0.0003569705877453089]}
+{"task": "email_escalate", "idx": "962394935bdb6a58", "gold": 0, "pred": 0, "conf": 0.9997428059577942, "hit": 1, "probs": [0.9997428059577942, 0.00025714197545312345]}
+{"task": "email_escalate", "idx": "38cc55fc05a1b064", "gold": 0, "pred": 1, "conf": 0.917302668094635, "hit": 0, "probs": [0.08269733935594559, 0.917302668094635]}
+{"task": "email_escalate", "idx": "15a198df1cb39bf2", "gold": 0, "pred": 0, "conf": 0.9996316432952881, "hit": 1, "probs": [0.9996316432952881, 0.00036829791497439146]}
+{"task": "email_escalate", "idx": "64503f34a954d637", "gold": 0, "pred": 0, "conf": 0.9992563128471375, "hit": 1, "probs": [0.9992563128471375, 0.0007437029271386564]}
+{"task": "email_escalate", "idx": "debd17c18d82f781", "gold": 0, "pred": 0, "conf": 0.9996750354766846, "hit": 1, "probs": [0.9996750354766846, 0.00032503585680387914]}
+{"task": "email_escalate", "idx": "080d339d615c6531", "gold": 0, "pred": 0, "conf": 0.9965165853500366, "hit": 1, "probs": [0.9965165853500366, 0.0034834244288504124]}
+{"task": "email_escalate", "idx": "452b9a9f39c2a214", "gold": 0, "pred": 0, "conf": 0.9985221028327942, "hit": 1, "probs": [0.9985221028327942, 0.0014779429184272885]}
+{"task": "email_escalate", "idx": "afcf5f13f6c40e65", "gold": 0, "pred": 0, "conf": 0.9995344877243042, "hit": 1, "probs": [0.9995344877243042, 0.0004655269149225205]}
+{"task": "email_escalate", "idx": "887c7930a66b0e45", "gold": 0, "pred": 0, "conf": 0.9962345957756042, "hit": 1, "probs": [0.9962345957756042, 0.0037654137704521418]}
+{"task": "email_escalate", "idx": "edceddd87735af86", "gold": 0, "pred": 0, "conf": 0.9996699094772339, "hit": 1, "probs": [0.9996699094772339, 0.0003301527176517993]}
+{"task": "email_escalate", "idx": "5ff1b4907a623d7c", "gold": 0, "pred": 0, "conf": 0.999312162399292, "hit": 1, "probs": [0.999312162399292, 0.0006878511630930007]}
+{"task": "email_escalate", "idx": "f78b332af02926af", "gold": 0, "pred": 0, "conf": 0.9991573095321655, "hit": 1, "probs": [0.9991573095321655, 0.0008426422718912363]}
+{"task": "email_escalate", "idx": "b79f1e2b7c38e3f3", "gold": 0, "pred": 0, "conf": 0.9978843331336975, "hit": 1, "probs": [0.9978843331336975, 0.0021157036535441875]}
+{"task": "email_escalate", "idx": "1b88f18e8c0eed40", "gold": 0, "pred": 0, "conf": 0.999438464641571, "hit": 1, "probs": [0.999438464641571, 0.0005614787223748863]}
+{"task": "email_escalate", "idx": "127d8133a058e4b6", "gold": 0, "pred": 0, "conf": 0.99935382604599, "hit": 1, "probs": [0.99935382604599, 0.0006462032906711102]}
+{"task": "email_escalate", "idx": "e5466dc2615af963", "gold": 0, "pred": 0, "conf": 0.9997695088386536, "hit": 1, "probs": [0.9997695088386536, 0.00023050671734381467]}
+{"task": "email_escalate", "idx": "4d16cd16b3096c1b", "gold": 0, "pred": 0, "conf": 0.907271146774292, "hit": 1, "probs": [0.907271146774292, 0.09272884577512741]}
+{"task": "email_escalate", "idx": "6945b78f774042bf", "gold": 0, "pred": 0, "conf": 0.9924227595329285, "hit": 1, "probs": [0.9924227595329285, 0.007577240467071533]}
+{"task": "email_escalate", "idx": "bfb8a77135c2669d", "gold": 0, "pred": 0, "conf": 0.9996540546417236, "hit": 1, "probs": [0.9996540546417236, 0.00034599160426296294]}
+{"task": "email_escalate", "idx": "bd88ac3c315f43cd", "gold": 0, "pred": 0, "conf": 0.9993333220481873, "hit": 1, "probs": [0.9993333220481873, 0.0006667023408226669]}
+{"task": "email_escalate", "idx": "0055e1e97b192b9c", "gold": 0, "pred": 0, "conf": 0.9995694756507874, "hit": 1, "probs": [0.9995694756507874, 0.0004305570910219103]}
+{"task": "email_escalate", "idx": "dea8042f6c4ab778", "gold": 0, "pred": 0, "conf": 0.9996594190597534, "hit": 1, "probs": [0.9996594190597534, 0.0003406293108128011]}
+{"task": "email_escalate", "idx": "9f2bfa920a169a8a", "gold": 0, "pred": 0, "conf": 0.9998058676719666, "hit": 1, "probs": [0.9998058676719666, 0.00019411317771300673]}
+{"task": "email_escalate", "idx": "2314f95ad67b9b26", "gold": 0, "pred": 0, "conf": 0.9998089671134949, "hit": 1, "probs": [0.9998089671134949, 0.00019110430730506778]}
+{"task": "email_escalate", "idx": "fedc59e2fdbb0fcb", "gold": 0, "pred": 0, "conf": 0.9997730851173401, "hit": 1, "probs": [0.9997730851173401, 0.00022693384380545467]}
+{"task": "email_escalate", "idx": "c71536b322ee1ee9", "gold": 0, "pred": 0, "conf": 0.999555766582489, "hit": 1, "probs": [0.999555766582489, 0.0004442183708306402]}
+{"task": "email_escalate", "idx": "03c6a993a5682815", "gold": 0, "pred": 0, "conf": 0.9998726844787598, "hit": 1, "probs": [0.9998726844787598, 0.00012731103925034404]}
+{"task": "email_escalate", "idx": "29e9ad9e40f25b8d", "gold": 0, "pred": 0, "conf": 0.999438464641571, "hit": 1, "probs": [0.999438464641571, 0.0005614787223748863]}
+{"task": "email_escalate", "idx": "12002d39b9d10819", "gold": 0, "pred": 0, "conf": 0.9995891451835632, "hit": 1, "probs": [0.9995891451835632, 0.0004108485300093889]}
+{"task": "email_escalate", "idx": "370ba8593ef49bb2", "gold": 0, "pred": 0, "conf": 0.9991440773010254, "hit": 1, "probs": [0.9991440773010254, 0.0008559006382711232]}
+{"task": "email_escalate", "idx": "a9297a1a2b44b6c7", "gold": 0, "pred": 0, "conf": 0.998217761516571, "hit": 1, "probs": [0.998217761516571, 0.001782196224667132]}
+{"task": "email_escalate", "idx": "17136d5a503d8588", "gold": 0, "pred": 0, "conf": 0.9952448010444641, "hit": 1, "probs": [0.9952448010444641, 0.004755199886858463]}
+{"task": "email_escalate", "idx": "44ff7a74647614cd", "gold": 0, "pred": 0, "conf": 0.9995121955871582, "hit": 1, "probs": [0.9995121955871582, 0.00048785717808641493]}
+{"task": "email_escalate", "idx": "20fb76af473a7623", "gold": 0, "pred": 0, "conf": 0.9998726844787598, "hit": 1, "probs": [0.9998726844787598, 0.00012731103925034404]}
+{"task": "email_escalate", "idx": "7d8be7ef2b151951", "gold": 0, "pred": 0, "conf": 0.9997346997261047, "hit": 1, "probs": [0.9997346997261047, 0.00026530236937105656]}
+{"task": "email_escalate", "idx": "d03cb96dc90a1c2e", "gold": 0, "pred": 0, "conf": 0.9996017813682556, "hit": 1, "probs": [0.9996017813682556, 0.00039821304380893707]}
+{"task": "email_escalate", "idx": "e74c68c7d98fca56", "gold": 0, "pred": 0, "conf": 0.9997658133506775, "hit": 1, "probs": [0.9997658133506775, 0.00023413580493070185]}
+{"task": "email_escalate", "idx": "f04d294148a2a16d", "gold": 0, "pred": 0, "conf": 0.9997428059577942, "hit": 1, "probs": [0.9997428059577942, 0.00025714197545312345]}
+{"task": "email_escalate", "idx": "a4dbbaa08fb542cc", "gold": 0, "pred": 0, "conf": 0.9998058676719666, "hit": 1, "probs": [0.9998058676719666, 0.00019411317771300673]}
+{"task": "email_escalate", "idx": "07b00c4780adca0f", "gold": 0, "pred": 0, "conf": 0.9998822212219238, "hit": 1, "probs": [0.9998822212219238, 0.00011774458835134283]}
+{"task": "email_escalate", "idx": "e85d12b861bd4aff", "gold": 0, "pred": 0, "conf": 0.999762237071991, "hit": 1, "probs": [0.999762237071991, 0.00023782205244060606]}
+{"task": "email_escalate", "idx": "0eb4c93ecbf7c526", "gold": 0, "pred": 0, "conf": 0.9993333220481873, "hit": 1, "probs": [0.9993333220481873, 0.0006667023408226669]}
+{"task": "email_escalate", "idx": "a0ebb6bd0394b729", "gold": 0, "pred": 0, "conf": 0.9998726844787598, "hit": 1, "probs": [0.9998726844787598, 0.00012731103925034404]}
+{"task": "email_escalate", "idx": "6424b3be5d4395ce", "gold": 0, "pred": 0, "conf": 0.9999097585678101, "hit": 1, "probs": [0.9999097585678101, 9.028039494296536e-05]}
+{"task": "email_escalate", "idx": "78536d6b81e382ab", "gold": 0, "pred": 0, "conf": 0.9996259212493896, "hit": 1, "probs": [0.9996259212493896, 0.00037409563083201647]}
+{"task": "email_escalate", "idx": "052e882f964d7947", "gold": 0, "pred": 0, "conf": 0.999555766582489, "hit": 1, "probs": [0.999555766582489, 0.0004442183708306402]}
+{"task": "email_escalate", "idx": "a714aae46601f71b", "gold": 0, "pred": 0, "conf": 0.9946980476379395, "hit": 1, "probs": [0.9946980476379395, 0.005301894620060921]}
+{"task": "email_escalate", "idx": "d593f750f0d5e463", "gold": 0, "pred": 0, "conf": 0.9998390674591064, "hit": 1, "probs": [0.9998390674591064, 0.00016093082376755774]}
+{"task": "email_escalate", "idx": "18592281193419ac", "gold": 0, "pred": 0, "conf": 0.9995121955871582, "hit": 1, "probs": [0.9995121955871582, 0.00048785717808641493]}
+{"task": "email_escalate", "idx": "811b80ad605b43de", "gold": 0, "pred": 1, "conf": 0.8856314420700073, "hit": 0, "probs": [0.11436852067708969, 0.8856314420700073]}
+{"task": "email_escalate", "idx": "199a9b5dfcfb0f40", "gold": 0, "pred": 0, "conf": 0.9998176693916321, "hit": 1, "probs": [0.9998176693916321, 0.00018235458992421627]}
+{"task": "email_escalate", "idx": "bcb5a305b359dd7b", "gold": 0, "pred": 0, "conf": 0.9775429368019104, "hit": 1, "probs": [0.9775429368019104, 0.022457055747509003]}
+{"task": "email_escalate", "idx": "c7380e03ee84523c", "gold": 0, "pred": 0, "conf": 0.9996079802513123, "hit": 1, "probs": [0.9996079802513123, 0.0003920417802873999]}
+{"task": "email_escalate", "idx": "f0ed6fc68ae40120", "gold": 0, "pred": 0, "conf": 0.999868631362915, "hit": 1, "probs": [0.999868631362915, 0.00013135180051904172]}
+{"task": "email_escalate", "idx": "24d1be06567efa38", "gold": 0, "pred": 0, "conf": 0.9997765421867371, "hit": 1, "probs": [0.9997765421867371, 0.0002234163403045386]}
+{"task": "email_escalate", "idx": "97f270dd2fafe601", "gold": 0, "pred": 0, "conf": 0.9990149736404419, "hit": 1, "probs": [0.9990149736404419, 0.0009850083151832223]}
+{"task": "email_escalate", "idx": "38450c73ed78af5d", "gold": 0, "pred": 0, "conf": 0.9997387528419495, "hit": 1, "probs": [0.9997387528419495, 0.00026119028916582465]}
+{"task": "email_escalate", "idx": "2321c5c2cfa960e8", "gold": 0, "pred": 1, "conf": 0.665410578250885, "hit": 0, "probs": [0.3345894515514374, 0.665410578250885]}
+{"task": "email_escalate", "idx": "1dd18fb06ef547d9", "gold": 0, "pred": 0, "conf": 0.9992563128471375, "hit": 1, "probs": [0.9992563128471375, 0.0007437029271386564]}
+{"task": "email_escalate", "idx": "89ca5c9c8820b58c", "gold": 0, "pred": 0, "conf": 0.997065007686615, "hit": 1, "probs": [0.997065007686615, 0.0029349515680223703]}
+{"task": "email_escalate", "idx": "511fa201eea58e9e", "gold": 0, "pred": 0, "conf": 0.9997219443321228, "hit": 1, "probs": [0.9997219443321228, 0.0002780309587251395]}
+{"task": "email_escalate", "idx": "eaf6897574e17931", "gold": 0, "pred": 0, "conf": 0.9997965693473816, "hit": 1, "probs": [0.9997965693473816, 0.00020342697098385543]}
+{"task": "email_escalate", "idx": "acba479d989ebd2d", "gold": 0, "pred": 0, "conf": 0.9992563128471375, "hit": 1, "probs": [0.9992563128471375, 0.0007437029271386564]}
+{"task": "email_escalate", "idx": "e0c97ea3cafe3f6f", "gold": 0, "pred": 0, "conf": 0.999438464641571, "hit": 1, "probs": [0.999438464641571, 0.0005614787223748863]}
+{"task": "email_escalate", "idx": "4b5fd3e63cc5fc94", "gold": 0, "pred": 0, "conf": 0.9986749291419983, "hit": 1, "probs": [0.9986749291419983, 0.001325022429227829]}
+{"task": "email_escalate", "idx": "7755e9b7724b3885", "gold": 1, "pred": 1, "conf": 0.9979493021965027, "hit": 1, "probs": [0.0020507434383034706, 0.9979493021965027]}
+{"task": "email_escalate", "idx": "c3f4cbc782bb5262", "gold": 0, "pred": 0, "conf": 0.8822250962257385, "hit": 1, "probs": [0.8822250962257385, 0.11777491122484207]}
+{"task": "email_escalate", "idx": "795ab818e5855bf6", "gold": 0, "pred": 0, "conf": 0.999595582485199, "hit": 1, "probs": [0.999595582485199, 0.00040448151412419975]}
+{"task": "email_escalate", "idx": "720f4588b0da29ec", "gold": 0, "pred": 1, "conf": 0.9989556074142456, "hit": 0, "probs": [0.0010443859500810504, 0.9989556074142456]}
+{"task": "email_escalate", "idx": "b504a216cc3d63f6", "gold": 0, "pred": 0, "conf": 0.999823272228241, "hit": 1, "probs": [0.999823272228241, 0.00017674513219390064]}
+{"task": "email_escalate", "idx": "1e0c90a524dd7ae9", "gold": 0, "pred": 0, "conf": 0.9801293015480042, "hit": 1, "probs": [0.9801293015480042, 0.019870713353157043]}
+{"task": "email_escalate", "idx": "2da61456928b8af4", "gold": 0, "pred": 0, "conf": 0.9676556587219238, "hit": 1, "probs": [0.9676556587219238, 0.032344330102205276]}
+{"task": "email_escalate", "idx": "d834c134e667bd0e", "gold": 0, "pred": 0, "conf": 0.998848557472229, "hit": 1, "probs": [0.998848557472229, 0.001151399570517242]}
+{"task": "email_escalate", "idx": "9ab42945007da017", "gold": 0, "pred": 0, "conf": 0.9996947050094604, "hit": 1, "probs": [0.9996947050094604, 0.00030534894904121757]}
+{"task": "email_escalate", "idx": "93879bb672e0eb5a", "gold": 0, "pred": 0, "conf": 0.9860442876815796, "hit": 1, "probs": [0.9860442876815796, 0.013955710455775261]}
+{"task": "email_escalate", "idx": "fed5302e15e22af1", "gold": 0, "pred": 0, "conf": 0.998793363571167, "hit": 1, "probs": [0.998793363571167, 0.0012065897462889552]}
+{"task": "email_escalate", "idx": "4127576726314d81", "gold": 0, "pred": 0, "conf": 0.9999125003814697, "hit": 1, "probs": [0.9999125003814697, 8.750300185056403e-05]}
+{"task": "email_escalate", "idx": "098286f907fa3f5f", "gold": 0, "pred": 0, "conf": 0.9999274015426636, "hit": 1, "probs": [0.9999274015426636, 7.254361844388768e-05]}
+{"task": "email_escalate", "idx": "0a67719d1a618bda", "gold": 0, "pred": 0, "conf": 0.9996540546417236, "hit": 1, "probs": [0.9996540546417236, 0.00034599160426296294]}
+{"task": "email_escalate", "idx": "295766cd14f3df49", "gold": 0, "pred": 0, "conf": 0.999045193195343, "hit": 1, "probs": [0.999045193195343, 0.000954731716774404]}
+{"task": "email_escalate", "idx": "accd441606b379bd", "gold": 0, "pred": 0, "conf": 0.9998910427093506, "hit": 1, "probs": [0.9998910427093506, 0.00010889690747717395]}
+{"task": "email_escalate", "idx": "f050808fb5b0e936", "gold": 0, "pred": 0, "conf": 0.999783456325531, "hit": 1, "probs": [0.999783456325531, 0.00021654403826687485]}
+{"task": "email_escalate", "idx": "74c6dc3864ceb36c", "gold": 0, "pred": 0, "conf": 0.9897513389587402, "hit": 1, "probs": [0.9897513389587402, 0.01024860143661499]}
+{"task": "email_escalate", "idx": "91aa396f7f473120", "gold": 0, "pred": 0, "conf": 0.999312162399292, "hit": 1, "probs": [0.999312162399292, 0.0006878511630930007]}
+{"task": "email_escalate", "idx": "2f478a1d28250af6", "gold": 0, "pred": 0, "conf": 0.9996140599250793, "hit": 1, "probs": [0.9996140599250793, 0.0003859660937450826]}
+{"task": "email_escalate", "idx": "7774160f5b1a4d95", "gold": 0, "pred": 0, "conf": 0.9985449314117432, "hit": 1, "probs": [0.9985449314117432, 0.0014550627674907446]}
+{"task": "email_escalate", "idx": "dc58f3e41a4e30ae", "gold": 0, "pred": 0, "conf": 0.9998557567596436, "hit": 1, "probs": [0.9998557567596436, 0.0001442598586436361]}
+{"task": "email_escalate", "idx": "57bc232b6c9e8811", "gold": 0, "pred": 0, "conf": 0.9887554049491882, "hit": 1, "probs": [0.9887554049491882, 0.011244560591876507]}
+{"task": "email_escalate", "idx": "92d187e6f2b76f07", "gold": 0, "pred": 0, "conf": 0.9998313188552856, "hit": 1, "probs": [0.9998313188552856, 0.00016865275392774493]}
+{"task": "email_escalate", "idx": "f72dc8e1e5fa9a2c", "gold": 0, "pred": 0, "conf": 0.999555766582489, "hit": 1, "probs": [0.999555766582489, 0.0004442183708306402]}
+{"task": "email_escalate", "idx": "55360834ca1ab83e", "gold": 0, "pred": 0, "conf": 0.9997175335884094, "hit": 1, "probs": [0.9997175335884094, 0.0002824080875143409]}
+{"task": "email_escalate", "idx": "d57efb65f59ba4b8", "gold": 0, "pred": 0, "conf": 0.9994725584983826, "hit": 1, "probs": [0.9994725584983826, 0.0005274784634821117]}
+{"task": "email_escalate", "idx": "e3a8d4e79f3e919c", "gold": 0, "pred": 0, "conf": 0.9994115829467773, "hit": 1, "probs": [0.9994115829467773, 0.0005884087877348065]}
+{"task": "email_escalate", "idx": "1ce715780634cda1", "gold": 0, "pred": 0, "conf": 0.9829546809196472, "hit": 1, "probs": [0.9829546809196472, 0.017045317217707634]}
+{"task": "email_escalate", "idx": "9ac730211e69628e", "gold": 0, "pred": 0, "conf": 0.9997428059577942, "hit": 1, "probs": [0.9997428059577942, 0.00025714197545312345]}
+{"task": "email_escalate", "idx": "4dad4f17e1ccc378", "gold": 0, "pred": 0, "conf": 0.9999203681945801, "hit": 1, "probs": [0.9999203681945801, 7.9673009167891e-05]}
+{"task": "email_escalate", "idx": "a3e921b36021c0c9", "gold": 0, "pred": 0, "conf": 0.9990890026092529, "hit": 1, "probs": [0.9990890026092529, 0.0009110512328334153]}
+{"task": "email_escalate", "idx": "485161b2f2b405a9", "gold": 0, "pred": 0, "conf": 0.9995891451835632, "hit": 1, "probs": [0.9995891451835632, 0.0004108485300093889]}
+{"task": "email_escalate", "idx": "514c9148d360a787", "gold": 0, "pred": 0, "conf": 0.9991704225540161, "hit": 1, "probs": [0.9991704225540161, 0.0008295891457237303]}
+{"task": "email_escalate", "idx": "4f993af2689a53a0", "gold": 0, "pred": 0, "conf": 0.9998028874397278, "hit": 1, "probs": [0.9998028874397278, 0.00019716942915692925]}
+{"task": "email_escalate", "idx": "d885fe1eb3680a79", "gold": 0, "pred": 0, "conf": 0.9986749291419983, "hit": 1, "probs": [0.9986749291419983, 0.001325022429227829]}
+{"task": "email_escalate", "idx": "641f54d16c4c43ed", "gold": 0, "pred": 0, "conf": 0.9998840093612671, "hit": 1, "probs": [0.9998840093612671, 0.00011591934162424877]}
+{"task": "email_escalate", "idx": "58d5be8e953d07c6", "gold": 0, "pred": 0, "conf": 0.9995197057723999, "hit": 1, "probs": [0.9995197057723999, 0.00048029725439846516]}
+{"task": "email_escalate", "idx": "aa61eb524e15be21", "gold": 0, "pred": 0, "conf": 0.999929666519165, "hit": 1, "probs": [0.999929666519165, 7.031184213701636e-05]}
+{"task": "email_escalate", "idx": "f339de7af896b9a3", "gold": 0, "pred": 0, "conf": 0.9996594190597534, "hit": 1, "probs": [0.9996594190597534, 0.0003406293108128011]}
+{"task": "email_escalate", "idx": "7f22780408cd8d4b", "gold": 0, "pred": 0, "conf": 0.998848557472229, "hit": 1, "probs": [0.998848557472229, 0.001151399570517242]}
+{"task": "email_escalate", "idx": "7f22780408cd8d4b", "gold": 0, "pred": 0, "conf": 0.9988664388656616, "hit": 1, "probs": [0.9988664388656616, 0.0011335689341649413]}
+{"task": "email_escalate", "idx": "14674e1d53ca6ae3", "gold": 0, "pred": 0, "conf": 0.9996750354766846, "hit": 1, "probs": [0.9996750354766846, 0.00032503585680387914]}
+{"task": "email_escalate", "idx": "c5e6545c9ccab2ce", "gold": 0, "pred": 0, "conf": 0.9996849298477173, "hit": 1, "probs": [0.9996849298477173, 0.0003150386910419911]}
+{"task": "email_escalate", "idx": "41f5b57f9168f730", "gold": 0, "pred": 0, "conf": 0.9994207620620728, "hit": 1, "probs": [0.9994207620620728, 0.0005792917218059301]}
+{"task": "email_escalate", "idx": "8db0b2870f011b37", "gold": 0, "pred": 0, "conf": 0.9998148083686829, "hit": 1, "probs": [0.9998148083686829, 0.00018522574100643396]}
+{"task": "email_escalate", "idx": "14fa87cd7812a91c", "gold": 0, "pred": 1, "conf": 0.9757624268531799, "hit": 0, "probs": [0.024237636476755142, 0.9757624268531799]}
+{"task": "email_escalate", "idx": "50450d151b8bb387", "gold": 0, "pred": 0, "conf": 0.9972423315048218, "hit": 1, "probs": [0.9972423315048218, 0.0027576221618801355]}
+{"task": "email_escalate", "idx": "0a94cd6cd69a2353", "gold": 0, "pred": 0, "conf": 0.9997901320457458, "hit": 1, "probs": [0.9997901320457458, 0.0002098830882459879]}
+{"task": "email_escalate", "idx": "bfa7f9f42cb599b2", "gold": 0, "pred": 0, "conf": 0.9997867941856384, "hit": 1, "probs": [0.9997867941856384, 0.0002131875662598759]}
+{"task": "email_escalate", "idx": "84658728fb027275", "gold": 0, "pred": 0, "conf": 0.9996947050094604, "hit": 1, "probs": [0.9996947050094604, 0.00030534894904121757]}
+{"task": "email_escalate", "idx": "e674526d41cdb5f1", "gold": 0, "pred": 0, "conf": 0.9996800422668457, "hit": 1, "probs": [0.9996800422668457, 0.0003199982747901231]}
+{"task": "email_escalate", "idx": "418872b43a50676f", "gold": 0, "pred": 0, "conf": 0.9995272159576416, "hit": 1, "probs": [0.9995272159576416, 0.00047285447362810373]}
+{"task": "email_escalate", "idx": "4123e1aae0a91b19", "gold": 0, "pred": 0, "conf": 0.9998804330825806, "hit": 1, "probs": [0.9998804330825806, 0.00011959858238697052]}
+{"task": "email_escalate", "idx": "a0de6e6f3c95a2f9", "gold": 0, "pred": 0, "conf": 0.9997219443321228, "hit": 1, "probs": [0.9997219443321228, 0.0002780309587251395]}
+{"task": "email_escalate", "idx": "7d1463a62575d54e", "gold": 0, "pred": 0, "conf": 0.9997305274009705, "hit": 1, "probs": [0.9997305274009705, 0.0002694791473913938]}
+{"task": "email_escalate", "idx": "82794b32b03a68db", "gold": 0, "pred": 0, "conf": 0.9996485710144043, "hit": 1, "probs": [0.9996485710144043, 0.0003514382697176188]}
+{"task": "email_escalate", "idx": "a274c62b888f6689", "gold": 0, "pred": 0, "conf": 0.998793363571167, "hit": 1, "probs": [0.998793363571167, 0.0012065897462889552]}
+{"task": "email_escalate", "idx": "f600df3a53f3de9b", "gold": 0, "pred": 0, "conf": 0.999555766582489, "hit": 1, "probs": [0.999555766582489, 0.0004442183708306402]}
+{"task": "email_escalate", "idx": "9817c17b814be783", "gold": 0, "pred": 0, "conf": 0.9944451451301575, "hit": 1, "probs": [0.9944451451301575, 0.005554925184696913]}
+{"task": "email_escalate", "idx": "9b60675288fa07d9", "gold": 0, "pred": 0, "conf": 0.9996993541717529, "hit": 1, "probs": [0.9996993541717529, 0.0003006163169629872]}
+{"task": "email_escalate", "idx": "4dde2021259d6d2a", "gold": 0, "pred": 0, "conf": 0.9980429410934448, "hit": 1, "probs": [0.9980429410934448, 0.001957016997039318]}
+{"task": "email_escalate", "idx": "f6afa48d26a68df1", "gold": 0, "pred": 0, "conf": 0.9963500499725342, "hit": 1, "probs": [0.9963500499725342, 0.003649987280368805]}
+{"task": "email_escalate", "idx": "76d7b739b86d7a3b", "gold": 0, "pred": 0, "conf": 0.9995121955871582, "hit": 1, "probs": [0.9995121955871582, 0.00048785717808641493]}
+{"task": "email_escalate", "idx": "104b13d7878594af", "gold": 0, "pred": 0, "conf": 0.9998557567596436, "hit": 1, "probs": [0.9998557567596436, 0.0001442598586436361]}
+{"task": "email_escalate", "idx": "85dce255eee27630", "gold": 0, "pred": 1, "conf": 0.9412234425544739, "hit": 0, "probs": [0.05877656117081642, 0.9412234425544739]}
+{"task": "email_escalate", "idx": "2d2541d8c195cde6", "gold": 0, "pred": 0, "conf": 0.9998875856399536, "hit": 1, "probs": [0.9998875856399536, 0.00011235327838221565]}
+{"task": "email_escalate", "idx": "e8003a67cd90b2a2", "gold": 0, "pred": 0, "conf": 0.9991030693054199, "hit": 1, "probs": [0.9991030693054199, 0.0008969393093138933]}
+{"task": "email_escalate", "idx": "cdff6861b5cefb29", "gold": 0, "pred": 0, "conf": 0.9996017813682556, "hit": 1, "probs": [0.9996017813682556, 0.00039821304380893707]}
+{"task": "email_escalate", "idx": "e39288c5b0716196", "gold": 0, "pred": 0, "conf": 0.9994966983795166, "hit": 1, "probs": [0.9994966983795166, 0.0005033356137573719]}
+{"task": "email_escalate", "idx": "16bef2930588a1bf", "gold": 0, "pred": 0, "conf": 0.9997262358665466, "hit": 1, "probs": [0.9997262358665466, 0.00027372167096473277]}
+{"task": "email_escalate", "idx": "d295191456e181d4", "gold": 0, "pred": 0, "conf": 0.9998840093612671, "hit": 1, "probs": [0.9998840093612671, 0.00011591934162424877]}
+{"task": "email_escalate", "idx": "177f1e51fe286cc2", "gold": 0, "pred": 0, "conf": 0.9996540546417236, "hit": 1, "probs": [0.9996540546417236, 0.00034599160426296294]}
+{"task": "email_escalate", "idx": "9b2160a2fa32eef9", "gold": 0, "pred": 0, "conf": 0.9996699094772339, "hit": 1, "probs": [0.9996699094772339, 0.0003301527176517993]}
+{"task": "email_escalate", "idx": "bdef637b48045042", "gold": 0, "pred": 0, "conf": 0.9995272159576416, "hit": 1, "probs": [0.9995272159576416, 0.00047285447362810373]}
+{"task": "email_escalate", "idx": "2130b132d1bf0a6e", "gold": 0, "pred": 0, "conf": 0.9997658133506775, "hit": 1, "probs": [0.9997658133506775, 0.00023413580493070185]}
+{"task": "email_escalate", "idx": "a660c5d158532e65", "gold": 0, "pred": 0, "conf": 0.9987744688987732, "hit": 1, "probs": [0.9987744688987732, 0.0012255674228072166]}
+{"task": "email_escalate", "idx": "2b00c7cd601259a6", "gold": 0, "pred": 0, "conf": 0.9997765421867371, "hit": 1, "probs": [0.9997765421867371, 0.0002234163403045386]}
+{"task": "email_escalate", "idx": "5ce9e332f86b00bd", "gold": 0, "pred": 0, "conf": 0.9997765421867371, "hit": 1, "probs": [0.9997765421867371, 0.0002234163403045386]}
+{"task": "email_escalate", "idx": "edbe1a501ecba31c", "gold": 0, "pred": 0, "conf": 0.9996259212493896, "hit": 1, "probs": [0.9996259212493896, 0.00037409563083201647]}
+{"task": "email_escalate", "idx": "b0d3fefb4debd64c", "gold": 0, "pred": 0, "conf": 0.9996079802513123, "hit": 1, "probs": [0.9996079802513123, 0.0003920417802873999]}
+{"task": "email_escalate", "idx": "6109f4caf3569ee0", "gold": 0, "pred": 0, "conf": 0.9994887113571167, "hit": 1, "probs": [0.9994887113571167, 0.0005112579092383385]}
+{"task": "email_escalate", "idx": "b49ea2818cb922ee", "gold": 0, "pred": 0, "conf": 0.9914886951446533, "hit": 1, "probs": [0.9914886951446533, 0.00851130299270153]}
+{"task": "email_escalate", "idx": "324c30f718a980d3", "gold": 0, "pred": 0, "conf": 0.9997965693473816, "hit": 1, "probs": [0.9997965693473816, 0.00020342697098385543]}
+{"task": "email_escalate", "idx": "e7809c53ebbe7c80", "gold": 0, "pred": 0, "conf": 0.999779999256134, "hit": 1, "probs": [0.999779999256134, 0.000219953348278068]}
+{"task": "email_escalate", "idx": "1b92bfabbe77cb52", "gold": 0, "pred": 0, "conf": 0.9994725584983826, "hit": 1, "probs": [0.9994725584983826, 0.0005274784634821117]}
+{"task": "email_escalate", "idx": "7bb389db1dc9ca5a", "gold": 0, "pred": 0, "conf": 0.9982725381851196, "hit": 1, "probs": [0.9982725381851196, 0.0017274586716666818]}
+{"task": "email_escalate", "idx": "0caaa978de7dac7c", "gold": 0, "pred": 0, "conf": 0.9998623132705688, "hit": 1, "probs": [0.9998623132705688, 0.0001376546424580738]}
+{"task": "email_escalate", "idx": "6830b6d9329ce8a2", "gold": 0, "pred": 0, "conf": 0.999868631362915, "hit": 1, "probs": [0.999868631362915, 0.00013135180051904172]}
+{"task": "email_escalate", "idx": "e3ba1a1d7e1df3c8", "gold": 0, "pred": 0, "conf": 0.9984021782875061, "hit": 1, "probs": [0.9984021782875061, 0.001597845577634871]}
+{"task": "email_escalate", "idx": "59fffd1f390c61ce", "gold": 0, "pred": 0, "conf": 0.999762237071991, "hit": 1, "probs": [0.999762237071991, 0.00023782205244060606]}
+{"task": "email_escalate", "idx": "dafd1d1e45a7938f", "gold": 0, "pred": 0, "conf": 0.9997965693473816, "hit": 1, "probs": [0.9997965693473816, 0.00020342697098385543]}
+{"task": "email_escalate", "idx": "acc07661dfe543a3", "gold": 0, "pred": 0, "conf": 0.9835969805717468, "hit": 1, "probs": [0.9835969805717468, 0.01640303246676922]}
+{"task": "email_escalate", "idx": "ccb526f570f09783", "gold": 0, "pred": 0, "conf": 0.9998176693916321, "hit": 1, "probs": [0.9998176693916321, 0.00018235458992421627]}
+{"task": "email_escalate", "idx": "8d8afcf122e39b06", "gold": 0, "pred": 0, "conf": 0.9996316432952881, "hit": 1, "probs": [0.9996316432952881, 0.00036829791497439146]}
+{"task": "email_escalate", "idx": "35790197b2170ef0", "gold": 0, "pred": 0, "conf": 0.9998579025268555, "hit": 1, "probs": [0.9998579025268555, 0.0001420236221747473]}
+{"task": "email_escalate", "idx": "f25a6bdb21b46c09", "gold": 0, "pred": 0, "conf": 0.9994557499885559, "hit": 1, "probs": [0.9994557499885559, 0.0005442132242023945]}
+{"task": "email_escalate", "idx": "b18af668c053c38c", "gold": 0, "pred": 0, "conf": 0.9998365640640259, "hit": 1, "probs": [0.9998365640640259, 0.00016346470511052758]}
+{"task": "email_escalate", "idx": "2a3da4fb3a4f98e2", "gold": 0, "pred": 0, "conf": 0.9908744096755981, "hit": 1, "probs": [0.9908744096755981, 0.00912563782185316]}
+{"task": "email_escalate", "idx": "a2aafe2270e061f1", "gold": 0, "pred": 0, "conf": 0.9994557499885559, "hit": 1, "probs": [0.9994557499885559, 0.0005442132242023945]}
+{"task": "email_escalate", "idx": "b6e64f5899ba9f87", "gold": 0, "pred": 0, "conf": 0.9997085928916931, "hit": 1, "probs": [0.9997085928916931, 0.00029137005913071334]}
+{"task": "email_escalate", "idx": "81aa988719411a3b", "gold": 0, "pred": 1, "conf": 0.9972531199455261, "hit": 0, "probs": [0.002746901009231806, 0.9972531199455261]}
+{"task": "email_escalate", "idx": "e0867a13af45eb0b", "gold": 0, "pred": 0, "conf": 0.999480664730072, "hit": 1, "probs": [0.999480664730072, 0.0005193048273213208]}
+{"task": "email_escalate", "idx": "3197149b45157f77", "gold": 0, "pred": 0, "conf": 0.9948603510856628, "hit": 1, "probs": [0.9948603510856628, 0.005139611195772886]}
+{"task": "email_escalate", "idx": "7c7610e866f1dcd9", "gold": 0, "pred": 0, "conf": 0.9998313188552856, "hit": 1, "probs": [0.9998313188552856, 0.00016865275392774493]}
+{"task": "email_escalate", "idx": "54667c560ca34fb1", "gold": 0, "pred": 0, "conf": 0.999713122844696, "hit": 1, "probs": [0.999713122844696, 0.0002868540759664029]}
+{"task": "email_escalate", "idx": "e8729d85129c3c42", "gold": 0, "pred": 0, "conf": 0.999762237071991, "hit": 1, "probs": [0.999762237071991, 0.00023782205244060606]}
+{"task": "email_escalate", "idx": "c2dd6394ad97a664", "gold": 0, "pred": 0, "conf": 0.9998339414596558, "hit": 1, "probs": [0.9998339414596558, 0.00016603847325313836]}
+{"task": "email_escalate", "idx": "4b05137d463c6c7b", "gold": 0, "pred": 0, "conf": 0.9997175335884094, "hit": 1, "probs": [0.9997175335884094, 0.0002824080875143409]}
+{"task": "email_escalate", "idx": "c0cb0df6d8ca341e", "gold": 0, "pred": 0, "conf": 0.9996540546417236, "hit": 1, "probs": [0.9996540546417236, 0.00034599160426296294]}
+{"task": "email_escalate", "idx": "b62d66d794978fe6", "gold": 0, "pred": 0, "conf": 0.9997933506965637, "hit": 1, "probs": [0.9997933506965637, 0.00020662981842178851]}
+{"task": "email_escalate", "idx": "5287f9ec9daf3dd5", "gold": 0, "pred": 0, "conf": 0.9990745782852173, "hit": 1, "probs": [0.9990745782852173, 0.0009253848693333566]}
+{"task": "email_escalate", "idx": "ba121599cd2b2c8d", "gold": 0, "pred": 0, "conf": 0.9996429681777954, "hit": 1, "probs": [0.9996429681777954, 0.0003569705877453089]}
+{"task": "email_escalate", "idx": "c73babe7fe538ac9", "gold": 0, "pred": 0, "conf": 0.6495786309242249, "hit": 1, "probs": [0.6495786309242249, 0.35042139887809753]}
+{"task": "email_escalate", "idx": "5abca78fca30ab6f", "gold": 0, "pred": 0, "conf": 0.999438464641571, "hit": 1, "probs": [0.999438464641571, 0.0005614787223748863]}
+{"task": "email_escalate", "idx": "9527153b42c00688", "gold": 0, "pred": 0, "conf": 0.9995761513710022, "hit": 1, "probs": [0.9995761513710022, 0.00042388474685139954]}
+{"task": "email_escalate", "idx": "88c59ea920ef520d", "gold": 0, "pred": 0, "conf": 0.9996800422668457, "hit": 1, "probs": [0.9996800422668457, 0.0003199982747901231]}
+{"task": "email_escalate", "idx": "3a78e6c1629a3885", "gold": 0, "pred": 0, "conf": 0.9996259212493896, "hit": 1, "probs": [0.9996259212493896, 0.00037409563083201647]}
+{"task": "email_escalate", "idx": "31964492d9f1013a", "gold": 0, "pred": 0, "conf": 0.9995197057723999, "hit": 1, "probs": [0.9995197057723999, 0.00048029725439846516]}
+{"task": "email_priority", "idx": "c6816f3db4eb220d", "gold": 1, "pred": 1, "conf": 0.9979435801506042, "hit": 1, "probs": [0.00011213483958272263, 0.9979435801506042, 0.0018672127043828368, 7.706906762905419e-05]}
+{"task": "email_priority", "idx": "ce47d61d4e0556ee", "gold": 1, "pred": 2, "conf": 0.9916226267814636, "hit": 0, "probs": [0.0003124979848507792, 0.007934479042887688, 0.9916226267814636, 0.00013026854139752686]}
+{"task": "email_priority", "idx": "6dc1822bd7e80e17", "gold": 0, "pred": 0, "conf": 0.9997233748435974, "hit": 1, "probs": [0.9997233748435974, 0.00019108796550426632, 6.603823567274958e-05, 1.9520866771927103e-05]}
+{"task": "email_priority", "idx": "611d8cff7d785738", "gold": 2, "pred": 2, "conf": 0.9987855553627014, "hit": 1, "probs": [0.00028658792143687606, 0.0005108982441015542, 0.9987855553627014, 0.0004169829480815679]}
+{"task": "email_priority", "idx": "08deb7ae7a88ea81", "gold": 1, "pred": 1, "conf": 0.9607226848602295, "hit": 1, "probs": [0.00038272474193945527, 0.9607226848602295, 0.03873991221189499, 0.0001546347775729373]}
+{"task": "email_priority", "idx": "b4b80a41ddeaf3ac", "gold": 2, "pred": 0, "conf": 0.8376853466033936, "hit": 0, "probs": [0.8376853466033936, 0.09145059436559677, 0.060919225215911865, 0.009944790974259377]}
+{"task": "email_priority", "idx": "6a43466e2ba99e12", "gold": 0, "pred": 1, "conf": 0.7240011692047119, "hit": 0, "probs": [0.25217050313949585, 0.7240011692047119, 0.0181250162422657, 0.005703289527446032]}
+{"task": "email_priority", "idx": "94f0971b1128c85b", "gold": 0, "pred": 0, "conf": 0.9998397827148438, "hit": 1, "probs": [0.9998397827148438, 9.76095543592237e-05, 4.5392658648779616e-05, 1.7229109289473854e-05]}
+{"task": "email_priority", "idx": "5d558543c444a257", "gold": 0, "pred": 0, "conf": 0.9996005892753601, "hit": 1, "probs": [0.9996005892753601, 0.0002779971982818097, 9.025247709359974e-05, 3.119042230537161e-05]}
+{"task": "email_priority", "idx": "38de9350ad306a4b", "gold": 2, "pred": 2, "conf": 0.9985632300376892, "hit": 1, "probs": [0.00014407336129806936, 0.00026088315644301474, 0.9985632300376892, 0.0010318129789084196]}
+{"task": "email_priority", "idx": "324858dd6f71b1f3", "gold": 1, "pred": 1, "conf": 0.9981381893157959, "hit": 1, "probs": [0.000543495814781636, 0.9981381893157959, 0.0012636656174436212, 5.4660809837514535e-05]}
+{"task": "email_priority", "idx": "2ee73e3f55ff4cbb", "gold": 2, "pred": 2, "conf": 0.9990192651748657, "hit": 1, "probs": [0.00022676274238619953, 0.0005272392299957573, 0.9990192651748657, 0.00022676274238619953]}
+{"task": "email_priority", "idx": "3a3e1db7bfeb82c1", "gold": 0, "pred": 0, "conf": 0.9997072815895081, "hit": 1, "probs": [0.9997072815895081, 0.00018520583398640156, 7.72052735555917e-05, 3.0234021323849447e-05]}
+{"task": "email_priority", "idx": "4ecb7bae53b5184d", "gold": 0, "pred": 0, "conf": 0.9998295307159424, "hit": 1, "probs": [0.9998295307159424, 0.00010229287727270275, 5.143609450897202e-05, 1.6698853869456798e-05]}
+{"task": "email_priority", "idx": "adfafa48863d98c6", "gold": 1, "pred": 2, "conf": 0.8807820677757263, "hit": 0, "probs": [0.0015848625916987658, 0.11553346365690231, 0.8807820677757263, 0.002099601784721017]}
+{"task": "email_priority", "idx": "db779ddd4bd8e863", "gold": 0, "pred": 0, "conf": 0.9995929598808289, "hit": 1, "probs": [0.9995929598808289, 0.000310125935357064, 7.02881661709398e-05, 2.6678379072109237e-05]}
+{"task": "email_priority", "idx": "934a1727f1b430ba", "gold": 1, "pred": 0, "conf": 0.526091992855072, "hit": 0, "probs": [0.526091992855072, 0.46974727511405945, 0.0032783853821456432, 0.0008823654497973621]}
+{"task": "email_priority", "idx": "471c8be2a7db7cec", "gold": 2, "pred": 2, "conf": 0.9964861869812012, "hit": 1, "probs": [0.00048638018779456615, 0.0029332477133721113, 0.9964861869812012, 9.428909834241495e-05]}
+{"task": "email_priority", "idx": "c6442f67187a2bc8", "gold": 0, "pred": 0, "conf": 0.9997451901435852, "hit": 1, "probs": [0.9997451901435852, 0.00019410139066167176, 4.399190947879106e-05, 1.669744415266905e-05]}
+{"task": "email_priority", "idx": "262489ea2a60e720", "gold": 2, "pred": 2, "conf": 0.879286527633667, "hit": 1, "probs": [0.0012913307873532176, 0.11853455752134323, 0.879286527633667, 0.0008875177591107786]}
+{"task": "email_priority", "idx": "bd6061c767f9ac8a", "gold": 0, "pred": 0, "conf": 0.9997411370277405, "hit": 1, "probs": [0.9997411370277405, 0.00016344910545740277, 7.029858534224331e-05, 2.5065732188522816e-05]}
+{"task": "email_priority", "idx": "66f7c19370ff6bfb", "gold": 0, "pred": 0, "conf": 0.997565746307373, "hit": 1, "probs": [0.997565746307373, 0.0018090792000293732, 0.0004646099987439811, 0.00016056491585914046]}
+{"task": "email_priority", "idx": "6eee60af920ac480", "gold": 1, "pred": 1, "conf": 0.9988413453102112, "hit": 1, "probs": [0.0001441134954802692, 0.9988413453102112, 0.0009397381800226867, 7.476510654669255e-05]}
+{"task": "email_priority", "idx": "9a5175fb545e9235", "gold": 1, "pred": 1, "conf": 0.9998821020126343, "hit": 1, "probs": [2.144288009731099e-05, 0.9998821020126343, 8.34934035083279e-05, 1.3005764230911154e-05]}
+{"task": "email_priority", "idx": "656c653d710a18c4", "gold": 0, "pred": 0, "conf": 0.999519944190979, "hit": 1, "probs": [0.999519944190979, 0.00033010318293236196, 0.00011231196549488232, 3.761979314731434e-05]}
+{"task": "email_priority", "idx": "d964574372fe17de", "gold": 2, "pred": 2, "conf": 0.9805074334144592, "hit": 1, "probs": [0.0008465235587209463, 0.018099471926689148, 0.9805074334144592, 0.0005465566646307707]}
+{"task": "email_priority", "idx": "6b996d7a40a8f5c4", "gold": 1, "pred": 1, "conf": 0.6281517744064331, "hit": 1, "probs": [0.36927133798599243, 0.6281517744064331, 0.0022654689382761717, 0.0003114260907750577]}
+{"task": "email_priority", "idx": "5a5127aded35b83d", "gold": 1, "pred": 1, "conf": 0.9997233748435974, "hit": 1, "probs": [0.00014651221863459796, 0.9997233748435974, 0.00011233482655370608, 1.7773951185517944e-05]}
+{"task": "email_priority", "idx": "ea250fa9513bc088", "gold": 0, "pred": 0, "conf": 0.9997832179069519, "hit": 1, "probs": [0.9997832179069519, 0.00015355268260464072, 4.9851259973365813e-05, 1.3417284208117053e-05]}
+{"task": "email_priority", "idx": "7897b8a8572369df", "gold": 1, "pred": 1, "conf": 0.9963410496711731, "hit": 1, "probs": [0.00029960647225379944, 0.9963410496711731, 0.0032974588684737682, 6.182728975545615e-05]}
+{"task": "email_priority", "idx": "76396583bc4d2d4e", "gold": 1, "pred": 1, "conf": 0.9997360110282898, "hit": 1, "probs": [9.913638496072963e-05, 0.9997360110282898, 0.0001355033746222034, 2.930465961981099e-05]}
+{"task": "email_priority", "idx": "ce0813fb97fafe4e", "gold": 0, "pred": 0, "conf": 0.9997462630271912, "hit": 1, "probs": [0.9997462630271912, 0.00016602390678599477, 6.0129874327685684e-05, 2.7529464205144905e-05]}
+{"task": "email_priority", "idx": "ce0813fb97fafe4e", "gold": 0, "pred": 0, "conf": 0.9997462630271912, "hit": 1, "probs": [0.9997462630271912, 0.00016602390678599477, 6.0129874327685684e-05, 2.7529464205144905e-05]}
+{"task": "email_priority", "idx": "7fddaade0e071110", "gold": 1, "pred": 1, "conf": 0.9997305274009705, "hit": 1, "probs": [0.0001634473737794906, 0.9997305274009705, 9.459608554607257e-05, 1.1475806786620524e-05]}
+{"task": "email_priority", "idx": "1c39c14e831497ea", "gold": 2, "pred": 2, "conf": 0.9874495267868042, "hit": 1, "probs": [0.00040585894021205604, 0.0006485607591457665, 0.9874495267868042, 0.011496014893054962]}
+{"task": "email_priority", "idx": "0031e08e2894296e", "gold": 1, "pred": 1, "conf": 0.9996436834335327, "hit": 1, "probs": [9.912723180605099e-05, 0.9996436834335327, 0.000213157050893642, 4.398744204081595e-05]}
+{"task": "email_priority", "idx": "6831a8f62734aa4a", "gold": 0, "pred": 0, "conf": 0.9998154044151306, "hit": 1, "probs": [0.9998154044151306, 0.00010553851461736485, 5.828390203532763e-05, 2.078176476061344e-05]}
+{"task": "email_priority", "idx": "ce71ec8f28c43aba", "gold": 0, "pred": 0, "conf": 0.9998120665550232, "hit": 1, "probs": [0.9998120665550232, 0.00012338660599198192, 4.9852696974994615e-05, 1.4736428056494333e-05]}
+{"task": "email_priority", "idx": "8f065912f07635ad", "gold": 0, "pred": 0, "conf": 0.9993593096733093, "hit": 1, "probs": [0.9993593096733093, 0.0004043859080411494, 0.00019101836369372904, 4.537084168987349e-05]}
+{"task": "email_priority", "idx": "d7159ebd99cff07e", "gold": 0, "pred": 0, "conf": 0.9997583031654358, "hit": 1, "probs": [0.9997583031654358, 0.000171296123880893, 5.474953286466189e-05, 1.5686004189774394e-05]}
+{"task": "email_priority", "idx": "a2b77eee49015b3a", "gold": 1, "pred": 1, "conf": 0.999366819858551, "hit": 1, "probs": [7.25029458408244e-05, 0.999366819858551, 0.0005274226423352957, 3.319426468806341e-05]}
+{"task": "email_priority", "idx": "9f7e408d096ab6b9", "gold": 1, "pred": 1, "conf": 0.9988920092582703, "hit": 1, "probs": [0.0005271720583550632, 0.9988920092582703, 0.0005354738095775247, 4.5349628635449335e-05]}
+{"task": "email_priority", "idx": "3f0dc6fecece8170", "gold": 1, "pred": 2, "conf": 0.9976638555526733, "hit": 0, "probs": [0.00034530277480371296, 0.0015475397231057286, 0.9976638555526733, 0.00044337756116874516]}
+{"task": "email_priority", "idx": "43d00b7a4bb45bca", "gold": 0, "pred": 0, "conf": 0.99972003698349, "hit": 1, "probs": [0.99972003698349, 0.00018520819139666855, 7.252857903949916e-05, 2.211996616097167e-05]}
+{"task": "email_priority", "idx": "49f6522473447978", "gold": 0, "pred": 0, "conf": 0.9997292160987854, "hit": 1, "probs": [0.9997292160987854, 0.00015841840649954975, 8.47952687763609e-05, 2.752899490587879e-05]}
+{"task": "email_priority", "idx": "fe8a8e333a766acc", "gold": 0, "pred": 0, "conf": 0.9996850490570068, "hit": 1, "probs": [0.9996850490570068, 0.00019108063133899122, 8.748309483053163e-05, 3.646838013082743e-05]}
+{"task": "email_priority", "idx": "72b57ee05fd9845b", "gold": 2, "pred": 2, "conf": 0.9958001971244812, "hit": 1, "probs": [0.00022252777125686407, 0.0007071918225847185, 0.9958001971244812, 0.003270021639764309]}
+{"task": "email_priority", "idx": "14df6f3a9bc5ddc3", "gold": 0, "pred": 0, "conf": 0.9997194409370422, "hit": 1, "probs": [0.9997194409370422, 0.0001609115715837106, 8.74861070769839e-05, 3.218433994334191e-05]}
+{"task": "email_priority", "idx": "5ec100d82a1a463b", "gold": 0, "pred": 0, "conf": 0.5474022030830383, "hit": 1, "probs": [0.5474022030830383, 0.207770437002182, 0.20454926788806915, 0.04027813673019409]}
+{"task": "email_priority", "idx": "2192170573dfd720", "gold": 0, "pred": 0, "conf": 0.9994745850563049, "hit": 1, "probs": [0.9994745850563049, 0.0003459294675849378, 0.00013546794070862234, 4.398000237415545e-05]}
+{"task": "email_priority", "idx": "54465294530d7e35", "gold": 0, "pred": 0, "conf": 0.9996978044509888, "hit": 1, "probs": [0.9996978044509888, 0.00021993526024743915, 6.203558587003499e-05, 2.014000892813783e-05]}
+{"task": "email_priority", "idx": "aa025827e8f1c6f0", "gold": 1, "pred": 1, "conf": 0.9981797933578491, "hit": 1, "probs": [0.0014545307494699955, 0.9981797933578491, 0.00029550588806159794, 7.01887984178029e-05]}
+{"task": "email_priority", "idx": "d87b3e32aeed7e62", "gold": 0, "pred": 0, "conf": 0.9998251795768738, "hit": 1, "probs": [0.9998251795768738, 0.00010553954052738845, 5.143586531630717e-05, 1.7775761079974473e-05]}
+{"task": "email_priority", "idx": "8e06ba147f919b24", "gold": 2, "pred": 2, "conf": 0.9991656541824341, "hit": 1, "probs": [5.7343004300491884e-05, 0.00011053153139073402, 0.9991656541824341, 0.0006665904656983912]}
+{"task": "email_priority", "idx": "643f1342cfb4c42b", "gold": 2, "pred": 2, "conf": 0.998898983001709, "hit": 1, "probs": [0.00018218705372419208, 0.0004235976084601134, 0.998898983001709, 0.0004952357267029583]}
+{"task": "email_priority", "idx": "2cc92e65ae590c83", "gold": 2, "pred": 1, "conf": 0.9948729872703552, "hit": 0, "probs": [0.00013696773385163397, 0.9948729872703552, 0.00490431347861886, 8.571222133468837e-05]}
+{"task": "email_priority", "idx": "8ceb1c0eeec782ba", "gold": 1, "pred": 1, "conf": 0.999769389629364, "hit": 1, "probs": [0.00017951878544408828, 0.999769389629364, 4.132757385377772e-05, 9.81615903583588e-06]}
+{"task": "email_priority", "idx": "e936ce649cad00d7", "gold": 2, "pred": 1, "conf": 0.6957470178604126, "hit": 0, "probs": [0.00024459807900711894, 0.6957470178604126, 0.30394938588142395, 5.901203257963061e-05]}
+{"task": "email_priority", "idx": "9717352b4441389c", "gold": 1, "pred": 1, "conf": 0.9633973240852356, "hit": 1, "probs": [7.440113404300064e-05, 0.9633973240852356, 0.03648964315652847, 3.859879871015437e-05]}
+{"task": "email_priority", "idx": "7a8609f8dea0d9eb", "gold": 0, "pred": 0, "conf": 0.9968810081481934, "hit": 1, "probs": [0.9968810081481934, 0.001985521288588643, 0.0008810696890577674, 0.00025243067648261786]}
+{"task": "email_priority", "idx": "c95692ade381bf9f", "gold": 0, "pred": 0, "conf": 0.9997041821479797, "hit": 1, "probs": [0.9997041821479797, 0.00021652686700690538, 5.648441219818778e-05, 2.282176683365833e-05]}
+{"task": "email_priority", "idx": "d34a8fcf364dd80c", "gold": 1, "pred": 0, "conf": 0.9909363389015198, "hit": 0, "probs": [0.9909363389015198, 0.00792898703366518, 0.0008758156327530742, 0.00025889056269079447]}
+{"task": "email_priority", "idx": "cf1728fee8efe1f4", "gold": 0, "pred": 0, "conf": 0.9998331069946289, "hit": 1, "probs": [0.9998331069946289, 0.00011060537508456036, 4.0058606828097254e-05, 1.618514215806499e-05]}
+{"task": "email_priority", "idx": "8be7d0c7303cb65e", "gold": 0, "pred": 0, "conf": 0.9995725750923157, "hit": 1, "probs": [0.9995725750923157, 0.0002652593539096415, 0.0001233570510521531, 3.8816022424725816e-05]}
+{"task": "email_priority", "idx": "28b321f33b2dfa9e", "gold": 1, "pred": 1, "conf": 0.9658267498016357, "hit": 1, "probs": [4.524036921793595e-05, 0.9658267498016357, 0.03409785404801369, 3.0136581699480303e-05]}
+{"task": "email_priority", "idx": "d881cba4ad388c42", "gold": 0, "pred": 0, "conf": 0.953977108001709, "hit": 1, "probs": [0.953977108001709, 0.040943872183561325, 0.004053992684930563, 0.0010250097839161754]}
+{"task": "email_priority", "idx": "ec3ebeddbf3ebff1", "gold": 2, "pred": 2, "conf": 0.998884379863739, "hit": 1, "probs": [0.0001534146285848692, 0.0007319003343582153, 0.998884379863739, 0.00023030264128465205]}
+{"task": "email_priority", "idx": "2ac435ef182c591e", "gold": 2, "pred": 2, "conf": 0.9993897676467896, "hit": 1, "probs": [0.00010884231596719474, 0.00022332991647999734, 0.9993897676467896, 0.0002779385831672698]}
+{"task": "email_priority", "idx": "66fbb1567a9df916", "gold": 1, "pred": 1, "conf": 0.9976251721382141, "hit": 1, "probs": [0.00010530731378821656, 0.9976251721382141, 0.0021822962444275618, 8.730283298064023e-05]}
+{"task": "email_priority", "idx": "9742f8ad512927dd", "gold": 0, "pred": 0, "conf": 0.9997040629386902, "hit": 1, "probs": [0.9997040629386902, 0.000148816587170586, 0.00011589848145376891, 3.119365283055231e-05]}
+{"task": "email_priority", "idx": "d0d3816a29ce6258", "gold": 1, "pred": 1, "conf": 0.5743123888969421, "hit": 1, "probs": [0.3565986752510071, 0.5743123888969421, 0.059129852801561356, 0.009959092363715172]}
+{"task": "email_priority", "idx": "0200f563e049d09e", "gold": 0, "pred": 1, "conf": 0.9638767838478088, "hit": 0, "probs": [0.02479909546673298, 0.9638767838478088, 0.009123077616095543, 0.0022010449320077896]}
+{"task": "email_priority", "idx": "bf6afead1cae8e1c", "gold": 2, "pred": 1, "conf": 0.550936222076416, "hit": 0, "probs": [0.4392446279525757, 0.550936222076416, 0.009116231463849545, 0.0007029682747088373]}
+{"task": "email_priority", "idx": "6b4dbdd97f70eafe", "gold": 0, "pred": 0, "conf": 0.9986553192138672, "hit": 1, "probs": [0.9986553192138672, 0.0009846537141129375, 0.00026090722531080246, 9.902922465698794e-05]}
+{"task": "email_priority", "idx": "65790724654791e6", "gold": 0, "pred": 0, "conf": 0.9995781779289246, "hit": 1, "probs": [0.9995781779289246, 0.00026943808188661933, 0.00011231851385673508, 4.004839138360694e-05]}
+{"task": "email_priority", "idx": "65790724654791e6", "gold": 0, "pred": 0, "conf": 0.9995738863945007, "hit": 1, "probs": [0.9995738863945007, 0.0002736799360718578, 0.00011231802636757493, 4.004822039860301e-05]}
+{"task": "email_priority", "idx": "6b5437d0a014c674", "gold": 2, "pred": 2, "conf": 0.9997500777244568, "hit": 1, "probs": [3.218532583559863e-05, 8.218810398830101e-05, 0.9997500777244568, 0.00013550528092309833]}
+{"task": "email_priority", "idx": "75c0308c272500fc", "gold": 2, "pred": 1, "conf": 0.9996370077133179, "hit": 0, "probs": [0.00015353022899944335, 0.9996370077133179, 0.00018519281002227217, 2.4292010493809357e-05]}
+{"task": "email_priority", "idx": "92a31413d421ee58", "gold": 0, "pred": 0, "conf": 0.9996579885482788, "hit": 1, "probs": [0.9996579885482788, 0.00022690772311761975, 8.478922245558351e-05, 3.023252975253854e-05]}
+{"task": "email_priority", "idx": "7dfd0dd14e00ab09", "gold": 0, "pred": 0, "conf": 0.8999323844909668, "hit": 1, "probs": [0.8999323844909668, 0.07956214249134064, 0.01912042498588562, 0.0013850789982825518]}
+{"task": "email_priority", "idx": "23a849d79d7dc0db", "gold": 0, "pred": 0, "conf": 0.9721310138702393, "hit": 1, "probs": [0.9721310138702393, 0.02510935813188553, 0.002372313290834427, 0.000387269479688257]}
+{"task": "email_priority", "idx": "70ab96b6c758a12f", "gold": 0, "pred": 0, "conf": 0.9989988207817078, "hit": 1, "probs": [0.9989988207817078, 0.0008557761902920902, 0.00010545231634750962, 4.0025181078817695e-05]}
+{"task": "email_priority", "idx": "fbe440ab5b06b6f6", "gold": 0, "pred": 0, "conf": 0.9997521042823792, "hit": 1, "probs": [0.9997521042823792, 0.00016602488176431507, 5.828021312481724e-05, 2.3547336240881123e-05]}
+{"task": "email_priority", "idx": "8ad4f414b6b6aa44", "gold": 0, "pred": 0, "conf": 0.9998236298561096, "hit": 1, "probs": [0.9998236298561096, 9.914507245412096e-05, 5.828437861055136e-05, 1.8922168237622827e-05]}
+{"task": "email_priority", "idx": "716cf18c53fca19f", "gold": 2, "pred": 2, "conf": 0.999771773815155, "hit": 1, "probs": [4.683038787334226e-05, 7.253232615767047e-05, 0.999771773815155, 0.00010888391989283264]}
+{"task": "email_priority", "idx": "eeb44bc89c767836", "gold": 0, "pred": 0, "conf": 0.9975475668907166, "hit": 1, "probs": [0.9975475668907166, 0.0016730944626033306, 0.000479349575471133, 0.0002999692806042731]}
+{"task": "email_priority", "idx": "b46131f81e0f9cb1", "gold": 0, "pred": 0, "conf": 0.9996650218963623, "hit": 1, "probs": [0.9996650218963623, 0.00026528388843871653, 4.8311787395505235e-05, 2.1438225303427316e-05]}
+{"task": "email_priority", "idx": "868b0c346b1a3da5", "gold": 1, "pred": 1, "conf": 0.9991117119789124, "hit": 1, "probs": [0.0002822369278874248, 0.9991117119789124, 0.000544025911949575, 6.19992206338793e-05]}
+{"task": "email_priority", "idx": "56aa5881d117c240", "gold": 0, "pred": 0, "conf": 0.9994094371795654, "hit": 1, "probs": [0.9994094371795654, 0.00041077466448768973, 0.00013975905312690884, 4.0041632018983364e-05]}
+{"task": "email_priority", "idx": "3eecaf37dc8b2327", "gold": 2, "pred": 2, "conf": 0.9993420243263245, "hit": 1, "probs": [7.250114867929369e-05, 0.00012724347470793873, 0.9993420243263245, 0.0004582213587127626]}
+{"task": "email_priority", "idx": "024b40093dc9f608", "gold": 0, "pred": 0, "conf": 0.936547577381134, "hit": 1, "probs": [0.936547577381134, 0.058029431849718094, 0.0038274559192359447, 0.0015955211129039526]}
+{"task": "email_priority", "idx": "dd8fad86281c67cc", "gold": 2, "pred": 2, "conf": 0.9996777772903442, "hit": 1, "probs": [5.063096250523813e-05, 8.347634138772264e-05, 0.9996777772903442, 0.00018811684276442975]}
+{"task": "email_priority", "idx": "ed80a3a4940aa0cd", "gold": 1, "pred": 1, "conf": 0.6679518222808838, "hit": 1, "probs": [0.0021093999966979027, 0.6679518222808838, 0.32937103509902954, 0.000567737384699285]}
+{"task": "email_priority", "idx": "6cdce42db86254ad", "gold": 0, "pred": 0, "conf": 0.9996476173400879, "hit": 1, "probs": [0.9996476173400879, 0.0002531312347855419, 7.252331852214411e-05, 2.6679839720600285e-05]}
+{"task": "email_priority", "idx": "9a640708ce184d3c", "gold": 1, "pred": 2, "conf": 0.9891997575759888, "hit": 0, "probs": [0.0002838374057319015, 0.010163179598748684, 0.9891997575759888, 0.00035324133932590485]}
+{"task": "email_priority", "idx": "2c3ffb5d6c424042", "gold": 2, "pred": 2, "conf": 0.937279224395752, "hit": 1, "probs": [0.001983331749215722, 0.0018631677376106381, 0.937279224395752, 0.058874212205410004]}
+{"task": "email_priority", "idx": "440eed6df8fcacb9", "gold": 1, "pred": 1, "conf": 0.9552215933799744, "hit": 1, "probs": [0.0006323139532469213, 0.9552215933799744, 0.042964786291122437, 0.0011813181918114424]}
+{"task": "email_priority", "idx": "2dfa5a6daca6626c", "gold": 0, "pred": 0, "conf": 0.997855007648468, "hit": 1, "probs": [0.997855007648468, 0.0017815486062318087, 0.0002954097290057689, 6.800717528676614e-05]}
+{"task": "email_priority", "idx": "52940e6837003b43", "gold": 0, "pred": 1, "conf": 0.9563877582550049, "hit": 0, "probs": [0.0022620882373303175, 0.9563877582550049, 0.039474837481975555, 0.0018753372132778168]}
+{"task": "email_priority", "idx": "8eff838d88821bea", "gold": 0, "pred": 0, "conf": 0.9997630715370178, "hit": 1, "probs": [0.9997630715370178, 0.0001686412433627993, 5.306531966198236e-05, 1.5203467228275258e-05]}
+{"task": "email_priority", "idx": "db5ec51967854377", "gold": 0, "pred": 0, "conf": 0.9993245601654053, "hit": 1, "probs": [0.9993245601654053, 0.00045110940118320286, 0.00015835429076105356, 6.601188943022862e-05]}
+{"task": "email_priority", "idx": "faaee551935a600b", "gold": 1, "pred": 2, "conf": 0.7656499743461609, "hit": 0, "probs": [0.0006662103114649653, 0.23351003229618073, 0.7656499743461609, 0.00017379132623318583]}
+{"task": "email_priority", "idx": "dbfa35844082d52e", "gold": 1, "pred": 1, "conf": 0.9693197011947632, "hit": 1, "probs": [0.027497483417391777, 0.9693197011947632, 0.002402703510597348, 0.0007800435414537787]}
+{"task": "email_priority", "idx": "2bb9f514ea9f4959", "gold": 1, "pred": 1, "conf": 0.9725098013877869, "hit": 1, "probs": [0.023968853056430817, 0.9725098013877869, 0.00277459598146379, 0.0007467723917216063]}
+{"task": "email_priority", "idx": "2b4ee7661460ec28", "gold": 0, "pred": 0, "conf": 0.999607503414154, "hit": 1, "probs": [0.999607503414154, 0.00026115597574971616, 9.912363748298958e-05, 3.218073470634408e-05]}
+{"task": "email_priority", "idx": "3750f5019cc72667", "gold": 2, "pred": 2, "conf": 0.9630075097084045, "hit": 1, "probs": [0.0011956081725656986, 0.0013978075003251433, 0.9630075097084045, 0.03439908102154732]}
+{"task": "email_priority", "idx": "c7df208a432483a6", "gold": 0, "pred": 0, "conf": 0.8522523045539856, "hit": 1, "probs": [0.8522523045539856, 0.1322377324104309, 0.01299141626805067, 0.0025185008998960257]}
+{"task": "email_priority", "idx": "99c61c31acd1e6a7", "gold": 0, "pred": 0, "conf": 0.9998124241828918, "hit": 1, "probs": [0.9998124241828918, 0.0001177363665192388, 5.475249417941086e-05, 1.520421756140422e-05]}
+{"task": "email_priority", "idx": "e902ec3e41090c0a", "gold": 0, "pred": 0, "conf": 0.999568521976471, "hit": 1, "probs": [0.999568521976471, 0.00029591700877062976, 9.02495885384269e-05, 4.53803404525388e-05]}
+{"task": "email_priority", "idx": "1ecee4b0d35269e8", "gold": 2, "pred": 2, "conf": 0.9988446235656738, "hit": 1, "probs": [0.00015103015175554901, 0.00018796007498167455, 0.9988446235656738, 0.0008164612809196115]}
+{"task": "email_priority", "idx": "66431687ba6cad96", "gold": 2, "pred": 1, "conf": 0.9874107241630554, "hit": 0, "probs": [0.0003995509759988636, 0.9874107241630554, 0.012047245167195797, 0.0001424642832716927]}
+{"task": "email_priority", "idx": "ac0548421235d1fa", "gold": 0, "pred": 0, "conf": 0.9988718628883362, "hit": 1, "probs": [0.9988718628883362, 0.0009695981862023473, 0.00011580200225580484, 4.260117202647962e-05]}
+{"task": "email_priority", "idx": "de28dd34d35986b9", "gold": 2, "pred": 2, "conf": 0.9941558837890625, "hit": 1, "probs": [0.0006736928480677307, 0.0010434358846396208, 0.9941558837890625, 0.0041268691420555115]}
+{"task": "email_priority", "idx": "ed60bd9e7cef8a15", "gold": 0, "pred": 0, "conf": 0.9963710308074951, "hit": 1, "probs": [0.9963710308074951, 0.0031712306663393974, 0.00031399435829371214, 0.0001437570754205808]}
+{"task": "email_priority", "idx": "94ae6eb4ccb3437e", "gold": 0, "pred": 0, "conf": 0.9998268485069275, "hit": 1, "probs": [0.9998268485069275, 0.00010553972242632881, 5.143595262779854e-05, 1.6185040294658393e-05]}
+{"task": "email_priority", "idx": "d210c2b82ff76678", "gold": 0, "pred": 0, "conf": 0.9998366832733154, "hit": 1, "probs": [0.9998366832733154, 9.460612636758015e-05, 5.306923048919998e-05, 1.5687235645600595e-05]}
+{"task": "email_priority", "idx": "7a3dda800c221bb2", "gold": 0, "pred": 1, "conf": 0.9613314270973206, "hit": 0, "probs": [0.019187455996870995, 0.9613314270973206, 0.018742980435490608, 0.0007381887407973409]}
+{"task": "email_priority", "idx": "6026aa56e904522c", "gold": 0, "pred": 0, "conf": 0.9998397827148438, "hit": 1, "probs": [0.9998397827148438, 9.027407941175625e-05, 4.985407940694131e-05, 2.014287019846961e-05]}
+{"task": "email_priority", "idx": "e75d0cc3ac2e5a13", "gold": 0, "pred": 0, "conf": 0.9984807372093201, "hit": 1, "probs": [0.9984807372093201, 0.0010982684325426817, 0.0003402276779524982, 8.081115811364725e-05]}
+{"task": "email_priority", "idx": "2858631e356f4ed1", "gold": 2, "pred": 2, "conf": 0.9902091026306152, "hit": 1, "probs": [0.0002669126261025667, 0.008701897226274014, 0.9902091026306152, 0.0008221488096751273]}
+{"task": "email_priority", "idx": "cda1b92911a2b5fb", "gold": 0, "pred": 0, "conf": 0.9500029683113098, "hit": 1, "probs": [0.9500029683113098, 0.04924808070063591, 0.0005861615063622594, 0.00016277117538265884]}
+{"task": "email_priority", "idx": "8edebfc27f2167cb", "gold": 1, "pred": 1, "conf": 0.8663000464439392, "hit": 1, "probs": [0.13285142183303833, 0.8663000464439392, 0.0006549026584252715, 0.00019358885765541345]}
+{"task": "email_priority", "idx": "24a1f9ee29b05336", "gold": 0, "pred": 0, "conf": 0.9987543821334839, "hit": 1, "probs": [0.9987543821334839, 0.0010985694825649261, 0.00011578838166315109, 3.116401785518974e-05]}
+{"task": "email_priority", "idx": "40ae3a8e464d4742", "gold": 0, "pred": 0, "conf": 0.9982227683067322, "hit": 1, "probs": [0.9982227683067322, 0.001477499958127737, 0.00024499354185536504, 5.466544098453596e-05]}
+{"task": "email_priority", "idx": "4cf363b01c49e47a", "gold": 0, "pred": 1, "conf": 0.9965323209762573, "hit": 0, "probs": [0.0031225706916302443, 0.9965323209762573, 0.0002771439030766487, 6.791703344788402e-05]}
+{"task": "email_priority", "idx": "a74e07b5fc55471f", "gold": 0, "pred": 0, "conf": 0.999534010887146, "hit": 1, "probs": [0.999534010887146, 0.000385935214580968, 5.647479338222183e-05, 2.354219941480551e-05]}
+{"task": "email_priority", "idx": "6f5a926060bd9d66", "gold": 0, "pred": 0, "conf": 0.9625865817070007, "hit": 1, "probs": [0.9625865817070007, 0.03424999862909317, 0.0023126036394387484, 0.0008507593884132802]}
+{"task": "email_priority", "idx": "a831a69c09ad0305", "gold": 1, "pred": 1, "conf": 0.9944624304771423, "hit": 1, "probs": [0.004714485723525286, 0.9944624304771423, 0.0007878696196712554, 3.516170909279026e-05]}
+{"task": "email_priority", "idx": "b9fe51ca5bee1baf", "gold": 1, "pred": 1, "conf": 0.9914860129356384, "hit": 1, "probs": [0.00826150830835104, 0.9914860129356384, 0.00022156369232106954, 3.0937222618376836e-05]}
+{"task": "email_priority", "idx": "c9fb5c1696083255", "gold": 1, "pred": 1, "conf": 0.9942089319229126, "hit": 1, "probs": [0.003699498949572444, 0.9942089319229126, 0.001747519476339221, 0.00034410698572173715]}
+{"task": "email_priority", "idx": "d18ab9bfdf425c4c", "gold": 1, "pred": 1, "conf": 0.9525883197784424, "hit": 1, "probs": [0.03870844468474388, 0.9525883197784424, 0.007622145116329193, 0.001081050024367869]}
+{"task": "email_priority", "idx": "53d8fce59545532c", "gold": 1, "pred": 0, "conf": 0.9979273080825806, "hit": 0, "probs": [0.9979273080825806, 0.0017540553817525506, 0.0002648227382451296, 5.3802003094460815e-05]}
+{"task": "email_priority", "idx": "d8e14fc87d5aa92b", "gold": 0, "pred": 0, "conf": 0.9995079040527344, "hit": 1, "probs": [0.9995079040527344, 0.00034057770972140133, 0.00010885517986025661, 4.262829679646529e-05]}
+{"task": "email_priority", "idx": "2a052102570c6f53", "gold": 2, "pred": 1, "conf": 0.9922243356704712, "hit": 0, "probs": [0.0008110498310998082, 0.9922243356704712, 0.006844098214060068, 0.00012055179831804708]}
+{"task": "email_priority", "idx": "d2852697ce77470e", "gold": 1, "pred": 2, "conf": 0.5094279646873474, "hit": 0, "probs": [0.00291312369517982, 0.48609960079193115, 0.5094279646873474, 0.0015592827694490552]}
+{"task": "email_priority", "idx": "7a94fd6b9f16b343", "gold": 2, "pred": 1, "conf": 0.8891353607177734, "hit": 0, "probs": [0.0017298971069976687, 0.8891353607177734, 0.10619207471609116, 0.0029426543042063713]}
+{"task": "email_priority", "idx": "30d42302df86c334", "gold": 0, "pred": 1, "conf": 0.961218535900116, "hit": 0, "probs": [0.02852051518857479, 0.961218535900116, 0.007919861935079098, 0.0023411063011735678]}
+{"task": "email_priority", "idx": "4e46de1c4996f0fa", "gold": 0, "pred": 0, "conf": 0.9998218417167664, "hit": 1, "probs": [0.9998218417167664, 0.00010553919128142297, 4.6832734369672835e-05, 2.5863491828204133e-05]}
+{"task": "email_priority", "idx": "f7d84de7c0529b45", "gold": 0, "pred": 1, "conf": 0.8998973965644836, "hit": 0, "probs": [0.0994003638625145, 0.8998973965644836, 0.0005639896844513714, 0.00013821163156535476]}
+{"task": "email_priority", "idx": "4ec9c95335eb2267", "gold": 0, "pred": 1, "conf": 0.9975941777229309, "hit": 0, "probs": [0.0013235884252935648, 0.9975941777229309, 0.000968357955571264, 0.000113860827696044]}
+{"task": "email_priority", "idx": "ffecc3e5daa9c7d0", "gold": 2, "pred": 2, "conf": 0.9710918664932251, "hit": 1, "probs": [0.0005541449645534158, 0.02754775620996952, 0.9710918664932251, 0.0008062761626206338]}
+{"task": "email_priority", "idx": "9587d684c81a0fc4", "gold": 1, "pred": 1, "conf": 0.9802139401435852, "hit": 1, "probs": [0.00046371776261366904, 0.9802139401435852, 0.018668418750166893, 0.0006539468886330724]}
+{"task": "email_priority", "idx": "2897bd6bf133c86e", "gold": 2, "pred": 2, "conf": 0.9814411401748657, "hit": 1, "probs": [0.001247389824129641, 0.014500430785119534, 0.9814411401748657, 0.0028110365383327007]}
+{"task": "email_priority", "idx": "4737ee3dc46c1f53", "gold": 0, "pred": 0, "conf": 0.9594992995262146, "hit": 1, "probs": [0.9594992995262146, 0.03823515400290489, 0.0020027807913720608, 0.0002627076755743474]}
+{"task": "email_priority", "idx": "87bb141a08cf6a76", "gold": 2, "pred": 2, "conf": 0.7901403307914734, "hit": 1, "probs": [0.016527457162737846, 0.026410799473524094, 0.7901403307914734, 0.16692140698432922]}
+{"task": "email_priority", "idx": "fd66dba932f16a99", "gold": 0, "pred": 0, "conf": 0.9997523427009583, "hit": 1, "probs": [0.9997523427009583, 0.00016863942437339574, 5.8280227676732466e-05, 2.078045508824289e-05]}
+{"task": "email_priority", "idx": "e855f35382929405", "gold": 0, "pred": 0, "conf": 0.9989013671875, "hit": 1, "probs": [0.9989013671875, 0.0008165076724253595, 0.000209696518140845, 7.246918539749458e-05]}
+{"task": "email_priority", "idx": "a3540a42c12c93e7", "gold": 0, "pred": 1, "conf": 0.9951474070549011, "hit": 0, "probs": [0.004262116272002459, 0.9951474070549011, 0.0004422592173796147, 0.00014813827874604613]}
+{"task": "email_priority", "idx": "77c9bb7877b713a4", "gold": 0, "pred": 0, "conf": 0.999855637550354, "hit": 1, "probs": [0.999855637550354, 9.027551277540624e-05, 3.882701275870204e-05, 1.5204876035568304e-05]}
+{"task": "email_priority", "idx": "67426ff17b3b5bc7", "gold": 1, "pred": 1, "conf": 0.9756869673728943, "hit": 1, "probs": [0.01705198734998703, 0.9756869673728943, 0.006998121272772551, 0.00026299816090613604]}
+{"task": "email_priority", "idx": "795ef2b8502b1dfe", "gold": 0, "pred": 0, "conf": 0.9997292160987854, "hit": 1, "probs": [0.9997292160987854, 0.00016344715550076216, 8.218639413826168e-05, 2.5065433874260634e-05]}
+{"task": "email_priority", "idx": "5185d0bf17928b2d", "gold": 1, "pred": 1, "conf": 0.9996179342269897, "hit": 1, "probs": [0.00010886717063840479, 0.9996179342269897, 0.00023778773902449757, 3.53439936588984e-05]}
+{"task": "email_priority", "idx": "fbf31369c2e8f7da", "gold": 0, "pred": 1, "conf": 0.983988344669342, "hit": 0, "probs": [0.0005793282762169838, 0.983988344669342, 0.015058258548378944, 0.00037404248723760247]}
+{"task": "email_priority", "idx": "d68175c93cc9aa0c", "gold": 0, "pred": 0, "conf": 0.8813121318817139, "hit": 1, "probs": [0.8813121318817139, 0.11381073296070099, 0.003804175416007638, 0.001073017017915845]}
+{"task": "email_priority", "idx": "9b62295c76991ad5", "gold": 1, "pred": 1, "conf": 0.998866081237793, "hit": 1, "probs": [0.0004725416947621852, 0.998866081237793, 0.000626016000751406, 3.531740730977617e-05]}
+{"task": "email_priority", "idx": "2c945f077f9a5e11", "gold": 1, "pred": 1, "conf": 0.9795549511909485, "hit": 1, "probs": [0.001220912323333323, 0.9795549511909485, 0.018802190199494362, 0.0004219359834678471]}
+{"task": "email_priority", "idx": "7a457a408b4a12c8", "gold": 1, "pred": 2, "conf": 0.9956983327865601, "hit": 0, "probs": [0.00035556196235120296, 0.003837613156065345, 0.9956983327865601, 0.00010844028292922303]}
+{"task": "email_priority", "idx": "1031d6a6b3191c95", "gold": 0, "pred": 1, "conf": 0.9729264378547668, "hit": 0, "probs": [0.026802940294146538, 0.9729264378547668, 0.0002042436826741323, 6.630821008002385e-05]}
+{"task": "email_priority", "idx": "0d35c39ac2c1a7af", "gold": 0, "pred": 1, "conf": 0.822196900844574, "hit": 0, "probs": [0.17471425235271454, 0.822196900844574, 0.0026999409310519695, 0.0003889633808284998]}
+{"task": "email_priority", "idx": "73b8835b1fc878b3", "gold": 2, "pred": 2, "conf": 0.9922739863395691, "hit": 1, "probs": [0.001480214181356132, 0.004023639019578695, 0.9922739863395691, 0.0022220646496862173]}
+{"task": "email_priority", "idx": "5dadb533e14f0f4b", "gold": 0, "pred": 0, "conf": 0.999783456325531, "hit": 1, "probs": [0.999783456325531, 0.0001313406100962311, 6.0132111684652045e-05, 2.5066792659345083e-05]}
+{"task": "email_priority", "idx": "950d1ba992d7533a", "gold": 0, "pred": 2, "conf": 0.9912502765655518, "hit": 0, "probs": [0.0006310261087492108, 0.007747766096144915, 0.9912502765655518, 0.00037096114829182625]}
+{"task": "email_priority", "idx": "01d96ea12853baf8", "gold": 0, "pred": 0, "conf": 0.9985840320587158, "hit": 1, "probs": [0.9985840320587158, 0.0010645885486155748, 0.00025684392312541604, 9.44876010180451e-05]}
+{"task": "email_priority", "idx": "9ceb7e7ce64f657d", "gold": 1, "pred": 1, "conf": 0.9358294606208801, "hit": 1, "probs": [0.00042244684300385416, 0.9358294606208801, 0.06318840384483337, 0.0005596511182375252]}
+{"task": "email_priority", "idx": "3e12f56d5af0dcae", "gold": 2, "pred": 1, "conf": 0.9022800922393799, "hit": 0, "probs": [0.0015491981757804751, 0.9022800922393799, 0.09435954689979553, 0.001811196212656796]}
+{"task": "email_priority", "idx": "ccc90849b699f789", "gold": 0, "pred": 0, "conf": 0.9997487664222717, "hit": 1, "probs": [0.9997487664222717, 0.00013133605534676462, 8.21879948489368e-05, 3.762840788112953e-05]}
+{"task": "email_priority", "idx": "5e9a1fb112573960", "gold": 1, "pred": 1, "conf": 0.9945080876350403, "hit": 1, "probs": [0.0001842426136136055, 0.9945080876350403, 0.005259630270302296, 4.806256401934661e-05]}
+{"task": "email_priority", "idx": "88e7ec2f6d11b18d", "gold": 0, "pred": 0, "conf": 0.9998412132263184, "hit": 1, "probs": [0.9998412132263184, 9.760969260241836e-05, 4.5392724132398143e-05, 1.5687306586187333e-05]}
+{"task": "email_priority", "idx": "5d5cfcbbcae2fc6d", "gold": 1, "pred": 1, "conf": 0.9995301961898804, "hit": 1, "probs": [0.00020982851856388152, 0.9995301961898804, 0.00021989838569425046, 4.0046470530796796e-05]}
+{"task": "email_priority", "idx": "4d861d2ea501bd4c", "gold": 1, "pred": 1, "conf": 0.9996312856674194, "hit": 1, "probs": [2.5062978238565847e-05, 0.9996312856674194, 0.0003199826751369983, 2.3544491341453977e-05]}
+{"task": "email_priority", "idx": "5fbf65ddc0310a9c", "gold": 1, "pred": 1, "conf": 0.999164342880249, "hit": 1, "probs": [0.0002303671935806051, 0.999164342880249, 0.0005613247049041092, 4.396634903969243e-05]}
+{"task": "email_priority", "idx": "2bf8067e298bb91d", "gold": 2, "pred": 2, "conf": 0.9910848736763, "hit": 1, "probs": [0.00037089927354827523, 0.007567026186734438, 0.9910848736763, 0.0009771895129233599]}
+{"task": "email_priority", "idx": "079cac2423627c30", "gold": 1, "pred": 1, "conf": 0.9996927976608276, "hit": 1, "probs": [0.00010718736302806064, 0.9996927976608276, 0.0001852031418820843, 1.4734670003235806e-05]}
+{"task": "email_priority", "idx": "735ca11e749e343c", "gold": 0, "pred": 0, "conf": 0.9997071623802185, "hit": 1, "probs": [0.9997071623802185, 0.00017672461399342865, 7.965601980686188e-05, 3.64691877621226e-05]}
+{"task": "email_priority", "idx": "11319700cdd711e4", "gold": 0, "pred": 1, "conf": 0.9983941912651062, "hit": 0, "probs": [0.0012939643347635865, 0.9983941912651062, 0.0002776617184281349, 3.421463770791888e-05]}
+{"task": "email_priority", "idx": "4a477112cdc9d398", "gold": 1, "pred": 1, "conf": 0.8811637163162231, "hit": 1, "probs": [0.03376837447285652, 0.8811637163162231, 0.07375691086053848, 0.01131098810583353]}
+{"task": "email_priority", "idx": "8d3c90bdbd0c0731", "gold": 1, "pred": 1, "conf": 0.990916907787323, "hit": 1, "probs": [0.008776416070759296, 0.990916907787323, 0.00024320045486092567, 6.344262510538101e-05]}
+{"task": "email_priority", "idx": "70d9ebb1f4420fc8", "gold": 2, "pred": 2, "conf": 0.9612838625907898, "hit": 1, "probs": [0.0022915012668818235, 0.03420364484190941, 0.9612838625907898, 0.002220999216660857]}
+{"task": "email_priority", "idx": "5799930eb7176302", "gold": 2, "pred": 2, "conf": 0.9993265867233276, "hit": 1, "probs": [8.609591168351471e-05, 0.0001071480946848169, 0.9993265867233276, 0.00048020444228313863]}
+{"task": "email_priority", "idx": "483c70ec4e02fb40", "gold": 0, "pred": 0, "conf": 0.9994066953659058, "hit": 1, "probs": [0.9994066953659058, 0.00040440508746542037, 0.0001487723202444613, 4.004152287961915e-05]}
+{"task": "email_priority", "idx": "55ed4c9981076645", "gold": 1, "pred": 2, "conf": 0.9848896861076355, "hit": 0, "probs": [0.000553305319044739, 0.014269932173192501, 0.9848896861076355, 0.0002870510215871036]}
+{"task": "email_priority", "idx": "9aad5a89ea9b06e8", "gold": 2, "pred": 2, "conf": 0.9915946125984192, "hit": 1, "probs": [0.0005399327492341399, 0.007690142840147018, 0.9915946125984192, 0.00017529050819575787]}
+{"task": "email_priority", "idx": "e343f3726119de5e", "gold": 0, "pred": 0, "conf": 0.9997729659080505, "hit": 1, "probs": [0.9997729659080505, 0.00014882683171890676, 5.475033321999945e-05, 2.354782736802008e-05]}
+{"task": "email_priority", "idx": "c8c946e1b6276f27", "gold": 2, "pred": 1, "conf": 0.9988330006599426, "hit": 0, "probs": [0.0007550944574177265, 0.9988330006599426, 0.0003917378489859402, 2.012258664763067e-05]}
+{"task": "email_priority", "idx": "0345d659f60288e5", "gold": 1, "pred": 1, "conf": 0.9985061287879944, "hit": 1, "probs": [5.299860640661791e-05, 0.9985061287879944, 0.001421301276423037, 1.949709803739097e-05]}
+{"task": "email_priority", "idx": "b7edcc345dfec90c", "gold": 2, "pred": 1, "conf": 0.6000199317932129, "hit": 0, "probs": [0.0072637805715203285, 0.6000199317932129, 0.3874019980430603, 0.0053142947144806385]}
+{"task": "email_priority", "idx": "ab57f31e2cda75e5", "gold": 2, "pred": 0, "conf": 0.9994712471961975, "hit": 0, "probs": [0.9994712471961975, 0.000379927980247885, 0.00011230649397475645, 3.646058030426502e-05]}
+{"task": "email_priority", "idx": "12a3c594bf3b10e4", "gold": 1, "pred": 1, "conf": 0.9996104836463928, "hit": 1, "probs": [0.0001971314923139289, 0.9996104836463928, 0.0001535261544631794, 3.881749216816388e-05]}
+{"task": "email_priority", "idx": "04f5097f4180e2d2", "gold": 0, "pred": 0, "conf": 0.9997852444648743, "hit": 1, "probs": [0.9997852444648743, 0.00012930459342896938, 6.401041173376143e-05, 2.144080281141214e-05]}
+{"task": "email_priority", "idx": "4768d862e103f446", "gold": 1, "pred": 2, "conf": 0.9432807564735413, "hit": 0, "probs": [0.005565302912145853, 0.04883398860692978, 0.9432807564735413, 0.002319963416084647]}
+{"task": "email_priority", "idx": "5006cfe4eb20489c", "gold": 0, "pred": 0, "conf": 0.9996829032897949, "hit": 1, "probs": [0.9996829032897949, 0.0002002503752009943, 9.025991312228143e-05, 2.6680780138121918e-05]}
+{"task": "email_priority", "idx": "98309e38784009c5", "gold": 1, "pred": 1, "conf": 0.9997091889381409, "hit": 1, "probs": [3.646926052169874e-05, 0.9997091889381409, 0.0002341225481359288, 2.0140238120802678e-05]}
+{"task": "email_priority", "idx": "9f2ddfb91f18be96", "gold": 0, "pred": 0, "conf": 0.9996869564056396, "hit": 1, "probs": [0.9996869564056396, 0.0002002511901082471, 7.965441182022914e-05, 3.320489850011654e-05]}
+{"task": "email_priority", "idx": "0bf2fc7ae37019b8", "gold": 0, "pred": 0, "conf": 0.9836751818656921, "hit": 1, "probs": [0.9836751818656921, 0.014704752713441849, 0.001284886966459453, 0.0003351827908772975]}
+{"task": "email_priority", "idx": "8361886ebf6274b1", "gold": 1, "pred": 1, "conf": 0.9267486333847046, "hit": 1, "probs": [0.062088288366794586, 0.9267486333847046, 0.009228600189089775, 0.0019344196189194918]}
+{"task": "email_priority", "idx": "a4655b08a2ef2cce", "gold": 1, "pred": 1, "conf": 0.9991412162780762, "hit": 1, "probs": [0.00026932029868476093, 0.9991412162780762, 0.0005440419772639871, 4.536094274953939e-05]}
+{"task": "email_priority", "idx": "ed1c340904dba4bd", "gold": 0, "pred": 0, "conf": 0.6176638603210449, "hit": 1, "probs": [0.6176638603210449, 0.20851415395736694, 0.1433095484972, 0.030512364581227303]}
+{"task": "email_priority", "idx": "373c85a500937f2e", "gold": 0, "pred": 0, "conf": 0.8285784125328064, "hit": 1, "probs": [0.8285784125328064, 0.16998787224292755, 0.0010655184742063284, 0.0003682333044707775]}
+{"task": "email_priority", "idx": "40824779d4df9830", "gold": 1, "pred": 1, "conf": 0.9997865557670593, "hit": 1, "probs": [2.9306140277185477e-05, 0.9997865557670593, 0.00017399857460986823, 1.0127930181624833e-05]}
+{"task": "email_priority", "idx": "852807493a2642f2", "gold": 2, "pred": 2, "conf": 0.9987851977348328, "hit": 1, "probs": [0.00018794888455886394, 0.00041051808511838317, 0.9987851977348328, 0.0006162606296129525]}
+{"task": "email_priority", "idx": "5ac4477024f2df6a", "gold": 2, "pred": 2, "conf": 0.9990242719650269, "hit": 1, "probs": [0.00012920617882627994, 0.0003512187977321446, 0.9990242719650269, 0.000495297834277153]}
+{"task": "email_priority", "idx": "59515254378d1ccc", "gold": 1, "pred": 2, "conf": 0.9997822642326355, "hit": 0, "probs": [3.4262204280821607e-05, 0.00011958683171542361, 0.9997822642326355, 6.401022255886346e-05]}
+{"task": "email_priority", "idx": "45ed2ffe723181e9", "gold": 1, "pred": 1, "conf": 0.9996809959411621, "hit": 1, "probs": [0.00011233006080146879, 0.9996809959411621, 0.00018520095909480006, 2.1438567273435183e-05]}
+{"task": "email_priority", "idx": "f8b02d466de54d6e", "gold": 0, "pred": 0, "conf": 0.9997244477272034, "hit": 1, "probs": [0.9997244477272034, 0.00014424091205000877, 9.91352426353842e-05, 3.218450365238823e-05]}
+{"task": "email_priority", "idx": "f0e12291027bc17f", "gold": 0, "pred": 1, "conf": 0.5733429193496704, "hit": 0, "probs": [0.42607223987579346, 0.5733429193496704, 0.0004911448922939599, 9.373664215672761e-05]}
+{"task": "email_priority", "idx": "2bf8e35f82e3c933", "gold": 0, "pred": 0, "conf": 0.9997817873954773, "hit": 1, "probs": [0.9997817873954773, 0.00013981111987959594, 5.8281941164750606e-05, 2.014170058828313e-05]}
+{"task": "email_priority", "idx": "b04f402f07eab0f3", "gold": 2, "pred": 2, "conf": 0.9998888969421387, "hit": 1, "probs": [2.1443025616463274e-05, 2.1443025616463274e-05, 0.9998888969421387, 6.814578955527395e-05]}
+{"task": "email_priority", "idx": "4a91826b31320c67", "gold": 2, "pred": 2, "conf": 0.9993669390678406, "hit": 1, "probs": [0.00011229477240704, 0.000430469837738201, 0.9993669390678406, 9.023138409247622e-05]}
+{"task": "email_priority", "idx": "6cf6abe331ae2058", "gold": 0, "pred": 0, "conf": 0.9941831231117249, "hit": 1, "probs": [0.9941831231117249, 0.004676483571529388, 0.0008925225120037794, 0.00024784455308690667]}
+{"task": "email_priority", "idx": "63802caafc166329", "gold": 2, "pred": 1, "conf": 0.7848035097122192, "hit": 0, "probs": [0.0017851382726803422, 0.7848035097122192, 0.21288366615772247, 0.0005276858573779464]}
+{"task": "email_priority", "idx": "f422d3f9e76cd60c", "gold": 2, "pred": 2, "conf": 0.9989954829216003, "hit": 1, "probs": [0.00011225303751416504, 0.0003567393869161606, 0.9989954829216003, 0.0005355292814783752]}
+{"task": "email_priority", "idx": "e50053eb2ad04726", "gold": 1, "pred": 1, "conf": 0.9994569420814514, "hit": 1, "probs": [0.0004172632470726967, 0.9994569420814514, 9.910871449392289e-05, 2.6674750188249163e-05]}
+{"task": "email_priority", "idx": "28db4c5817c51c5b", "gold": 2, "pred": 2, "conf": 0.9920774102210999, "hit": 1, "probs": [9.535020217299461e-05, 0.007769391406327486, 0.9920774102210999, 5.783282176707871e-05]}
+{"task": "email_priority", "idx": "2f179384e038bb55", "gold": 0, "pred": 0, "conf": 0.9998103976249695, "hit": 1, "probs": [0.9998103976249695, 0.00011411376908654347, 5.8283607359044254e-05, 1.7228603610419668e-05]}
+{"task": "email_priority", "idx": "70dd3b4aae8d5f39", "gold": 2, "pred": 2, "conf": 0.9979683756828308, "hit": 1, "probs": [8.597889973316342e-05, 7.828467641957104e-05, 0.9979683756828308, 0.0018672591540962458]}
+{"task": "email_priority", "idx": "78073323ea755c68", "gold": 0, "pred": 0, "conf": 0.9997029900550842, "hit": 1, "probs": [0.9997029900550842, 0.0002165266196243465, 6.203591328812763e-05, 1.833778151194565e-05]}
+{"task": "email_priority", "idx": "0e27ca1153050731", "gold": 1, "pred": 1, "conf": 0.5194513201713562, "hit": 1, "probs": [0.0021774701308459044, 0.5194513201713562, 0.4766753315925598, 0.0016958154737949371]}
+{"task": "email_priority", "idx": "f66b391da298ae03", "gold": 2, "pred": 2, "conf": 0.9995125532150269, "hit": 1, "probs": [3.7619516660925e-05, 4.537780114333145e-05, 0.9995125532150269, 0.0004044479283038527]}
+{"task": "email_priority", "idx": "93371176a434e4a3", "gold": 1, "pred": 1, "conf": 0.9992724061012268, "hit": 1, "probs": [0.00036816555075347424, 0.9992724061012268, 0.00034049744135700166, 1.8911736333393492e-05]}
+{"task": "email_priority", "idx": "a77fd5cc52bd7b11", "gold": 1, "pred": 0, "conf": 0.5805850028991699, "hit": 0, "probs": [0.5805850028991699, 0.4181797206401825, 0.0009890962392091751, 0.00024620548356324434]}
+{"task": "email_priority", "idx": "98a6d74b14d887ef", "gold": 0, "pred": 0, "conf": 0.999646782875061, "hit": 1, "probs": [0.999646782875061, 0.0002694565919227898, 6.0123893490526825e-05, 2.3544855139334686e-05]}
+{"task": "email_priority", "idx": "156e66366464d4e8", "gold": 1, "pred": 1, "conf": 0.844153106212616, "hit": 1, "probs": [0.0012992295669391751, 0.844153106212616, 0.1525353491306305, 0.0020122858695685863]}
+{"task": "email_priority", "idx": "b2910fbf95bcf2ea", "gold": 0, "pred": 1, "conf": 0.9573720693588257, "hit": 0, "probs": [0.03741249069571495, 0.9573720693588257, 0.003646907629445195, 0.0015685154357925057]}
+{"task": "email_priority", "idx": "a71eeed9018e398f", "gold": 1, "pred": 2, "conf": 0.7617237567901611, "hit": 0, "probs": [0.0009643595549277961, 0.23631693422794342, 0.7617237567901611, 0.0009949717205017805]}
+{"task": "email_priority", "idx": "9f7a140e4d94dd29", "gold": 0, "pred": 0, "conf": 0.7547056674957275, "hit": 1, "probs": [0.7547056674957275, 0.23425398766994476, 0.008270177990198135, 0.0027701626531779766]}
+{"task": "email_priority", "idx": "00ed8402a46bbd44", "gold": 0, "pred": 0, "conf": 0.9998502731323242, "hit": 1, "probs": [0.9998502731323242, 9.60972611210309e-05, 3.8826805393910035e-05, 1.4736991943209432e-05]}
+{"task": "email_priority", "idx": "9163f9803c6538bf", "gold": 0, "pred": 0, "conf": 0.9998413324356079, "hit": 1, "probs": [0.9998413324356079, 0.00010070816642837599, 4.2642517655622214e-05, 1.5204657756839879e-05]}
+{"task": "email_priority", "idx": "e5e2a0a1729df39b", "gold": 0, "pred": 0, "conf": 0.9973832964897156, "hit": 1, "probs": [0.9973832964897156, 0.0024149962700903416, 0.0001630636106710881, 3.873100649798289e-05]}
